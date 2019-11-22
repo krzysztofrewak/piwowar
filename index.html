@@ -1,0 +1,111 @@
+<html lang="pl">
+    <head>
+        <title>Przeglądarka magazynu Piwowar</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"></script>
+        <style>
+            a { color: inherit; }
+            #about { margin-top: 2em; }
+            .container { margin: 5em 0 !important; }
+            .cover { width: 12px; }
+            .icons { opacity: .7; }
+            .icons > a { margin-right: .5em; }
+        </style>
+    </head>
+    <body>
+        <div id="browser">
+            <div class="ui centered secondary one item menu" :style="getBackgroundLabel(background)">
+                <img src="./assets/header.png" alt="Przeglądarka magazynu Piwowar">
+            </div>
+            <div class="ui container basic segment">
+                <div class="ui right dividing rail">
+                    <div id="about">
+                        <p><strong>Przeglądarka magazynu Piwowar</strong> jest narzędziem indeksującym artykuły
+                            ukazujące się na łamach kwartalnika Piwowar wydawanego przez Polskie Stowarzyszenie
+                            Piwowarów Domowych.
+                        </p>
+                        <p>
+                            Celem jest uproszczenie etapu szukania artykułu: poprzez wpisanie tytułu, nazwiska autora,
+                            nazwy sekcji czy słów kluczowych można odnaleźć wszystkie artykuły (wraz z numerem magazynu
+                            oraz stroną) spełniające zadany zakres poszukiwań.
+                        </p>
+                        <p>
+                            Przeglądarka nie zawiera części ani całości treści artykułów i należy z niej korzystać
+                            jako z pomocy ułatwiającej nawigowanie przez własny zbiór czasopism. Kwartalnik Piwowar
+                            można zamówić na <a href="http://www.pspd.org.pl/piwowar" target="_blank">stronie PSPD</a>.
+                        </p>
+                        <p>
+                            Autor aplikacji:
+                            <a href="https://github.com/krzysztofrewak" target="_blank">Krzysztof Rewak</a>.
+                        </p>
+                        <p class="icons">
+                            <a href="https://github.com/krzysztofrewak/piwowar/blob/master/licence" target="_blank">
+                                <i class="large balance scale icon"></i>
+                            </a>
+                            <a href="https://github.com/krzysztofrewak/piwowar" target="_blank">
+                                <i class="large github icon"></i>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <table class="ui very basic selectable striped table" v-if="!loading">
+                    <thead>
+                        <tr>
+                            <th class="collapsing"></th>
+                            <th class="collapsing">#</th>
+                            <th>tytuł artykułu</th>
+                            <th>sekcja</th>
+                            <th>autorzy</th>
+                            <th>strona</th>
+                        </tr>
+                    </thead>
+                    <tbody v-for="n in 55">
+                        <tr v-for="article in articles">
+                            <td class="collapsing cover" :style="getBackgroundLabel(article.color)"></td>
+                            <td class="collapsing">{{ article.issue }}</td>
+                            <td>{{ article.title }}</td>
+                            <td>{{ article.section }}</td>
+                            <td>{{ article.authors }}</td>
+                            <td>{{ article.page }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+    <script>
+        new Vue({
+            el: "#browser",
+            data() {
+                return {
+                    loading: true,
+                    background: "",
+                    articles: [],
+                    authors: [],
+                }
+            },
+            mounted() {
+                fetch("./data/articles.json").then(response => response.json()).then(articles => {
+                    for (let article of articles) {
+                        this.articles.push(article)
+                    }
+                    this.loading = false
+                })
+                fetch("./data/authors.json").then(response => response.json()).then(authors => {
+                    for (let author of authors) {
+                        this.authors.push(author)
+                    }
+                })
+                fetch("./data/colors.json").then(response => response.json()).then(colors => {
+                    this.background = colors[Math.floor(Math.random() * colors.length)]
+                })
+            },
+            methods: {
+                getBackgroundLabel(color) {
+                    return "background: " + color + " !important;"
+                }
+            }
+        })
+    </script>
+</html>
