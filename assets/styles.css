@@ -1,0 +1,8 @@
+a { color: inherit; }
+
+.container { margin: 3em 0 !important; }
+.cover { width: 12px; }
+.rail { padding-top: 5em !important; opacity: .7; }
+
+.icons { opacity: .7; }
+.icons > a { margin-right: .5em; }
