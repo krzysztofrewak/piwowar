@@ -4,16 +4,25 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
 		<link rel="stylesheet" href="./assets/styles.css">
+		<link rel="shortcut icon" href="./assets/favicon.ico">
+		<link rel="icon" href="./assets/favicon.ico" type="image/x-icon">
 	</head>
 
 	<body>
 		<div id="browser">
-			<div class="ui centered secondary one item menu" :style="getBackgroundLabel(background)">
+			<div id="menu" class="ui centered secondary one item menu" :style="getBackgroundLabel(background)">
+				<button class="ui basic icon button" @click.prevent="showMenu = !showMenu">
+					<i class="big settings icon"></i>
+				</button>
 				<img src="./assets/header.png" alt="Przeglądarka magazynu Piwowar">
+				<button class="ui basic icon button" @click.prevent="showAbout = !showAbout">
+					<i class="big question mark outline circle icon"></i>
+				</button>
 			</div>
 
 			<div class="ui container basic segment">
-                <div class="ui left dividing rail">
+				<div class="cover" v-if="showMenu || showAbout" @click="resetView()"></div>
+                <div class="ui left dividing rail" :class="{ show: showMenu }">
 	                <div class="form">
 		                <div class="label">Przeszukaj tytuły artykułów:</div>
 		                <label class="ui fluid icon input">
@@ -61,7 +70,7 @@
 		                </div>
 	                </div>
                 </div>
-                <div class="ui right dividing rail">
+				<div class="ui right dividing rail" :class="{ show: showAbout }">
                     <p>
                         <strong>Przeglądarka magazynu Piwowar</strong> jest narzędziem indeksującym
                         artykuły ukazujące się na łamach kwartalnika Piwowar wydawanego przez Polskie
@@ -91,7 +100,7 @@
                     </p>
 				</div>
 
-				<table class="ui very basic selectable striped table" v-if="!loading">
+				<table class="ui very basic unstackable selectable striped table" v-if="!loading">
 					<thead>
 						<tr>
 							<th class="collapsing"></th>

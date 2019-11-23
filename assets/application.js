@@ -12,6 +12,8 @@ new Vue({
 			searchedSection: "",
 			searchedAuthorName: "",
 			showMoreAuthors: false,
+			showMenu: false,
+			showAbout: false,
 		}
 	},
 	computed: {
@@ -69,5 +71,9 @@ new Vue({
 				this.searchedAuthorName = author
 			}
 		},
+		resetView() {
+			this.showMenu = false
+			this.showAbout = false
+		}
 	},
 })

@@ -8,3 +8,15 @@ a { color: inherit; }
 .icons { opacity: .7; }
 .icons > a { margin-right: .5em; }
 .clickable { cursor: pointer; }
+.cover { cursor: pointer; position: fixed; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, .75); z-index: 30; }
+
+#menu > button { display: none; border: none; box-shadow: none; color: White !important; }
+#menu > button:hover, #menu > button:visited, #menu > button:active { background: rgba(255, 255, 255, 0.1) !important; }
+
+@media only screen and (max-width: 1900px) {
+    #menu > button { display: block; }
+    .rail { display: none; }
+    .show { z-index: 45; display: block; position: fixed !important; padding: 2em !important; opacity: 1; background: White; }
+    .show.left { left: 0 !important; right: auto !important; }
+    .show.right { right: 0 !important; left: auto !important; }
+}
