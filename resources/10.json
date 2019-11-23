@@ -1,0 +1,269 @@
+{
+	"issue": 10,
+	"color": "#79A52A",
+	"articles": [
+		{
+			"title": "Słowo prezesa",
+			"section": "Stowarzyszenie",
+			"page": 1,
+			"tags": [
+				"PSPD"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Walne zebranie sprawozdawczo-wyborcze PSPD",
+			"section": "Stowarzyszenie",
+			"page": 2,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Rafał Wasilewski"
+			]
+		},
+		{
+			"title": "Kalendarium (luty-kwiecień 2013)",
+			"section": "Wypatrzyliśmy",
+			"page": 4,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "PSPD ma nowy oddział!",
+			"section": "Wydarzenia",
+			"page": 6,
+			"tags": [
+				"Szczecin",
+				"Zachodniopomorski Oddział Terenowy"
+			],
+			"authors": [
+				"Miciej Piaszczyński"
+			]
+		},
+		{
+			"title": "Piwowarzy domowi na dworze króla Jana Olbrachta",
+			"section": "Wydarzenia",
+			"page": 7,
+			"tags": [
+				"browar restauracyjne Jan Olbracht",
+				"Toruń"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Jak zostać sędzią BJCP?",
+			"section": "Wydarzenia",
+			"page": 10,
+			"tags": [
+				"egzaminy",
+				"sędziowanie",
+				"konkursy"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Ciemna strona pszenicy",
+			"section": "Piwo wiosny",
+			"page": 13,
+			"tags": [
+				"pszeniczne",
+				"weizen",
+				"historia",
+				"receptura",
+				"dunkelweizen",
+				"Dunken Hefe-Jedi",
+				"klon",
+				"zacieranie",
+				"fermentacja",
+				"weizenbock",
+				"koźlak pszeniczny",
+				"drożdże",
+				"przerwy",
+				"przerwa białkowa",
+				"przerwa maltozowa",
+				"przerwa ferulikowa"
+			],
+			"authors": [
+				"Łukasz Kojro"
+			]
+		},
+		{
+			"title": "Opis stylów piwa według PSPD (część 1)",
+			"section": "Niezbędnik",
+			"page": 17,
+			"tags": [
+				"jasne lekkie",
+				"pils niemiecki",
+				"kellerbier",
+				"piwo piwniczne",
+				"monachijskie ciemne",
+				"polotmave",
+				"półciemne",
+				"koźlak",
+				"Rauchbock",
+				"koźlak wędzony",
+				""
+			],
+			"authors": [
+				"Jacek Materski"
+			]
+		},
+		{
+			"title": "Słownik - litera A",
+			"section": "Słownik piwowarski",
+			"page": 20,
+			"tags": [
+				"acetaldehyd",
+				"ale",
+				"alfa-amylaza"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Odwrotna dekokcja",
+			"section": "Niezbędnik",
+			"page": 22,
+			"tags": [
+				"zacieranie",
+				"Weizen",
+				"słody"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Oj, chmielu, chmielu (część 4)",
+			"section": "Niezbędnik",
+			"page": 25,
+			"tags": [
+				"chmielenie",
+				"warzenie",
+				"chmielenie na zimno",
+				"dry hopping",
+				"woreczek",
+				"randall",
+				"infuzer",
+				"szyszka",
+				"granulat",
+				"torpeda",
+				"efekty uboczne"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Piwowarstwo historyczne, czyli archeolog w browarze",
+			"section": "Historia",
+			"page": 28,
+			"tags": [
+				"Warmia"
+			],
+			"authors": [
+				"Sławomir Dryja"
+			]
+		},
+		{
+			"title": "Od leśnego zameczku do Kormorana, czyli historia olsztyńskiego piwowarstwa",
+			"section": "Historia",
+			"page": 30,
+			"tags": [
+				"Warmia",
+				"Olsztyn",
+				"browar Kormoran"
+			],
+			"authors": [
+				"Daniej Duda",
+				"Maciej Duda"
+			]
+		},
+		{
+			"title": "10. Zythos Bier Festival",
+			"section": "Ze świata",
+			"page": 32,
+			"tags": [
+				"Leuven",
+				"Belgia",
+				"festiwal",
+				"relacja"
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Lengyel, Magyar",
+			"section": "Ze świata",
+			"page": 33,
+			"tags": [
+				"Węgry",
+				"konkurs"
+			],
+			"authors": [
+				"Rafał Kowalczyk"
+			]
+		},
+		{
+			"title": "Japonia jak marzenie",
+			"section": "Ze świata",
+			"page": 35,
+			"tags": [
+				"prawo",
+				"historia",
+				"multitap"
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Biblioteczka piwowara - \"The Brewmaster's Bible\"",
+			"section": "Recenzja",
+			"page": 38,
+			"tags": [
+				"Stephen Snyder"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Na Piwnej dobrze warzą!",
+			"section": "W browarze",
+			"page": 39,
+			"tags": [
+				"Browar Piwna",
+				"Gdańsk",
+				"browar restauracyjny"
+			],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "Trzy lata minęły jak...",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"felieton"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

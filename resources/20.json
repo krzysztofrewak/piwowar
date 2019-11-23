@@ -1,0 +1,318 @@
+{
+	"issue": 20,
+	"color": "#85151C",
+	"articles": [
+		{
+			"title": "W przededniu zmian",
+			"section": "Wokół stowarzyszenia",
+			"page": 1,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Kalendarium 2015 (październik-grudzień)",
+			"section": "Kalendarium",
+			"page": 2,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "WFP ciągle rośnie",
+			"section": "Festiwale",
+			"page": 4,
+			"tags": [
+				"Warszawski Festiwal Piwa"
+			],
+			"authors": [
+				"Artur Napiórkowski"
+			]
+		},
+		{
+			"title": "Rozmowa z Łukaszem Kubickim",
+			"section": "Wywiady",
+			"page": 5,
+			"tags": [
+				"receptura",
+				"barley wine"
+			],
+			"authors": [
+				"Artur Napiórkowski"
+			]
+		},
+		{
+			"title": "Jak to się robi w Norwegii",
+			"section": "W Europie",
+			"page": 6,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "X Kurs Sędziowski - zapowiedź zmian",
+			"section": "Wokół PSPD",
+			"page": 8,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Przemek Iwanek"
+			]
+		},
+		{
+			"title": "Jak odczuwamy smak i zapach, cz. II",
+			"section": "Sensoryka",
+			"page": 9,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Piwo i kolorowe jarmarki",
+			"section": "Festiwale",
+			"page": 10,
+			"tags": [
+				"Lublin",
+				"Lubelskie Targi Piw Rzemieślnicznych"
+			],
+			"authors": [
+				"Artur Napiórkowski"
+			]
+		},
+		{
+			"title": "Poznańskie Targi Piwne",
+			"section": "Festiwale",
+			"page": 11,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Maciej Hus"
+			]
+		},
+		{
+			"title": "Chmielenie na zimno",
+			"section": "Technologia",
+			"page": 12,
+			"tags": [
+				"gatunki",
+				"szyszka",
+				"granulat",
+				"temperatura",
+				"czas",
+				"ilość",
+				"burzliwa",
+				"cicha"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Piwa kwaśne, czyli trudne łatwego początki",
+			"section": "Temat numeru",
+			"page": 14,
+			"tags": [
+				"starter bakteryjny",
+				"bakterie",
+				"lactobacillus",
+				"temperatura",
+				"kwaszenie",
+				"warunki beztlenowe",
+				"receptura",
+				"Berliner Weisse",
+				"sour APA"
+			],
+			"authors": [
+				"Paweł Masłowski"
+			]
+		},
+		{
+			"title": "Słownik - litera H",
+			"section": "Słownik piwowarski",
+			"page": 19,
+			"tags": [
+				"heksanian etylu",
+				"hemicelulozy",
+				"hgb",
+				"high gravity brewing",
+				"humulony",
+				"hydroliza"
+			],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Kwaśne klimaty",
+			"section": "Technologia",
+			"page": 20,
+			"tags": [
+				"Lichtenhainer",
+				"Weizen",
+				"Berliner Weisse",
+				"mezofile",
+				"termofile",
+				"piana",
+				"uboczne produkty fermentacji"
+			],
+			"authors": [
+				"Michał \"Kordas\" Kordek"
+			]
+		},
+		{
+			"title": "Piwowarzy na krańcu Mazowsza",
+			"section": "W terenie",
+			"page": 23,
+			"tags": [
+				"Żyrardów",
+				"BeerBros",
+				"browar",
+				"Hopium"
+			],
+			"authors": [
+				"Magdalena Smoktunowicz",
+				"Aleksander Hurko"
+			]
+		},
+		{
+			"title": "Russian Imperial Stout",
+			"section": "Piwo numeru",
+			"page": 24,
+			"tags": [
+				"RIS",
+				"receptura"
+			],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Chmiel Tomyski - historia nieznana",
+			"section": "Historia",
+			"page": 26,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Maciej Hus"
+			]
+		},
+		{
+			"title": "Browar Lubicz, czyli piwowarska reinkarnacja",
+			"section": "Z wizytą w browarze",
+			"page": 29,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "Brussels Beer Challenge 2015",
+			"section": "Europa",
+			"page": 30,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Etykiety piwne",
+			"section": "Kolekcjonerstwo",
+			"page": 32,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Michał Grossmann"
+			]
+		},
+		{
+			"title": "Hiszpańskiego piwa początki",
+			"section": "Biblioteczka piwowara",
+			"page": 34,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "\"The People's Brewer\"",
+			"section": "Biblioteczka piwowara",
+			"page": 35,
+			"tags": [
+				"Bryggier for Folke",
+				"Anna-Lise Bjerager"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Jak oswoić dzikusa",
+			"section": "Technologia",
+			"page": 36,
+			"tags": [
+				"Brettanomyces",
+				"100% Brett",
+				"bakterie",
+				"fermentacja"
+			],
+			"authors": [
+				"Bartosz Markowski"
+			]
+		},
+		{
+			"title": "Piwa bezglutenowe",
+			"section": "Trendy rynkowe",
+			"page": 38,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Kuba Piesio"
+			]
+		},
+		{
+			"title": "Siódmy Grand Champion",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"felieton"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Miał być zlot, wyszło sympozjum",
+			"section": "Edukacja zawodowa",
+			"page": 41,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Maciej Piaszczyński"
+			]
+		}
+	]
+}

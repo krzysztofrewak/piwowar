@@ -1,0 +1,194 @@
+{
+	"issue": "24",
+	"color": "#74AC49",
+	"articles": [
+		{
+			"title": "Lepsi ze swojemu płakać, niż z cudzemi skakać",
+			"section": "Wokół Stowarzyszenia",
+			"page": "1",
+			"tags": [],
+			"authors": [
+				"Michał Jaskólski"
+			]
+		},
+		{
+			"title": "Co delegaci uradzili?",
+			"section": "Sprawy PSPD",
+			"page": "2",
+			"tags": [],
+			"authors": [
+				"Michał Jaskólski"
+			]
+		},
+		{
+			"title": "New England IPA - najnowszy trend",
+			"section": "Piwne style",
+			"page": "4",
+			"tags": [],
+			"authors": [
+				"Adam Szewczyk"
+			]
+		},
+		{
+			"title": "Norweski piwa wiejskie",
+			"section": "Piwne style",
+			"page": "6",
+			"tags": [],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Piwo w Kolumbii Brytyjskiej",
+			"section": "Podróże",
+			"page": "8",
+			"tags": [],
+			"authors": [
+				"Maciej Ostasiewicz"
+			]
+		},
+		{
+			"title": "Brugia - 10 lat najprzyjemniejszego piwnego festiwalu w Europie",
+			"section": "Festiwale",
+			"page": "10",
+			"tags": [],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Porter - duma angielskiego piwowarstwa",
+			"section": "Piwo numeru",
+			"page": "12",
+			"tags": [],
+			"authors": [
+				"Dorota Chrapek",
+				"Maciej Hus"
+			]
+		},
+		{
+			"title": "Słownik - litera M",
+			"section": "Słownik piwowarski",
+			"page": "17",
+			"tags": [],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "O estrach i nie tylko",
+			"section": "Technologia",
+			"page": "18",
+			"tags": [],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Beer science, czyli doniesienia ze świata nauki",
+			"section": "Nauka",
+			"page": "21",
+			"tags": [],
+			"authors": [
+				"Marcin Ostajewski"
+			]
+		},
+		{
+			"title": "Kultura piwa",
+			"section": "Wydarzenia",
+			"page": "22",
+			"tags": [],
+			"authors": []
+		},
+		{
+			"title": "Marketing jest najważniejszy!",
+			"section": "Marketing",
+			"page": "24",
+			"tags": [],
+			"authors": [
+				"Jurek Gibadło"
+			]
+		},
+		{
+			"title": "Do Krakowa powraca \"Smocza Głowa\"",
+			"section": "Wydarzenia",
+			"page": "26",
+			"tags": [],
+			"authors": [
+				"Tomasz Tekielak"
+			]
+		},
+		{
+			"title": "Browar Złoty Pies - restauracyjny rzemieślnik? ",
+			"section": "Z wizytą w browarze",
+			"page": "27",
+			"tags": [],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "Heksagram nad piwem",
+			"section": "Historia",
+			"page": "28",
+			"tags": [],
+			"authors": [
+				"Radosław Kotarski"
+			]
+		},
+		{
+			"title": "Antoni Thum - piwowar o wielkim sercu",
+			"section": "Historia",
+			"page": "30",
+			"tags": [],
+			"authors": [
+				"Maciej Hus"
+			]
+		},
+		{
+			"title": "Technologia piwowarstwa. Czy warto? ",
+			"section": "Edukacja",
+			"page": "33",
+			"tags": [],
+			"authors": [
+				"Rafał Łopusiński"
+			]
+		},
+		{
+			"title": "Business for Punks",
+			"section": "Biblioteczka piwowara",
+			"page": "35",
+			"tags": [],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Hiszpańskie Stowarzyszenie Piwowarów Domowych ",
+			"section": "Piwna Europa",
+			"page": "37",
+			"tags": [],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Made in Bamberg - golonka i piwo dymione",
+			"section": "Podróże",
+			"page": "38",
+			"tags": [],
+			"authors": [
+				"Krzysztof Żurawski"
+			]
+		},
+		{
+			"title": "Zrób sobie \"sztosa\"! ",
+			"section": "1000 IBU",
+			"page": "40",
+			"tags": [],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

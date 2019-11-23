@@ -1,0 +1,319 @@
+{
+	"issue": 22,
+	"color": "#EBBE33",
+	"articles": [
+		{
+			"title": "Ręce pełne roboty",
+			"section": "Wokół stowarzyszenia",
+			"page": 1,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Michał Jaskólski"
+			]
+		},
+		{
+			"title": "Quo vadis WFDP?",
+			"section": "Festiwale",
+			"page": 2,
+			"tags": [
+				"Wrocław",
+				"Wrocławski Festiwal Dobrego Piwa",
+				"relacja"
+			],
+			"authors": [
+				"Artur Napiórkowski"
+			]
+		},
+		{
+			"title": "O mikrobiologii browarniczej wśród górskich pejzaży",
+			"section": "Piwowarstwo zawodowe",
+			"page": 3,
+			"tags": [
+				"Szkoła Technologii Fermentacji",
+				"Postępy w mikrobiologii browarniczej - nowe organizmy",
+				"nowe piwa i nowe możliwości",
+				"Uniwersytet Rolniczy w Krakowie"
+			],
+			"authors": [
+				"Maciej Piaszczyński"
+			]
+		},
+		{
+			"title": "Szwedzkie Mistrzostwa Domowego Piwa",
+			"section": "Piwna Europa",
+			"page": 4,
+			"tags": [
+				"Szwecja",
+				"relacja",
+				"festiwale",
+				"Svenska Masterskapen i hembryggdol",
+				"Svenska hembryggareforeningen"
+			],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Odkrywanie piwnej Estonii",
+			"section": "Piwna Europa",
+			"page": 5,
+			"tags": [
+				"relacja",
+				"Estonia"
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Bière de Brut - słodowa elegancja",
+			"section": "Temat numeru",
+			"page": 6,
+			"tags": [
+				"Biere de Brut",
+				"Belgia",
+				"belgijskie style",
+				"historia",
+				"DeuS Brut des Flanders",
+				"receptura",
+				"technika",
+				"technologia",
+				"wymrażanie",
+				"korkowanie"
+			],
+			"authors": [
+				"Czesław Dziełak"
+			]
+		},
+		{
+			"title": "Polska., Wrocław. 2016 - czas na EBC",
+			"section": "Sympozja",
+			"page": 13,
+			"tags": [
+				"European Brewery Convention"
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Browar jest jak teatr",
+			"section": "Wywiad numery",
+			"page": 14,
+			"tags": [
+				"Pravda Beer Theatre",
+				"Ukraina",
+				"Yuri Zastawny",
+				"Lwów"
+			],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Co nowego u sędziów piwnych",
+			"section": "Wokół PSPD",
+			"page": 16,
+			"tags": [
+				"Polskie Stowarzyszenie Piwowarów Domowych",
+				"Sędziowska Komisja Szkoleniowa",
+				"sędziowie",
+				"konkursy"
+			],
+			"authors": [
+				"Przemek Iwanek"
+			]
+		},
+		{
+			"title": "Słownik piwowarski - litera K",
+			"section": "Słownik piwowarski",
+			"page": 17,
+			"tags": [
+				"kariofilen",
+				"karuk",
+				"kleikowanie",
+				"ksantohumol",
+				"krążkowanie",
+				"Kräusening",
+				"Kraeusening",
+				"kruchość słodu",
+				"kwas kaprylowy",
+				"kwas oktanowy",
+				"kwas masłowy",
+				"kwas butanowy"
+			],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Dążenie do doskonałości",
+			"section": "Technologia",
+			"page": 18,
+			"tags": [
+				"surowce",
+				"drożdże",
+				"woda",
+				"śrutowanie",
+				"zacieranie",
+				"filtracja",
+				"gotowanie",
+				"chłodzenie"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Drugie życie petainera",
+			"section": "Zrób to sam",
+			"page": 20,
+			"tags": [
+				"DYI",
+				"kegi PET",
+				"kegowanie"
+			],
+			"authors": [
+				"Maciej Ostasiewicz"
+			]
+		},
+		{
+			"title": "Mieszanie piw kwaśnych w browarze domowych, cz. 2",
+			"section": "Technologia",
+			"page": 23,
+			"tags": [
+				"piwa kwaśne",
+				"sour ale",
+				"lambic",
+				"butelkowanie"
+			],
+			"authors": [
+				"Paweł Masłowski"
+			]
+		},
+		{
+			"title": "Zdrowa fermentacja - dobre praktyki dla początkujących, cz. 2",
+			"section": "ABC piwowara",
+			"page": 24,
+			"tags": [
+				"drożdże",
+				"kondycja",
+				"ilość",
+				"napowietrzanie brzeczki"
+			],
+			"authors": [
+				"Bartosz Markowski"
+			]
+		},
+		{
+			"title": "Piwowarze domowy, zostań cydrownikiem!",
+			"section": "Nie tylko piwo",
+			"page": 26,
+			"tags": [
+				"cydr",
+				"nastaw",
+				"fermentacja",
+				"zlewanie znad osadu"
+			],
+			"authors": [
+				"Przemek Iwanek",
+				"Kuba Piesio"
+			]
+		},
+		{
+			"title": "Piwo z zemsty",
+			"section": "Historia",
+			"page": 28,
+			"tags": [
+				"Ludwik Pasteur",
+				"fermentacja",
+				"pasteryzacja"
+			],
+			"authors": [
+				"Radosław Kotarski"
+			]
+		},
+		{
+			"title": "Czeskie piwowarstwo przed rokiem 1842",
+			"section": "Historia",
+			"page": 30,
+			"tags": [
+				"Gambrinus",
+				"Czechy"
+			],
+			"authors": [
+				"Maciej Hus"
+			]
+		},
+		{
+			"title": "Palatum, czyli domowy browar rzemieślniczy",
+			"section": "Z wizytą w browarze",
+			"page": 34,
+			"tags": [
+				"Warszawa",
+				"browar rzemieślniczy",
+				"Browar Faktoria",
+				"Łukasz Kojro"
+			],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "\"Wisdom for Home Brewery\"",
+			"section": "Biblioteczka piwowara",
+			"page": 35,
+			"tags": [
+				"Wisdom for Home Brewery. 500 Tips & Recipes",
+				"literatura",
+				"Ted Bruning",
+				"Nigel Sadler"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "\"Wszystko dobre, co z Warmii\"",
+			"section": "Piwna Polska",
+			"page": 36,
+			"tags": [
+				"Browar Warmia",
+				"browary regionalne",
+				"Olsztyn"
+			],
+			"authors": [
+				"Przemek Iwanek"
+			]
+		},
+		{
+			"title": "Lactobacillus. Skąd brać? Jak używać? Część II",
+			"section": "Piwa kwaśne",
+			"page": 38,
+			"tags": [
+				"sour mashing",
+				"sour worting",
+				"fermentacja mlekowa"
+			],
+			"authors": [
+				"Michał \"Kordas\" Kordek"
+			]
+		},
+		{
+			"title": "Poszukiwany, poszukiwana",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"felieton",
+				"Ogólnopolski Festiwal Piwowarów Domowych",
+				"Konferencja Piwowarów Domowych",
+				"Wrocławskie Warsztaty Piwowarskie"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

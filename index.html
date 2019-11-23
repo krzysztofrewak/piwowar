@@ -1,6 +1,7 @@
 <html lang="pl">
 	<head>
 		<title>Przeglądarka magazynu Piwowar</title>
+		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
 		<link rel="stylesheet" href="./assets/styles.css">
 	</head>
@@ -13,10 +14,52 @@
 
 			<div class="ui container basic segment">
                 <div class="ui left dividing rail">
-                    <label class="ui fluid icon input">
-                        <input type="text" placeholder="Przeszukaj..." v-model="searchPhrase">
-                        <i class="search icon"></i>
-                    </label>
+	                <div class="form">
+		                <div class="label">Przeszukaj tytuły artykułów:</div>
+		                <label class="ui fluid icon input">
+			                <input type="text" placeholder="Przeszukaj..." v-model="searchedTitle">
+			                <i class="search icon" v-if="!searchedTitle"></i>
+			                <i class="link close icon" v-else @click="searchedTitle = ''"></i>
+		                </label>
+	                </div>
+
+	                <div class="form">
+		                <div class="label">Przeszukaj sekcje:</div>
+		                <label class="ui fluid icon input">
+			                <input type="text" placeholder="Przeszukaj..." v-model="searchedSection">
+			                <i class="search icon" v-if="!searchedSection"></i>
+			                <i class="link close icon" v-else @click="searchedSection = ''"></i>
+		                </label>
+	                </div>
+
+	                <div class="form">
+		                <div class="label">Filtruj po autorze:</div>
+		                <label class="ui fluid icon input">
+			                <input type="text" placeholder="Przeszukaj..." v-model="searchedAuthorName">
+			                <i class="search icon" v-if="!searchedAuthorName"></i>
+			                <i class="link close icon" v-else @click="searchedAuthorName = ''"></i>
+		                </label>
+		                <div class="ui middle aligned divided list">
+			                <div class="clickable item" v-for="author in filteredAuthors" @click="filterAuthor(author.name)">
+				                <div class="right floated content">
+					                {{ author.articles }}
+				                </div>
+				                <i class="times circle outline icon" v-if="authorFilter && authorFilter === author.name"></i>
+				                <div class="content">
+					                {{ author.name }}
+				                </div>
+			                </div>
+			                <div class="clickable text centered item" @click="showMoreAuthors = !showMoreAuthors" v-if="showMoreAuthorsMenu">
+				                <i class="caret down icon" :class="{ up: showMoreAuthors }"></i>
+				                <div class="content" v-if="!showMoreAuthors">
+					                pokaż więcej
+				                </div>
+				                <div class="content" v-else>
+									schowaj
+				                </div>
+			                </div>
+		                </div>
+	                </div>
                 </div>
                 <div class="ui right dividing rail">
                     <p>
@@ -26,8 +69,8 @@
                     </p>
                     <p>
                         Celem jest uproszczenie etapu szukania artykułu: poprzez wpisanie tytułu, nazwiska autora,
-                        nazwy sekcji czy słów kluczowych można odnaleźć wszystkie artykuły (wraz z numerem magazynu
-                        oraz stroną) spełniające zadany zakres poszukiwań.
+                        nazwy sekcji  można odnaleźć wszystkie artykuły (wraz z numerem magazynu oraz stroną)
+	                    spełniające zadany zakres poszukiwań.
                     </p>
                     <p>
                         Przeglądarka nie zawiera części ani całości treści artykułów i należy z niej korzystać
@@ -59,13 +102,15 @@
 							<th>strona</th>
 						</tr>
 					</thead>
-					<tbody v-for="n in 55">
+					<tbody>
 						<tr v-for="article in filteredArticles">
-							<td class="collapsing cover" :style="getBackgroundLabel(article.color)"></td>
+							<td class="collapsing" :style="getBackgroundLabel(article.color)"></td>
 							<td class="collapsing">{{ article.issue }}</td>
 							<td>{{ article.title }}</td>
-							<td>{{ article.section }}</td>
-							<td>{{ article.authors }}</td>
+							<td class="clickable" @click="searchedSection = article.section">{{ article.section }}</td>
+							<td>
+								<div class="clickable" v-for="author in article.authors" @click="filterAuthor(author)">{{ author }}</div>
+							</td>
 							<td>{{ article.page }}</td>
 						</tr>
 					</tbody>

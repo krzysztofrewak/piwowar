@@ -1,0 +1,160 @@
+{
+	"issue": "30",
+	"color": "#D82133",
+	"articles": [
+		{
+			"title": "Sprawdzone formaty",
+			"section": "Wokół Stowarzyszenia",
+			"page": "1",
+			"tags": [],
+			"authors": [
+				"Artur Kamiński"
+			]
+		},
+		{
+			"title": "Świadek rewolucji - wywiad z Markiem Carpenterem",
+			"section": "Wywiad",
+			"page": "2",
+			"tags": [],
+			"authors": [
+				"Artur Napiórkowski"
+			]
+		},
+		{
+			"title": "Granice legalności piwowarstwa domowego",
+			"section": "Prawo",
+			"page": "6",
+			"tags": [],
+			"authors": [
+				"Dawid Siedlecki"
+			]
+		},
+		{
+			"title": "Cztery style z czterech stron świata - wstępne opisy nowych stylów według BJCP",
+			"section": "Piwne style",
+			"page": "8",
+			"tags": [],
+			"authors": [
+				"Przemek Iwanek"
+			]
+		},
+		{
+			"title": "Wstęp do foodpairingu, czyli z czym to się je?",
+			"section": "Kulinaria",
+			"page": "12",
+			"tags": [],
+			"authors": [
+				"Michał Kopik"
+			]
+		},
+		{
+			"title": "Proces słodowania",
+			"section": "Surowce",
+			"page": "14",
+			"tags": [],
+			"authors": [
+				"Paweł Leszczyński"
+			]
+		},
+		{
+			"title": "Doppelbock",
+			"section": "Piwo numeru",
+			"page": "16",
+			"tags": [],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Metody produkcji piw bezalkoholowych",
+			"section": "Technologia",
+			"page": "20",
+			"tags": [],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Aminokwasy a piwo",
+			"section": "Nauka",
+			"page": "24",
+			"tags": [],
+			"authors": [
+				"Magdalena Biesiadecka"
+			]
+		},
+		{
+			"title": "Litera \"T\"",
+			"section": "Słownik piwowarski",
+			"page": "27",
+			"tags": [],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Beer science, czyli doniesienia ze świata nauki",
+			"section": "Nauka",
+			"page": "28",
+			"tags": [],
+			"authors": [
+				"Marcin Ostajewski"
+			]
+		},
+		{
+			"title": "Fruit beer, czyli dodatek owoców do piwa cz. 2 - aspekt technologiczny",
+			"section": "Technologia",
+			"page": "30",
+			"tags": [],
+			"authors": [
+				"Paweł Masłowski"
+			]
+		},
+		{
+			"title": "Porady piwowarskie cz. 2",
+			"section": "Technologia",
+			"page": "34",
+			"tags": [],
+			"authors": [
+				"Maciej Wentowski"
+			]
+		},
+		{
+			"title": "Browar Błonie, czyli rewolucji etap kolejny",
+			"section": "Z wizytą w browarze",
+			"page": "36",
+			"tags": [],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "Hopzoil - zgodnie z duchem kraftu!",
+			"section": "Tekst sponsorowany",
+			"page": "38",
+			"tags": [],
+			"authors": [
+				"Tom Britz",
+				"Damian Bigaj (tłum.)"
+			]
+		},
+		{
+			"title": "Mikkeller’s Book of Beer",
+			"section": "Biblioteczka piwowara",
+			"page": "39",
+			"tags": [],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Czas romantycznych buntowników się kończy! Nadchodzi czas profesjonalistów! ",
+			"section": "1000 IBU",
+			"page": "40",
+			"tags": [],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

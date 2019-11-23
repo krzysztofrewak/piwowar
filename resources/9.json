@@ -1,0 +1,249 @@
+{
+	"issue": 9,
+	"color": "#016EA9",
+	"articles": [
+		{
+			"title": "Na zakręcie",
+			"section": "Stowarzyszenie",
+			"page": 1,
+			"tags": [
+				"PSPD"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Sprawozdanie zarządu z działalności PSPD przygotowane na Walne Zebranie Członków",
+			"section": "Stowarzyszenie",
+			"page": 2,
+			"tags": [
+				"PSPD"
+			],
+			"authors": [
+				""
+			]
+		},
+		{
+			"title": "Kalendarium (październik 2012-luty 2013)",
+			"section": "Wypatrzyliśmy",
+			"page": 3,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Powrót do Gdańska",
+			"section": "Wypatrzyliśmy",
+			"page": 7,
+			"tags": [
+				"warsztaty",
+				"Browar Piwna",
+				"PSPD"
+			],
+			"authors": [
+				"Filip Paprocki"
+			]
+		},
+		{
+			"title": "Konkurs Piw Rzemieślniczych Birofilia 2013",
+			"section": "Konkurs",
+			"page": 9,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Piwowarstwo w Polsce 2012",
+			"section": "Wydarzenia",
+			"page": 10,
+			"tags": [
+				"Pinta",
+				"AleBrowar",
+				"Artezan",
+				"konkursy",
+				"browary kontraktowe",
+				"piwowarstwo domowe"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Oj, chmielu, chmielu (część 3)",
+			"section": "Niezbędnik",
+			"page": 14,
+			"tags": [
+				"stopień nachmielenia",
+				"badanie rynku",
+				"piwa koncernowe",
+				"porównanie"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Pomiar i korekta pH w procesie warzenia",
+			"section": "Niezbędnik",
+			"page": 18,
+			"tags": [
+				"ph-metr",
+				"kwaśność",
+				"zacieranie",
+				"woda",
+				"wysładzenie",
+				"chmielenie"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Alt - stare piwo z Düsseldorfu",
+			"section": "Piwo zimy",
+			"page": 21,
+			"tags": [
+				"Niemcy",
+				"style piwa",
+				"Altbier",
+				"historia",
+				"receptura"
+			],
+			"authors": [
+				"Marek Rendchen"
+			]
+		},
+		{
+			"title": "Warmiński Festiwal Dziedzictwa Browarniczego",
+			"section": "Wydarzenia",
+			"page": 24,
+			"tags": [
+				"Warmia",
+				"relacja",
+				"Olsztyn",
+				"PSPD"
+			],
+			"authors": [
+				"Daniel Duda",
+				"Maciej Duda"
+			]
+		},
+		{
+			"title": "Konkursy piwa mają znaczenie*",
+			"section": "Wydarzenia",
+			"page": 27,
+			"tags": [
+				"Festiwal Piw Polskich",
+				"FPP",
+				"sędziowie",
+				"statystyki",
+				"EBS"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Otwieramy browar rzemieślniczy (część 2: sprzęt)",
+			"section": "Wydarzenia",
+			"page": 30,
+			"tags": [
+				"śrutownik",
+				"warzelnia",
+				"fermentownia",
+				"rozlew",
+				"kadź warzelna",
+				"filtrator",
+				"korytko brzeczkowe",
+				"płynowskaz",
+				"automatyka",
+				"Urząd celny",
+				"akcyza",
+				"certyfikacja",
+				"pompowanie",
+				"wysładzanie",
+				"desczownica",
+				"koncesja",
+				"sanepid"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Kerstbierfestival 2012",
+			"section": "Ze świata",
+			"page": 34,
+			"tags": [
+				"festiwale",
+				"relacja",
+				"Belgia",
+				"Essen"
+			],
+			"authors": [
+				"Michał Janiak"
+			]
+		},
+		{
+			"title": "Luz blues i radość warzenia w Ameryca",
+			"section": "Ze świata",
+			"page": 35,
+			"tags": [
+				"USA",
+				"podróże",
+				"browary"
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Biblioteczka piwowara - \"Brew like a Monk\"",
+			"section": "Recenzja",
+			"page": 38,
+			"tags": [
+				"Stan Hieronymus",
+				"książki",
+				"Trappist",
+				"Abbey and Strong Belgian Ales and How to Brew Them"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Piwo wśród gotyckich kamienic",
+			"section": "W browarze",
+			"page": 39,
+			"tags": [
+				"Toruń",
+				"Jan Olbracht Browar Staromiejski",
+				"browary"
+			],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		},
+		{
+			"title": "Nie bądźmy bardziej papiescy od papieża",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"feletion",
+				"PSPD",
+				"konkursy",
+				"sędziowie"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

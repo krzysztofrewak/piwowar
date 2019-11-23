@@ -1,0 +1,225 @@
+{
+	"issue": 1,
+	"color": "#036DA9",
+	"articles": [
+		{
+			"title": "Wreszcie legalni... do dzieła!",
+			"section": "Słowo od prezesa",
+			"page": 1,
+			"tags": [
+				"PSPD"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Polskie Stowarzyszenie Piwowarów Domowych zarejestrowane!",
+			"section": "Stowarzyszenie",
+			"page": 2,
+			"tags": [
+				"prapremiera Piwowara",
+				"PSPD",
+				"gratulacje",
+				"namiot PSPD",
+				"legitymacje",
+				"naklejki samochodowe"
+			],
+			"authors": [
+				""
+			]
+		},
+		{
+			"title": "Kalendarium (lipiec-listopad 2010)",
+			"section": "Wypatrzyliśmy",
+			"page": 4,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Festiwal Birofilia 2010 - piwowarzy w centrum wydarzeń",
+			"section": "Birofilia 2010",
+			"page": 8,
+			"tags": [
+				"festiwale",
+				"relacja",
+				"wyniki konkursów"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Piwowarstwo domowe żyje i rozwija się w Polsce",
+			"section": "Ze świata",
+			"page": 12,
+			"tags": [
+				"The Brewer & Distiller International",
+				"The Institute of Brewing and Distilling",
+				"raport"
+			],
+			"authors": [
+				"Ian Hornsey"
+			]
+		},
+		{
+			"title": "Kolorowy świat brew-kitów",
+			"section": "Dla początkujących",
+			"page": 17,
+			"tags": [
+				"brew-kity",
+				"brzeczka",
+				"porady",
+				"gęstość",
+				"ekstrakt",
+				"chmielenie"
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Weizenbock - koźlak pszeniczny",
+			"section": "Piwo zimy 2010",
+			"page": 18,
+			"tags": [
+				"style piwa",
+				"parametry",
+				"receptura"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Szybki test potencjalnej głębokości odfermentowania brzeczki",
+			"section": "Niezbędnik",
+			"page": 20,
+			"tags": [
+				"fermentacja",
+				"odfermentowanie",
+				"FFT",
+				"niedofermentowanie rezydualne"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Mistrzowskie receptury",
+			"section": "Niezbędnik",
+			"page": 22,
+			"tags": [
+				"Dorota Chrapek",
+				"Grand Champion",
+				"belgijskie pale ale",
+				"Belgian Pale Ale",
+				"Czesław Dziełak",
+				"Helles",
+				"Krzysztof Zach",
+				"Zach Dancig Stout",
+				"receptura"
+			],
+			"authors": [
+				""
+			]
+		},
+		{
+			"title": "Prawo czystości",
+			"section": "Z kart historii",
+			"page": 24,
+			"tags": [
+				"historia",
+				"Reinheitsgebot",
+				"Bawarskie Prawo Czystości",
+				"1516",
+				"Niemcy"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Gramoprocenty humulonów (GPH)",
+			"section": "Niezbędnik",
+			"page": 26,
+			"tags": [
+				"chemia",
+				"goryczka",
+				"chmiel"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Każde wydarzenie, które promuje dobrego piwo, należy powitać z radością",
+			"section": "Wywiad",
+			"page": 27,
+			"tags": [
+				"USA",
+				"Jeff Evans",
+				"konkursy",
+				"branża piwna"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "American Brew",
+			"section": "Ze świata",
+			"page": 28,
+			"tags": [
+				"USA",
+				"piwna rewolucja"
+			],
+			"authors": [
+				"Rafał Kowalczyk"
+			]
+		},
+		{
+			"title": "Domowi piwowarzy?",
+			"section": "Wywiad",
+			"page": 31,
+			"tags": [
+				"Brovarnia",
+				"Michał Grossmann",
+				"Michał Saks",
+				"Gdańsk",
+				"browar restauracyjny"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Czy wszyscy piwowarzy to prostytutki?",
+			"section": "1000 IBU",
+			"page": 32,
+			"tags": [
+				"felieton"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Brovarnia - browar nad Motławą",
+			"section": "W browarze",
+			"page": 33,
+			"tags": [
+				"browary",
+				"browar restauracyjny",
+				"Gdańsk"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

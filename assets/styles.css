@@ -1,8 +1,10 @@
 a { color: inherit; }
 
 .container { margin: 3em 0 !important; }
-.cover { width: 12px; }
-.rail { padding-top: 5em !important; opacity: .7; }
+.rail { padding-top: 3em !important; opacity: .7; }
+.label { margin: .5em 0; }
+.form { margin-bottom: 2em; }
 
 .icons { opacity: .7; }
 .icons > a { margin-right: .5em; }
+.clickable { cursor: pointer; }

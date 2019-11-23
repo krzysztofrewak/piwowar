@@ -1,0 +1,373 @@
+{
+	"issue": 12,
+	"color": "#8F4005",
+	"articles": [
+		{
+			"title": "Rośniemy w siłę",
+			"section": "Stowarzyszenie",
+			"page": 1,
+			"tags": [
+				"PSPD"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Kalendarium (lipiec-październik 2013)",
+			"section": "Wypatrzyliśmy",
+			"page": 2,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Wspomnienie z \"Brackiej Jesieni\"",
+			"section": "Wydarzenia",
+			"page": 5,
+			"tags": [
+				"Bracka Jesień",
+				"festiwale",
+				"Cieszyn",
+				"konkurs piw domowych"
+			],
+			"authors": [
+				"Gabriela Bujok"
+			]
+		},
+		{
+			"title": "Mistrz warzył w Redenie",
+			"section": "Wydarzenia",
+			"page": 6,
+			"tags": [
+				"Śląski Konkurs Piw Domowych",
+				"receptura",
+				"schwarzbier",
+				"Jacek Stachowski",
+				"Stasiek"
+			],
+			"authors": [
+				"Jacek Kocurek"
+			]
+		},
+		{
+			"title": "I Warmiński Konkurs Piw Domowych",
+			"section": "Wydarzenia",
+			"page": 7,
+			"tags": [
+				"Olsztyn",
+				"Biskupiec",
+				"Braniewo"
+			],
+			"authors": [
+				"Daniej Duda",
+				"Maciej Duda"
+			]
+		},
+		{
+			"title": "Blogerzy na kongresie",
+			"section": "Wydarzenia",
+			"page": 9,
+			"tags": [
+				"blogosfera",
+				"Blog Day 2.0",
+				"Poznań",
+				"Pilsner Urquell"
+			],
+			"authors": [
+				"Maciej Piaszczyński"
+			]
+		},
+		{
+			"title": "Piwowarskie zabawy z miodem",
+			"section": "Wokół piwa",
+			"page": 10,
+			"tags": [
+				"miód",
+				"Stargard",
+				"warsztaty",
+				"braggot",
+				"receptura",
+				"Wit-Wierzendorf IPA"
+			],
+			"authors": [
+				"Maciej Piaszczyński"
+			]
+		},
+		{
+			"title": "Wypiekamy wysłodziny",
+			"section": "Wokół piwa",
+			"page": 11,
+			"tags": [
+				"przepisy",
+				"porterowe ciastka",
+				"chleb z młótem"
+			],
+			"authors": [
+				"Maciej Piaszczyński"
+			]
+		},
+		{
+			"title": "Wziąć udział w konkursie i wygrać!",
+			"section": "Wokół piwa",
+			"page": 12,
+			"tags": [
+				"sędziowanie",
+				"PSPD"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Waldemar Pitala zdobywcą Pucharu PSPD",
+			"section": "Wokół piwa",
+			"page": 14,
+			"tags": [
+				"wywiad",
+				"Puchar PSPD"
+			],
+			"authors": [
+				""
+			]
+		},
+		{
+			"title": "Puchar PSPD",
+			"section": "Wokół piwa",
+			"page": 15,
+			"tags": [
+				"konkursy"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Gose? Goseanna!*",
+			"section": "Piwo jesieni",
+			"page": 16,
+			"tags": [
+				"historia",
+				"receptura"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "DMS - można tego uniknąć?",
+			"section": "Niezbędnik",
+			"page": 20,
+			"tags": [
+				"siarczek dimetylu",
+				"wady w piwie",
+				"słodowanie",
+				"warzenie",
+				"gotowanie",
+				"fermentacja"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Opis stylów piwa według PSPD (część 3)",
+			"section": "Niezbędnik",
+			"page": 21,
+			"tags": [
+				"kolońskie",
+				"Koelsch",
+				"Kölsch",
+				"Altbier",
+				"Hefeweizen",
+				"Dunkelweizen",
+				"Weizenbock",
+				"koźlak pszeniczny",
+				""
+			],
+			"authors": [
+				"Jacek Materski"
+			]
+		},
+		{
+			"title": "Fuggle Not Dead",
+			"section": "Niezbędnik",
+			"page": 24,
+			"tags": [
+				"chmiel",
+				"angielskie odmiany",
+				"East Kent Goldings",
+				"historia",
+				"chmiel aroamtyczny"
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Jestem niepoprawnym optymistą",
+			"section": "Tekst sponsorowany",
+			"page": 27,
+			"tags": [
+				"wywiad",
+				"polski chmiel",
+				"SCF Natural"
+			],
+			"authors": [
+				"Waldemar Mazurek"
+			]
+		},
+		{
+			"title": "Słownik - litera B",
+			"section": "Słownik piwowarski",
+			"page": 28,
+			"tags": [
+				"beta-glukany",
+				"beta-kwasy",
+				"lupulony",
+				"brettanomyces",
+				"brzeczka",
+				"bufory",
+				"bukiet"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Biblioteczka piwowara - \"Scotch Ale\"",
+			"section": "Recenzja",
+			"page": 29,
+			"tags": [
+				"Classic Beer Styles",
+				"Gregory J. Noonan"
+			],
+			"authors": [
+				"Piotr Kucharski"
+			]
+		},
+		{
+			"title": "Piwowarstwo historyczne, czyli piwo jako napój z pszenicy",
+			"section": "Historia",
+			"page": 30,
+			"tags": [
+				"Kraków",
+				"zacieranie",
+				"filtracja",
+				"fermentacja",
+				"słoma",
+				"Mikołaj Rej"
+			],
+			"authors": [
+				"Sławomir Dryja"
+			]
+		},
+		{
+			"title": "Piwne pozytywy 2013",
+			"section": "Publicystyka",
+			"page": 32,
+			"tags": [
+				"koncerny",
+				"piwowarstwo domowe"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Golden Beer Poland 2013",
+			"section": "Publicystyka",
+			"page": 32,
+			"tags": [
+				"III Forum Technologii Browarniczych",
+				"konkurs piwa"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Śląscy piwowarzy w Pradze",
+			"section": "Ze świata",
+			"page": 33,
+			"tags": [
+				"Czechy",
+				"relacja"
+			],
+			"authors": [
+				"Jan Krysiak"
+			]
+		},
+		{
+			"title": "2. European Microbrew Symposium",
+			"section": "Ze świata",
+			"page": 34,
+			"tags": [
+				"Norymberga",
+				"relacja"
+			],
+			"authors": [
+				"Jan Lichota"
+			]
+		},
+		{
+			"title": "Czy w Wiedniu napiję się Vienna lagera?",
+			"section": "Ze świata",
+			"page": 36,
+			"tags": [
+				"Wiedeń",
+				"Austria",
+				"podróże",
+				"lager wiedeński"
+			],
+			"authors": [
+				"Daniel Duda"
+			]
+		},
+		{
+			"title": "Piwowarstwo mamy we krwi",
+			"section": "Ze świata",
+			"page": 37,
+			"tags": [
+				"wywiad",
+				"Norman Sterkens",
+				"Belgia",
+				"Belgijskie Stowarzyszenie Winiarzy i Piwowarów",
+				"Vereniging van Ambachtelijke Wijnbouwers",
+				"Wijnmakers en Bierbrouwers",
+				"Domus",
+				"Leuven"
+			],
+			"authors": [
+				"Michał Janiak"
+			]
+		},
+		{
+			"title": "Stary Browar Rzeszowski",
+			"section": "W browarze",
+			"page": 39,
+			"tags": [
+				"Rzeszów"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Szykujmy się na klęskę urodzaju",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"Konkurs Piw Domowych w Żywcu",
+				"grodziskie",
+				"rewolucja"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		}
+	]
+}

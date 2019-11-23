@@ -1,0 +1,313 @@
+{
+	"issue": 5,
+	"color": "#3D6EA8",
+	"articles": [
+		{
+			"title": "Rośniemy",
+			"section": "Stowarzyszenie",
+			"page": 1,
+			"tags": [
+				"PSPD",
+				"Brewers of Europe"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Kalendarium (wrzesień-grudzień 2011)",
+			"section": "Wypatrzyliśmy",
+			"page": 2,
+			"tags": [
+				""
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Grand Champion 2011. Nareszcie!",
+			"section": "Birofilia",
+			"page": 4,
+			"tags": [
+				"Jan Szała",
+				"Konkurs Piw Domowych",
+				"Kölsch",
+				"Koelsch",
+				"kolońskie",
+				"Grupa Żywiec",
+				"relacja"
+			],
+			"authors": [
+				"Ziemowit Fałat"
+			]
+		},
+		{
+			"title": "Kölsch na nowo",
+			"section": "Birofilia",
+			"page": 5,
+			"tags": [
+				"Conrad Seidl",
+				"Getränkefachgroßhandel",
+				"Getraenkefachgrosshandel",
+				"kolońskie",
+				"Niemcy"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Rewolucja w domowym kufla trwa!",
+			"section": "Piwowarstwo domowe",
+			"page": 6,
+			"tags": [
+				"podsumowanie",
+				"PSPD",
+				"konkursy",
+				"Birofilia",
+				"hobby"
+			],
+			"authors": [
+				"Krzysztof Lechowski"
+			]
+		},
+		{
+			"title": "Jest super... więc o co ci chodzi - czyli branża piwna w 2011 roku",
+			"section": "Branża piwna",
+			"page": 10,
+			"tags": [
+				"raport",
+				"piwa aromatyzowane",
+				"browary regionalne",
+				"browar Pinta",
+				"browary restauracyjne"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Rzemieślnicy warzą domowego portera",
+			"section": "Mistrzowskie receptury",
+			"page": 12,
+			"tags": [
+				"Częstochowski Konkurs Piw Domowych",
+				"browar restauracyjny",
+				"browar Czenstochovia",
+				"Szymon Kierszniowski",
+				"porter bałtycki",
+				"receptura",
+				"relacja"
+			],
+			"authors": [
+				"Marcin Chmielarz"
+			]
+		},
+		{
+			"title": "Przechowywanie surowców piwowarskich",
+			"section": "Niezbędnik",
+			"page": 14,
+			"tags": [
+				"słód",
+				"chmiel",
+				"drożdże",
+				"ekstrakty"
+			],
+			"authors": [
+				"Dorota Chrapek"
+			]
+		},
+		{
+			"title": "Starter drożdżowy",
+			"section": "Niezbędnik",
+			"page": 16,
+			"tags": [
+				"drożdże",
+				"kolba Erlenmayera",
+				"erlenmajerka",
+				"mieszadło magnetyczne",
+				"rdzeń magnetyczny",
+				"minizacieranie",
+				"namnażanie drożdży"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Projekt \"Grodziskie Redivivus\"",
+			"section": "Niezbędnik",
+			"page": 18,
+			"tags": [
+				"raport",
+				"grodziskie",
+				"surowce",
+				"słód",
+				"chmiel",
+				"drożdże",
+				"parametry",
+				"zacieranie",
+				"filtracja",
+				"gotowanie",
+				"klarowanie",
+				"leżakowanie",
+				"historia"
+			],
+			"authors": [
+				"Andrzej Sadownik"
+			]
+		},
+		{
+			"title": "Barley wine - wyzwanie technologiczne",
+			"section": "Piwo zimy 2011",
+			"page": 20,
+			"tags": [
+				"wino jęczmienne",
+				"receptura",
+				"zacieranie",
+				"chmielenie",
+				"fermentacja",
+				"surowce"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Dezynfekcja sprzętu",
+			"section": "Niezbędnik",
+			"page": 23,
+			"tags": [
+				"mycie",
+				"czyszczenie",
+				"higiena",
+				"sterylizacja"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Ważne! Chłodzenie brzeczki w browarze domowym",
+			"section": "Niezbędnik",
+			"page": 26,
+			"tags": [
+				"chłodnica zanurzeniowa",
+				"wymiennik płytowy",
+				"chłodnica przeciwbieżna",
+				"DMS"
+			],
+			"authors": [
+				"Piotr Wypych"
+			]
+		},
+		{
+			"title": "Barley wine w kuchni",
+			"section": "Kuchnia Piwowarki Agi",
+			"page": 29,
+			"tags": [
+				"przepisy",
+				"sery",
+				"owoce w cieście francuskim",
+				"czekoladowe fondue z owocami",
+				"Crème brûlée",
+				"creme brulee"
+			],
+			"authors": [
+				"Agnieszka Łopata"
+			]
+		},
+		{
+			"title": "Relax, don't worry - have a homebrew",
+			"section": "Wywiad",
+			"page": 32,
+			"tags": [
+				"Charlie Papazian",
+				"Firestone Walker",
+				"USA",
+				"rewolucja"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Najlepsze piwo? Domowe!",
+			"section": "Wywiad",
+			"page": 34,
+			"tags": [
+				"Charlie Papazian",
+				"Firestone Walker",
+				"USA",
+				"rewolucja"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Borefts Bier Festival 2011 - rzemieślniczy top Europy",
+			"section": "Ze świata",
+			"page": 35,
+			"tags": [
+				"relacja",
+				"Holandia",
+				"de Molen"
+			],
+			"authors": [
+				"Krzysztof Kula"
+			]
+		},
+		{
+			"title": "Przedstawiamy: Elefant Białystok!",
+			"section": "Piwowarzy w akcji",
+			"page": 37,
+			"tags": [
+				"fotografie",
+				"browary domowe",
+				"Paweł Jakubczyk"
+			],
+			"authors": [
+				""
+			]
+		},
+		{
+			"title": "AIPA czy po prostu IPA?",
+			"section": "Ze świata",
+			"page": 38,
+			"tags": [
+				"India Pale Ale",
+				"porównanie"
+			],
+			"authors": [
+				"Rafał Kowalczyk"
+			]
+		},
+		{
+			"title": "Efekt kuli śniegowej?",
+			"section": "1000 IBU",
+			"page": 40,
+			"tags": [
+				"felieton",
+				"piwna rewolucja"
+			],
+			"authors": [
+				"Tomasz Kopyra"
+			]
+		},
+		{
+			"title": "Wezwanie na komendę",
+			"section": "W browarze",
+			"page": 41,
+			"tags": [
+				"Szczein",
+				"browary",
+				"Browar Stara Komenda"
+			],
+			"authors": [
+				"Michał \"Docent\" Maranda"
+			]
+		}
+	]
+}
