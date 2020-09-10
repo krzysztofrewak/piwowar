@@ -1,311 +1,311 @@
 {
-	"issue": 17,
-	"color": "#2B8ECD",
-	"articles": [
-		{
-			"title": "Świętujemy 5 lat PSPD!",
-			"section": "Wokół stowarzyszenia",
-			"page": 1,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Kalendarium 2014\/2015 (listopad-luty)",
-			"section": "Kalendarium",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Drożdże grodziskie w kosmosie!",
-			"section": "Wydarzenia",
-			"page": 4,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Paweł Kopciał"
-			]
-		},
-		{
-			"title": "Piwowarzy spotkali się w Toruniu",
-			"section": "Wydarzenia",
-			"page": 6,
-			"tags": [
-				"Toruń",
-				"spotkania",
-				"konkurs"
-			],
-			"authors": [
-				"Małgorzata Bujok",
-				"Bartłomiej Błażejowski",
-				"Magda Bergmann"
-			]
-		},
-		{
-			"title": "Poznańskie Targi Piwne to już tradycja",
-			"section": "Wydarzenia",
-			"page": 8,
-			"tags": [
-				"festiwal"
-			],
-			"authors": [
-				"Przemysław Odrobny"
-			]
-		},
-		{
-			"title": "Powołono kolejną ligę",
-			"section": "Lokalnie",
-			"page": 10,
-			"tags": [
-				"Szczecin",
-				"konkurs"
-			],
-			"authors": [
-				"Marcin Stefaniak"
-			]
-		},
-		{
-			"title": "Zwiększenie wydajności w browarze rzemieślnicznym",
-			"section": "Technologia",
-			"page": 12,
-			"tags": [
-				"śrutowanie",
-				"gęsty zacier",
-				"podbicie",
-				"wygrzew",
-				"przepompowanie",
-				"vorlauf",
-				"brzeczka przednia",
-				"wysładzanie",
-				"temperatura filtratu",
-				"młoto",
-				"czyszczenie kadzi"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Warzyć piwo w granicach prawa",
-			"section": "Prawnik radzi",
-			"page": 14,
-			"tags": [
-				"prawo",
-				"obrót"
-			],
-			"authors": [
-				"Michał Jaskólski"
-			]
-		},
-		{
-			"title": "Koźlak, czyli zapomniany rogacz",
-			"section": "Piwo numeru",
-			"page": 16,
-			"tags": [
-				"receptura"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Słownik - litera E",
-			"section": "Słownik piwowarski",
-			"page": 9,
-			"tags": [
-				"efekt Crabtree",
-				"ekstrakt",
-				"ekstrakt pozorny",
-				"ekstrakt rzeczywisty",
-				"ekstraktywność słodu",
-				"enzymy",
-				"erytrodekstryny",
-				"estry",
-				"etanol",
-				"alkohol etylowy"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Termometr to podstawa, cz. II",
-			"section": "Narzędzia piwowara",
-			"page": 20,
-			"tags": [
-				"elektronika",
-				"czujniki"
-			],
-			"authors": [
-				"Maciej Ostasiewicz"
-			]
-		},
-		{
-			"title": "\"Synu, zostaniesz piwowarem\"",
-			"section": "Wywiad numeru",
-			"page": 22,
-			"tags": [
-				"Andrzej Gałasiewicz",
-				"Jan Olbracht",
-				"minibrowary.pl"
-			],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "Sensoryka jak szwajcarski scyzoryk",
-			"section": "Warto wiedzieć",
-			"page": 24,
-			"tags": [
-				"sędziowanie"
-			],
-			"authors": [
-				"Przemek Iwanek"
-			]
-		},
-		{
-			"title": "Wysokie stężenie cierpliwości",
-			"section": "Kontrowersje",
-			"page": 26,
-			"tags": [
-				"felieton",
-				"leżakowanie piwa"
-			],
-			"authors": [
-				"Michał Janiak"
-			]
-		},
-		{
-			"title": "Marchewkowy zawrót głowy",
-			"section": "Ciekawe inicjatywy",
-			"page": 27,
-			"tags": [
-				"receptura",
-				"Daniel Duda",
-				"Olsztyn"
-			],
-			"authors": [
-				"Artur Kamiński"
-			]
-		},
-		{
-			"title": "Trunek z Jiahu",
-			"section": "Historia",
-			"page": 28,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "7. edycja sympozjum Piwo i zdrowie",
-			"section": "Wydarzenia",
-			"page": 30,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Krótka historia pomorskiego środowiska piwowarów i piwoszy",
-			"section": "Nowy oddział PSPD",
-			"page": 31,
-			"tags": [
-				"Pomorze",
-				"Gdańsk",
-				"oddział terenowy"
-			],
-			"authors": [
-				"Filip Paprocki"
-			]
-		},
-		{
-			"title": "Piwny Rzym",
-			"section": "Pocztówka z Włoch",
-			"page": 32,
-			"tags": [
-				"Włochy"
-			],
-			"authors": [
-				"Artur Napiórkowski"
-			]
-		},
-		{
-			"title": "Browar Stu Mostów, czyli kwestie definicji craftu",
-			"section": "Z wizytą w browarze",
-			"page": 34,
-			"tags": [
-				"Wrocław",
-				"browary"
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "\"For the Love of Hops\"",
-			"section": "Biblioteczka piwowara",
-			"page": 35,
-			"tags": [
-				"Brewing Elements",
-				"chmiel",
-				"Stan Hieronymus"
-			],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "Amerykańska rewolucja piwna - cz. III",
-			"section": "Historia",
-			"page": 36,
-			"tags": [
-				"Ken Grossman",
-				"Sierra Nevada"
-			],
-			"authors": [
-				"Artur Napiórkowski"
-			]
-		},
-		{
-			"title": "Piwna prywatka",
-			"section": "W kuchni",
-			"page": 38,
-			"tags": [
-				"przepisy",
-				"cebulowe krakersy",
-				"boczek karmelizowany",
-				"bułeczki jak precle"
-			],
-			"authors": [
-				"Małgorzata Bujok"
-			]
-		},
-		{
-			"title": "Jesteś twórcą!",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"felieton",
-				"hobby"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": 17,
+  "color": "#2B8ECD",
+  "articles": [
+    {
+      "title": "Świętujemy 5 lat PSPD!",
+      "section": "Wokół stowarzyszenia",
+      "page": 1,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Kalendarium 2014\/2015 (listopad-luty)",
+      "section": "Kalendarium",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Drożdże grodziskie w kosmosie!",
+      "section": "Wydarzenia",
+      "page": 4,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Paweł Kopciał"
+      ]
+    },
+    {
+      "title": "Piwowarzy spotkali się w Toruniu",
+      "section": "Wydarzenia",
+      "page": 6,
+      "tags": [
+        "Toruń",
+        "spotkania",
+        "konkurs"
+      ],
+      "authors": [
+        "Małgorzata Bujok",
+        "Bartłomiej Błażejowski",
+        "Magda Bergmann"
+      ]
+    },
+    {
+      "title": "Poznańskie Targi Piwne to już tradycja",
+      "section": "Wydarzenia",
+      "page": 8,
+      "tags": [
+        "festiwal"
+      ],
+      "authors": [
+        "Przemysław Odrobny"
+      ]
+    },
+    {
+      "title": "Powołono kolejną ligę",
+      "section": "Lokalnie",
+      "page": 10,
+      "tags": [
+        "Szczecin",
+        "konkurs"
+      ],
+      "authors": [
+        "Marcin Stefaniak"
+      ]
+    },
+    {
+      "title": "Zwiększenie wydajności w browarze rzemieślnicznym",
+      "section": "Technologia",
+      "page": 12,
+      "tags": [
+        "śrutowanie",
+        "gęsty zacier",
+        "podbicie",
+        "wygrzew",
+        "przepompowanie",
+        "vorlauf",
+        "brzeczka przednia",
+        "wysładzanie",
+        "temperatura filtratu",
+        "młoto",
+        "czyszczenie kadzi"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Warzyć piwo w granicach prawa",
+      "section": "Prawnik radzi",
+      "page": 14,
+      "tags": [
+        "prawo",
+        "obrót"
+      ],
+      "authors": [
+        "Michał Jaskólski"
+      ]
+    },
+    {
+      "title": "Koźlak, czyli zapomniany rogacz",
+      "section": "Piwo numeru",
+      "page": 16,
+      "tags": [
+        "receptura"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Słownik - litera E",
+      "section": "Słownik piwowarski",
+      "page": 9,
+      "tags": [
+        "efekt Crabtree",
+        "ekstrakt",
+        "ekstrakt pozorny",
+        "ekstrakt rzeczywisty",
+        "ekstraktywność słodu",
+        "enzymy",
+        "erytrodekstryny",
+        "estry",
+        "etanol",
+        "alkohol etylowy"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Termometr to podstawa, cz. II",
+      "section": "Narzędzia piwowara",
+      "page": 20,
+      "tags": [
+        "elektronika",
+        "czujniki"
+      ],
+      "authors": [
+        "Maciej Ostasiewicz"
+      ]
+    },
+    {
+      "title": "\"Synu, zostaniesz piwowarem\"",
+      "section": "Wywiad numeru",
+      "page": 22,
+      "tags": [
+        "Andrzej Gałasiewicz",
+        "Jan Olbracht",
+        "minibrowary.pl"
+      ],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "Sensoryka jak szwajcarski scyzoryk",
+      "section": "Warto wiedzieć",
+      "page": 24,
+      "tags": [
+        "sędziowanie"
+      ],
+      "authors": [
+        "Przemek Iwanek"
+      ]
+    },
+    {
+      "title": "Wysokie stężenie cierpliwości",
+      "section": "Kontrowersje",
+      "page": 26,
+      "tags": [
+        "felieton",
+        "leżakowanie piwa"
+      ],
+      "authors": [
+        "Michał Janiak"
+      ]
+    },
+    {
+      "title": "Marchewkowy zawrót głowy",
+      "section": "Ciekawe inicjatywy",
+      "page": 27,
+      "tags": [
+        "receptura",
+        "Daniel Duda",
+        "Olsztyn"
+      ],
+      "authors": [
+        "Artur Kamiński"
+      ]
+    },
+    {
+      "title": "Trunek z Jiahu",
+      "section": "Historia",
+      "page": 28,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "7. edycja sympozjum Piwo i zdrowie",
+      "section": "Wydarzenia",
+      "page": 30,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Krótka historia pomorskiego środowiska piwowarów i piwoszy",
+      "section": "Nowy oddział PSPD",
+      "page": 31,
+      "tags": [
+        "Pomorze",
+        "Gdańsk",
+        "oddział terenowy"
+      ],
+      "authors": [
+        "Filip Paprocki"
+      ]
+    },
+    {
+      "title": "Piwny Rzym",
+      "section": "Pocztówka z Włoch",
+      "page": 32,
+      "tags": [
+        "Włochy"
+      ],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Browar Stu Mostów, czyli kwestie definicji craftu",
+      "section": "Z wizytą w browarze",
+      "page": 34,
+      "tags": [
+        "Wrocław",
+        "browary"
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "\"For the Love of Hops\"",
+      "section": "Biblioteczka piwowara",
+      "page": 35,
+      "tags": [
+        "Brewing Elements",
+        "chmiel",
+        "Stan Hieronymus"
+      ],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Amerykańska rewolucja piwna - cz. III",
+      "section": "Historia",
+      "page": 36,
+      "tags": [
+        "Ken Grossman",
+        "Sierra Nevada"
+      ],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Piwna prywatka",
+      "section": "W kuchni",
+      "page": 38,
+      "tags": [
+        "przepisy",
+        "cebulowe krakersy",
+        "boczek karmelizowany",
+        "bułeczki jak precle"
+      ],
+      "authors": [
+        "Małgorzata Bujok"
+      ]
+    },
+    {
+      "title": "Jesteś twórcą!",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "felieton",
+        "hobby"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

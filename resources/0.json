@@ -1,185 +1,185 @@
 {
-	"issue": 0,
-	"color": "#FAC20B",
-	"articles": [
-		{
-			"title": "Polskie Stowarzyszenie Piwowarów Domowych",
-			"section": "Stowarzyszenie",
-			"page": 1,
-			"tags": [
-				"PSPD"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Kalendarium",
-			"section": "Wypatrzyliśmy",
-			"page": 2,
-			"tags": [
-				"grodziskie"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Święto piwa we Wrocławiu",
-			"section": "Zdarzyło się",
-			"page": 3,
-			"tags": [
-				"Wrocławski Festiwal Dobrego Piwa",
-				"WFDP",
-				"Wrocławskie Warsztaty Piwne",
-				"relacja",
-				"konkurs",
-				"wyniki"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Nie tylko prowadzimy sklep",
-			"section": "Wywiad",
-			"page": 5,
-			"tags": [
-				"Agnieszka Wołczaska-Prasolik",
-				"Marusia",
-				"Wrocławski Festiwal Dobrego Piwa",
-				"WFDP",
-				"Wrocławskie Warsztaty Piwne"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Piwowarzy promują Polskę na Słowacji",
-			"section": "Ze świata",
-			"page": 6,
-			"tags": [
-				"Słowacja",
-				"konkursy",
-				"relacja",
-				"festiwal"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Uwarzone własnoręcznie",
-			"section": "Dla początkujących",
-			"page": 8,
-			"tags": [
-				"śrutowanie",
-				"zacieranie",
-				"filtracja",
-				"gotowanie",
-				"chłodzenie",
-				"fermentacja burzliwa",
-				"fermentacja cicha",
-				"rozlew",
-				"nagazowanie",
-				"sklarowanie",
-				"degustacja"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Saison - wiejski przysmak na lato",
-			"section": "Piwo lata 2010",
-			"page": 10,
-			"tags": [
-				"Belgia",
-				"style piwa",
-				"historia",
-				"receptura"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Pomiar gęstości w domowym browarze",
-			"section": "Niezbędnik",
-			"page": 12,
-			"tags": [
-				"gęstość",
-				"ekstrakt",
-				"cukry",
-				"Karol Balling",
-				"kukła Karola Ballinga",
-				"technologia",
-				"areometr",
-				"refraktometr",
-				"Plato",
-				"BLG",
-				"Brix",
-				"przeliczniki",
-				"kalibracja"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Pielęgnacja przydomowej plantacji chmielu",
-			"section": "Poradnik",
-			"page": 15,
-			"tags": [
-				"IUNG",
-				"szkodniki",
-				"przędziorek",
-				"mszyca",
-				"mączniak"
-			],
-			"authors": [
-				"Mieczysław Stasiak"
-			]
-		},
-		{
-			"title": "My, piwowarzy niemieccy",
-			"section": "Ze świata",
-			"page": 18,
-			"tags": [
-				"Niemcy",
-				"Stowarzyszenie Piwowarów Domowych i Hobbystycznych w Niemczech",
-				"Vereinigung der Haus- und Hobbybrauer in Deutschland",
-				"VHD"
-			],
-			"authors": [
-				"Volker R. Quante"
-			]
-		},
-		{
-			"title": "Po co nam style piwne?",
-			"section": "1000 IBU",
-			"page": 20,
-			"tags": [
-				"konkursy",
-				"PSPD",
-				"BJCP"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Lublin warzy!",
-			"section": "W browarze",
-			"page": 21,
-			"tags": [
-				"browary",
-				"Browar restauracyjny Grodzka 15"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		}
-	]
+  "issue": 0,
+  "color": "#FAC20B",
+  "articles": [
+    {
+      "title": "Polskie Stowarzyszenie Piwowarów Domowych",
+      "section": "Stowarzyszenie",
+      "page": 1,
+      "tags": [
+        "PSPD"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Kalendarium",
+      "section": "Wypatrzyliśmy",
+      "page": 2,
+      "tags": [
+        "grodziskie"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Święto piwa we Wrocławiu",
+      "section": "Zdarzyło się",
+      "page": 3,
+      "tags": [
+        "Wrocławski Festiwal Dobrego Piwa",
+        "WFDP",
+        "Wrocławskie Warsztaty Piwne",
+        "relacja",
+        "konkurs",
+        "wyniki"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Nie tylko prowadzimy sklep",
+      "section": "Wywiad",
+      "page": 5,
+      "tags": [
+        "Agnieszka Wołczaska-Prasolik",
+        "Marusia",
+        "Wrocławski Festiwal Dobrego Piwa",
+        "WFDP",
+        "Wrocławskie Warsztaty Piwne"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Piwowarzy promują Polskę na Słowacji",
+      "section": "Ze świata",
+      "page": 6,
+      "tags": [
+        "Słowacja",
+        "konkursy",
+        "relacja",
+        "festiwal"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Uwarzone własnoręcznie",
+      "section": "Dla początkujących",
+      "page": 8,
+      "tags": [
+        "śrutowanie",
+        "zacieranie",
+        "filtracja",
+        "gotowanie",
+        "chłodzenie",
+        "fermentacja burzliwa",
+        "fermentacja cicha",
+        "rozlew",
+        "nagazowanie",
+        "sklarowanie",
+        "degustacja"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Saison - wiejski przysmak na lato",
+      "section": "Piwo lata 2010",
+      "page": 10,
+      "tags": [
+        "Belgia",
+        "style piwa",
+        "historia",
+        "receptura"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Pomiar gęstości w domowym browarze",
+      "section": "Niezbędnik",
+      "page": 12,
+      "tags": [
+        "gęstość",
+        "ekstrakt",
+        "cukry",
+        "Karol Balling",
+        "kukła Karola Ballinga",
+        "technologia",
+        "areometr",
+        "refraktometr",
+        "Plato",
+        "BLG",
+        "Brix",
+        "przeliczniki",
+        "kalibracja"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Pielęgnacja przydomowej plantacji chmielu",
+      "section": "Poradnik",
+      "page": 15,
+      "tags": [
+        "IUNG",
+        "szkodniki",
+        "przędziorek",
+        "mszyca",
+        "mączniak"
+      ],
+      "authors": [
+        "Mieczysław Stasiak"
+      ]
+    },
+    {
+      "title": "My, piwowarzy niemieccy",
+      "section": "Ze świata",
+      "page": 18,
+      "tags": [
+        "Niemcy",
+        "Stowarzyszenie Piwowarów Domowych i Hobbystycznych w Niemczech",
+        "Vereinigung der Haus- und Hobbybrauer in Deutschland",
+        "VHD"
+      ],
+      "authors": [
+        "Volker R. Quante"
+      ]
+    },
+    {
+      "title": "Po co nam style piwne?",
+      "section": "1000 IBU",
+      "page": 20,
+      "tags": [
+        "konkursy",
+        "PSPD",
+        "BJCP"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Lublin warzy!",
+      "section": "W browarze",
+      "page": 21,
+      "tags": [
+        "browary",
+        "Browar restauracyjny Grodzka 15"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    }
+  ]
 }

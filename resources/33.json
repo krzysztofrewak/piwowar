@@ -1,119 +1,150 @@
 {
-	"issue": "33",
-	"color": "#d72638",
-	"articles": [
-		{
-			"title": "Wszystko jest możliwe, tylko trzeba mieć dużo samozaparcia",
-			"section": "Wywiad",
-			"page": "2",
-			"tags": [],
-			"authors": ["Paweł Leszczyński"]
-		},
-		{
-			"title": "Flanders red ale",
-			"section": "Piwo numeru",
-			"page": "8",
-			"tags": [],
-			"authors": ["Paweł Poręba"]
-		},
-		{
-			"title": "Flanders red ale pod kątem kulinarnym",
-			"section": "Kulinaria",
-			"page": "12",
-			"tags": [],
-			"authors": ["Michał Kopik"]
-		},
-		{
-			"title": "Cydrownictwo: Co kryje moszcz jabłkowy? Cz. 3",
-			"section": "Cydrownictwo",
-			"page": "14",
-			"tags": [],
-			"authors": ["Przemysław Iwanek"]
-		},
-		{
-			"title": "Beer science – doniesienia ze świata nauki",
-			"section": "Nauka",
-			"page": "20",
-			"tags": [],
-			"authors": ["Marcin Ostajewski"]
-		},
-		{
-			"title": "Litera „Z” i „Ż”",
-			"section": "Słownik piwowarski",
-			"page": "21",
-			"tags": [],
-			"authors": ["Dorota Chrapek"]
-		},
-		{
-			"title": "Drożdże niekonwencjonalne a produkcja piwa, czyli o nowych gatunkach wykorzystywanych w browarnictwie",
-			"section": "Nauka",
-			"page": "22",
-			"tags": [],
-			"authors": ["Magdalena Biesiadecka"]
-		},
-		{
-			"title": "Gotlandsdricke – piwo domowe z Gotlandii",
-			"section": "Piwne style",
-			"page": "25",
-			"tags": [],
-			"authors": ["Marcin Chmielarz"]
-		},
-		{
-			"title": "Laktony, wanilina i inne pożytki z drewna",
-			"section": "Technologia",
-			"page": "28",
-			"tags": [],
-			"authors": ["Piotr Wypych"]
-		},
-		{
-			"title": "Problematyka opodatkowania piw refermentowanych",
-			"section": "Prawo",
-			"page": "30",
-			"tags": [],
-			"authors": ["Dawid Siedlecki"]
-		},
-		{
-			"title": "Porady piwowarskie cz. 4",
-			"section": "Technologia",
-			"page": "32",
-			"tags": [],
-			"authors": ["Maciej Wentowski"]
-		},
-		{
-			"title": "Przetwórnia Chmielu",
-			"section": "Z wizytą w browarze",
-			"page": "34",
-			"tags": [],
-			"authors": ["Michał Maranda"]
-		},
-		{
-			"title": "Piwny Manchester",
-			"section": "Podróże",
-			"page": "36",
-			"tags": [],
-			"authors": ["Artur Napiórkowski"]
-		},
-		{
-			"title": "Rewolucyjne puszki!",
-			"section": "Artykuł sponsorowany",
-			"page": "38",
-			"tags": [],
-			"authors": ["Ingeborg Rosenberg"]
-		},
-		{
-			"title": "Beer Alchemy: DIY Beer Brewing Mastery @ Home",
-			"section": "Biblioteczka piwowara",
-			"page": "39",
-			"tags": [],
-			"authors": ["Piotr Kucharski"]
-		},
-		{
-			"title": "Piwo w czasach zarazy",
-			"section": "Felieton",
-			"page": "40",
-			"tags": [],
-			"authors": ["Artur Napiórkowski"]
-		}
-
-	]
+  "issue": "33",
+  "color": "#d72638",
+  "articles": [
+    {
+      "title": "Wszystko jest możliwe, tylko trzeba mieć dużo samozaparcia",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Flanders red ale",
+      "section": "Piwo numeru",
+      "page": "8",
+      "tags": [],
+      "authors": [
+        "Paweł Poręba"
+      ]
+    },
+    {
+      "title": "Flanders red ale pod kątem kulinarnym",
+      "section": "Kulinaria",
+      "page": "12",
+      "tags": [],
+      "authors": [
+        "Michał Kopik"
+      ]
+    },
+    {
+      "title": "Cydrownictwo: Co kryje moszcz jabłkowy? Cz. 3",
+      "section": "Cydrownictwo",
+      "page": "14",
+      "tags": [],
+      "authors": [
+        "Przemysław Iwanek"
+      ]
+    },
+    {
+      "title": "Beer science – doniesienia ze świata nauki",
+      "section": "Nauka",
+      "page": "20",
+      "tags": [],
+      "authors": [
+        "Marcin Ostajewski"
+      ]
+    },
+    {
+      "title": "Litera „Z” i „Ż”",
+      "section": "Słownik piwowarski",
+      "page": "21",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Drożdże niekonwencjonalne a produkcja piwa, czyli o nowych gatunkach wykorzystywanych w browarnictwie",
+      "section": "Nauka",
+      "page": "22",
+      "tags": [],
+      "authors": [
+        "Magdalena Biesiadecka"
+      ]
+    },
+    {
+      "title": "Gotlandsdricke – piwo domowe z Gotlandii",
+      "section": "Piwne style",
+      "page": "25",
+      "tags": [],
+      "authors": [
+        "Marcin Chmielarz"
+      ]
+    },
+    {
+      "title": "Laktony, wanilina i inne pożytki z drewna",
+      "section": "Technologia",
+      "page": "28",
+      "tags": [],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Problematyka opodatkowania piw refermentowanych",
+      "section": "Prawo",
+      "page": "30",
+      "tags": [],
+      "authors": [
+        "Dawid Siedlecki"
+      ]
+    },
+    {
+      "title": "Porady piwowarskie cz. 4",
+      "section": "Technologia",
+      "page": "32",
+      "tags": [],
+      "authors": [
+        "Maciej Wentowski"
+      ]
+    },
+    {
+      "title": "Przetwórnia Chmielu",
+      "section": "Z wizytą w browarze",
+      "page": "34",
+      "tags": [],
+      "authors": [
+        "Michał Maranda"
+      ]
+    },
+    {
+      "title": "Piwny Manchester",
+      "section": "Podróże",
+      "page": "36",
+      "tags": [],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Rewolucyjne puszki!",
+      "section": "Artykuł sponsorowany",
+      "page": "38",
+      "tags": [],
+      "authors": [
+        "Ingeborg Rosenberg"
+      ]
+    },
+    {
+      "title": "Beer Alchemy: DIY Beer Brewing Mastery @ Home",
+      "section": "Biblioteczka piwowara",
+      "page": "39",
+      "tags": [],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Piwo w czasach zarazy",
+      "section": "Felieton",
+      "page": "40",
+      "tags": [],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    }
+  ]
 }

@@ -1,332 +1,332 @@
 {
-	"issue": 4,
-	"color": "#903F00",
-	"articles": [
-		{
-			"title": "Odzyskajmy grodziskie",
-			"section": "Stowarzyszenie",
-			"page": 1,
-			"tags": [
-				"konkurs Prawie jak Grodzisz",
-				"Pinta"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Kalendarium (lipiec-październik 2011)",
-			"section": "Wypatrzyliśmy",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Mamy polskie kolońskie",
-			"section": "Stowarzyszenie",
-			"page": 4,
-			"tags": [
-				"konkurs",
-				"Jan Szała",
-				"Kölsch",
-				"Koelsch",
-				"kolońskie",
-				"relacja",
-				"Birofilia 2011"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Wysokie loty Kormorana",
-			"section": "Z wizytą w browarze",
-			"page": 6,
-			"tags": [
-				"Browar Kormoran",
-				"Olsztyn",
-				"browary"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Piwowarzy znów rozmawiają!",
-			"section": "Branża piwowarska",
-			"page": 8,
-			"tags": [
-				"Forum Technologii Browarnicznych",
-				"Cieszyn",
-				"relacja"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Gospodarka drożdżami w browarze",
-			"section": "Branża piwowarska",
-			"page": 9,
-			"tags": [
-				"drożdże",
-				"Browar Ciechan"
-			],
-			"authors": [
-				""
-			]
-		},
-		{
-			"title": "Wczesną jesienią w Cieszynie",
-			"section": "Zdarzyło się",
-			"page": 10,
-			"tags": [
-				"Bracka Jesień",
-				"relacja",
-				"wyniki",
-				"konkursy"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Porter bałtycki - piwowarski skarb Polski",
-			"section": "Dla początkujących",
-			"page": 11,
-			"tags": [
-				"style piwa",
-				"historia",
-				"przegląd"
-			],
-			"authors": [
-				"Marcin Chmielarz"
-			]
-		},
-		{
-			"title": "Mistrzowskie receptury",
-			"section": "Mistrzowskie receptury",
-			"page": 13,
-			"tags": [
-				"receptura",
-				"porter bałtycki",
-				"Porter opalenicki",
-				"Bracki Konkurs Piw Domowych"
-			],
-			"authors": [
-				"Andrzej Smyk"
-			]
-		},
-		{
-			"title": "10. Edycja Konkursu Piw Domowych",
-			"section": "Birofilia 2012",
-			"page": 14,
-			"tags": [
-				"kategorie konkursu",
-				"konkursy"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Polacy i Niemcy warzą w Szczecinie",
-			"section": "Dla początkujących",
-			"page": 15,
-			"tags": [
-				"Szczecin",
-				"PSPD",
-				"relacja"
-			],
-			"authors": [
-				"Volker R. Quante"
-			]
-		},
-		{
-			"title": "Przełom, osad gorący i zimny",
-			"section": "Niezbędnik",
-			"page": 16,
-			"tags": [
-				"technologia",
-				"chmielenie",
-				"wytrącanie się osadu"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Quadrupel - Belgian Dark Strong Ale",
-			"section": "Piwo jesieni",
-			"page": 18,
-			"tags": [
-				"Belgia",
-				"BDSA",
-				"style",
-				"piwa klasztorne",
-				"drożdże",
-				"receptura"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "O warunkach wstępnych udanej fermentacji słów kilka",
-			"section": "Niezbędnik",
-			"page": 21,
-			"tags": [
-				"fermentacja",
-				"brzeczka",
-				"drożdże płynne",
-				"drożdże suche",
-				"natlenienie brzeczki"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Napowietrzanie brzeczki",
-			"section": "Niezbędnik",
-			"page": 23,
-			"tags": [
-				"natlenienie",
-				"brzeczka",
-				"fermentacja",
-				"drożdże",
-				"popmka akwaryjna",
-				"dekantacja"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Speidel Braumeister - wygoda kosztuje",
-			"section": "Niezbędnik",
-			"page": 26,
-			"tags": [
-				"technologia",
-				"automatyka",
-				"programowanie",
-				"filtracja",
-				"zacieranie",
-				"gotowanie"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Quadrupel w kuchni",
-			"section": "Kuchnia Piwowarki Agi",
-			"page": 28,
-			"tags": [
-				"przepisy",
-				"sery",
-				"camembert",
-				"makaron z buraczkami",
-				"ciasto karmelowe z orzechami"
-			],
-			"authors": [
-				"Agnieszka Łopata"
-			]
-		},
-		{
-			"title": "Czy warzenie piwa w domu jest legalne?",
-			"section": "Niezbędnik",
-			"page": 30,
-			"tags": [
-				"pytania i odpowiedzi",
-				"prawo"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Piwowarska pasja pracowników Grupy Żywiec",
-			"section": "Zdarzyło się",
-			"page": 32,
-			"tags": [
-				"Grupa Żywiec",
-				"Akademia Warzenia",
-				"relacja"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Duże piwo w Londynie",
-			"section": "Ze świata",
-			"page": 34,
-			"tags": [
-				"Great British Beer Festival 2011",
-				"festiwale",
-				"relacja"
-			],
-			"authors": [
-				"Grzegorz Zwierzyna"
-			]
-		},
-		{
-			"title": "Cerveza Artesana 2011",
-			"section": "Ze świata",
-			"page": 37,
-			"tags": [
-				"Hiszpania",
-				"festiwale",
-				"relacja"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Piwowarzy w akcji!",
-			"section": "Piwowarzy w akcji",
-			"page": 38,
-			"tags": [
-				"browar domowy",
-				"Mikrobrowar Brama Wrocławia",
-				"Mateusz Kupracz",
-				"Biały Baran",
-				"zdjęcia"
-			],
-			"authors": [
-				""
-			]
-		},
-		{
-			"title": "Trzy Korony, czyli najdłużej otwierany browar w Polsce",
-			"section": "Z wizytą w browarze",
-			"page": 39,
-			"tags": [
-				"Puławy",
-				"Browar Trzy Korony",
-				"browary"
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Jak zostałem BJCP-fobem",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"felieton",
-				"style piwa"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": 4,
+  "color": "#903F00",
+  "articles": [
+    {
+      "title": "Odzyskajmy grodziskie",
+      "section": "Stowarzyszenie",
+      "page": 1,
+      "tags": [
+        "konkurs Prawie jak Grodzisz",
+        "Pinta"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Kalendarium (lipiec-październik 2011)",
+      "section": "Wypatrzyliśmy",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Mamy polskie kolońskie",
+      "section": "Stowarzyszenie",
+      "page": 4,
+      "tags": [
+        "konkurs",
+        "Jan Szała",
+        "Kölsch",
+        "Koelsch",
+        "kolońskie",
+        "relacja",
+        "Birofilia 2011"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Wysokie loty Kormorana",
+      "section": "Z wizytą w browarze",
+      "page": 6,
+      "tags": [
+        "Browar Kormoran",
+        "Olsztyn",
+        "browary"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Piwowarzy znów rozmawiają!",
+      "section": "Branża piwowarska",
+      "page": 8,
+      "tags": [
+        "Forum Technologii Browarnicznych",
+        "Cieszyn",
+        "relacja"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Gospodarka drożdżami w browarze",
+      "section": "Branża piwowarska",
+      "page": 9,
+      "tags": [
+        "drożdże",
+        "Browar Ciechan"
+      ],
+      "authors": [
+        ""
+      ]
+    },
+    {
+      "title": "Wczesną jesienią w Cieszynie",
+      "section": "Zdarzyło się",
+      "page": 10,
+      "tags": [
+        "Bracka Jesień",
+        "relacja",
+        "wyniki",
+        "konkursy"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Porter bałtycki - piwowarski skarb Polski",
+      "section": "Dla początkujących",
+      "page": 11,
+      "tags": [
+        "style piwa",
+        "historia",
+        "przegląd"
+      ],
+      "authors": [
+        "Marcin Chmielarz"
+      ]
+    },
+    {
+      "title": "Mistrzowskie receptury",
+      "section": "Mistrzowskie receptury",
+      "page": 13,
+      "tags": [
+        "receptura",
+        "porter bałtycki",
+        "Porter opalenicki",
+        "Bracki Konkurs Piw Domowych"
+      ],
+      "authors": [
+        "Andrzej Smyk"
+      ]
+    },
+    {
+      "title": "10. Edycja Konkursu Piw Domowych",
+      "section": "Birofilia 2012",
+      "page": 14,
+      "tags": [
+        "kategorie konkursu",
+        "konkursy"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Polacy i Niemcy warzą w Szczecinie",
+      "section": "Dla początkujących",
+      "page": 15,
+      "tags": [
+        "Szczecin",
+        "PSPD",
+        "relacja"
+      ],
+      "authors": [
+        "Volker R. Quante"
+      ]
+    },
+    {
+      "title": "Przełom, osad gorący i zimny",
+      "section": "Niezbędnik",
+      "page": 16,
+      "tags": [
+        "technologia",
+        "chmielenie",
+        "wytrącanie się osadu"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Quadrupel - Belgian Dark Strong Ale",
+      "section": "Piwo jesieni",
+      "page": 18,
+      "tags": [
+        "Belgia",
+        "BDSA",
+        "style",
+        "piwa klasztorne",
+        "drożdże",
+        "receptura"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "O warunkach wstępnych udanej fermentacji słów kilka",
+      "section": "Niezbędnik",
+      "page": 21,
+      "tags": [
+        "fermentacja",
+        "brzeczka",
+        "drożdże płynne",
+        "drożdże suche",
+        "natlenienie brzeczki"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Napowietrzanie brzeczki",
+      "section": "Niezbędnik",
+      "page": 23,
+      "tags": [
+        "natlenienie",
+        "brzeczka",
+        "fermentacja",
+        "drożdże",
+        "popmka akwaryjna",
+        "dekantacja"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Speidel Braumeister - wygoda kosztuje",
+      "section": "Niezbędnik",
+      "page": 26,
+      "tags": [
+        "technologia",
+        "automatyka",
+        "programowanie",
+        "filtracja",
+        "zacieranie",
+        "gotowanie"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Quadrupel w kuchni",
+      "section": "Kuchnia Piwowarki Agi",
+      "page": 28,
+      "tags": [
+        "przepisy",
+        "sery",
+        "camembert",
+        "makaron z buraczkami",
+        "ciasto karmelowe z orzechami"
+      ],
+      "authors": [
+        "Agnieszka Łopata"
+      ]
+    },
+    {
+      "title": "Czy warzenie piwa w domu jest legalne?",
+      "section": "Niezbędnik",
+      "page": 30,
+      "tags": [
+        "pytania i odpowiedzi",
+        "prawo"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Piwowarska pasja pracowników Grupy Żywiec",
+      "section": "Zdarzyło się",
+      "page": 32,
+      "tags": [
+        "Grupa Żywiec",
+        "Akademia Warzenia",
+        "relacja"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Duże piwo w Londynie",
+      "section": "Ze świata",
+      "page": 34,
+      "tags": [
+        "Great British Beer Festival 2011",
+        "festiwale",
+        "relacja"
+      ],
+      "authors": [
+        "Grzegorz Zwierzyna"
+      ]
+    },
+    {
+      "title": "Cerveza Artesana 2011",
+      "section": "Ze świata",
+      "page": 37,
+      "tags": [
+        "Hiszpania",
+        "festiwale",
+        "relacja"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Piwowarzy w akcji!",
+      "section": "Piwowarzy w akcji",
+      "page": 38,
+      "tags": [
+        "browar domowy",
+        "Mikrobrowar Brama Wrocławia",
+        "Mateusz Kupracz",
+        "Biały Baran",
+        "zdjęcia"
+      ],
+      "authors": [
+        ""
+      ]
+    },
+    {
+      "title": "Trzy Korony, czyli najdłużej otwierany browar w Polsce",
+      "section": "Z wizytą w browarze",
+      "page": 39,
+      "tags": [
+        "Puławy",
+        "Browar Trzy Korony",
+        "browary"
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Jak zostałem BJCP-fobem",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "felieton",
+        "style piwa"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

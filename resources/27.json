@@ -1,195 +1,195 @@
 {
-	"issue": "27",
-	"color": "#E12A24",
-	"articles": [
-		{
-			"title": "Zmiany na szczycie",
-			"section": "Wokół Stowarzyszenia",
-			"page": "1",
-			"tags": [],
-			"authors": [
-				"Artur Kamiński"
-			]
-		},
-		{
-			"title": "Po pierwsze - integracja",
-			"section": "Wywiad numeru",
-			"page": "2",
-			"tags": [],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "Wiedeńska elegancja",
-			"section": "Piwo numeru",
-			"page": "5",
-			"tags": [],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Narodowy trunek Japonii",
-			"section": "Podróże",
-			"page": "8",
-			"tags": [],
-			"authors": [
-				"Michał Kopik"
-			]
-		},
-		{
-			"title": "Spotkanie delegatów nad Wartą",
-			"section": "Wokół Stowarzyszenia",
-			"page": "10",
-			"tags": [],
-			"authors": [
-				"Artur Kamiński"
-			]
-		},
-		{
-			"title": "Katalońskie impresje o dobrym piwie w Barcelonie",
-			"section": "Piwna Europa",
-			"page": "12",
-			"tags": [],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "France Biere Challenge - pierwsza i udana edycja",
-			"section": "Wydarzenia",
-			"page": "14",
-			"tags": [],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Dodatek kawy w piwie",
-			"section": "Surowce",
-			"page": "16",
-			"tags": [],
-			"authors": [
-				"Łukasz Derdziak"
-			]
-		},
-		{
-			"title": "XIX Szkoła Technologii Fermentacji. O piwie przy piwie",
-			"section": "Edukacja",
-			"page": "18",
-			"tags": [],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "Browar Zapanbrat, czyli jakość na pierwszym miejscu",
-			"section": "Z wizytą w browarze",
-			"page": "20",
-			"tags": [],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Litera \"R\"",
-			"section": "Słownik piwowarski",
-			"page": "21",
-			"tags": [],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Wszystko o zmętnieniu piwa",
-			"section": "Technologia",
-			"page": "22",
-			"tags": [],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Hybrydy drożdżowe. Natura czy GMO? ",
-			"section": "Nauka",
-			"page": "24",
-			"tags": [],
-			"authors": [
-				"Magdalena Biesiadecka"
-			]
-		},
-		{
-			"title": "Beer science, czyli doniesienia ze świata nauki",
-			"section": "Nauka",
-			"page": "27",
-			"tags": [],
-			"authors": [
-				"Marcin Ostajewski"
-			]
-		},
-		{
-			"title": "Akademia Dobrego Piwa. Medal dla najlepszych",
-			"section": "Edukacja",
-			"page": "28",
-			"tags": [],
-			"authors": [
-				"Katarzyna Kaczorowska"
-			]
-		},
-		{
-			"title": "Belgijskie i francuskie farmhouse ales",
-			"section": "Piwne style",
-			"page": "30",
-			"tags": [],
-			"authors": [
-				"Paweł Masłowski"
-			]
-		},
-		{
-			"title": "Laboratoryjna analiza jęczmienia i słodu",
-			"section": "Surowce",
-			"page": "32",
-			"tags": [],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Tajemnica opactwa St. Gallen",
-			"section": "Historia",
-			"page": "34",
-			"tags": [],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Brew",
-			"section": "Biblioteczka piwowara",
-			"page": "37",
-			"tags": [],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "O’zapft ist! ",
-			"section": "Podróże",
-			"page": "38",
-			"tags": [],
-			"authors": [
-				"Krzysztof Żurawski"
-			]
-		},
-		{
-			"title": "Kupą, mości Panowie! ",
-			"section": "1000 IBU",
-			"page": "41",
-			"tags": [],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": "27",
+  "color": "#E12A24",
+  "articles": [
+    {
+      "title": "Zmiany na szczycie",
+      "section": "Wokół Stowarzyszenia",
+      "page": "1",
+      "tags": [],
+      "authors": [
+        "Artur Kamiński"
+      ]
+    },
+    {
+      "title": "Po pierwsze - integracja",
+      "section": "Wywiad numeru",
+      "page": "2",
+      "tags": [],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "Wiedeńska elegancja",
+      "section": "Piwo numeru",
+      "page": "5",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Narodowy trunek Japonii",
+      "section": "Podróże",
+      "page": "8",
+      "tags": [],
+      "authors": [
+        "Michał Kopik"
+      ]
+    },
+    {
+      "title": "Spotkanie delegatów nad Wartą",
+      "section": "Wokół Stowarzyszenia",
+      "page": "10",
+      "tags": [],
+      "authors": [
+        "Artur Kamiński"
+      ]
+    },
+    {
+      "title": "Katalońskie impresje o dobrym piwie w Barcelonie",
+      "section": "Piwna Europa",
+      "page": "12",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "France Biere Challenge - pierwsza i udana edycja",
+      "section": "Wydarzenia",
+      "page": "14",
+      "tags": [],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Dodatek kawy w piwie",
+      "section": "Surowce",
+      "page": "16",
+      "tags": [],
+      "authors": [
+        "Łukasz Derdziak"
+      ]
+    },
+    {
+      "title": "XIX Szkoła Technologii Fermentacji. O piwie przy piwie",
+      "section": "Edukacja",
+      "page": "18",
+      "tags": [],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "Browar Zapanbrat, czyli jakość na pierwszym miejscu",
+      "section": "Z wizytą w browarze",
+      "page": "20",
+      "tags": [],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Litera \"R\"",
+      "section": "Słownik piwowarski",
+      "page": "21",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Wszystko o zmętnieniu piwa",
+      "section": "Technologia",
+      "page": "22",
+      "tags": [],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Hybrydy drożdżowe. Natura czy GMO? ",
+      "section": "Nauka",
+      "page": "24",
+      "tags": [],
+      "authors": [
+        "Magdalena Biesiadecka"
+      ]
+    },
+    {
+      "title": "Beer science, czyli doniesienia ze świata nauki",
+      "section": "Nauka",
+      "page": "27",
+      "tags": [],
+      "authors": [
+        "Marcin Ostajewski"
+      ]
+    },
+    {
+      "title": "Akademia Dobrego Piwa. Medal dla najlepszych",
+      "section": "Edukacja",
+      "page": "28",
+      "tags": [],
+      "authors": [
+        "Katarzyna Kaczorowska"
+      ]
+    },
+    {
+      "title": "Belgijskie i francuskie farmhouse ales",
+      "section": "Piwne style",
+      "page": "30",
+      "tags": [],
+      "authors": [
+        "Paweł Masłowski"
+      ]
+    },
+    {
+      "title": "Laboratoryjna analiza jęczmienia i słodu",
+      "section": "Surowce",
+      "page": "32",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Tajemnica opactwa St. Gallen",
+      "section": "Historia",
+      "page": "34",
+      "tags": [],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Brew",
+      "section": "Biblioteczka piwowara",
+      "page": "37",
+      "tags": [],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "O’zapft ist! ",
+      "section": "Podróże",
+      "page": "38",
+      "tags": [],
+      "authors": [
+        "Krzysztof Żurawski"
+      ]
+    },
+    {
+      "title": "Kupą, mości Panowie! ",
+      "section": "1000 IBU",
+      "page": "41",
+      "tags": [],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

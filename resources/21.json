@@ -1,347 +1,347 @@
 {
-	"issue": 21,
-	"color": "#73AB47",
-	"articles": [
-		{
-			"title": "Nadeszło nowe",
-			"section": "Wokół stowarzyszenia",
-			"page": 1,
-			"tags": [
-				"Walne Zebranie Delegatów PSPD"
-			],
-			"authors": [
-				"Michał Jaskólski"
-			]
-		},
-		{
-			"title": "Sprawozdanie merytoryczne Zarządu PSPD z działalności Stowarzyszenia za okres sprawozdawczy 2015\/2016",
-			"section": "Sprawy PSPD",
-			"page": 2,
-			"tags": [
-				"Piwowar",
-				"raport",
-				"członkowie PSPD",
-				"kursy sędziowski",
-				"konkursy piw domowych",
-				"Puchar PSPD",
-				"Waldemar Pitala",
-				"Oddziały Terenowe"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Najlepsze piwo w Oslo leje się za darmo!",
-			"section": "Europa",
-			"page": 4,
-			"tags": [
-				"Norwegia",
-				"Norbrygg",
-				"relacja"
-			],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Jak to się robi w Szwecji?",
-			"section": "Europa",
-			"page": 6,
-			"tags": [
-				"Szwecja",
-				"Svenska hembryggareforeningen"
-			],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Birra dell'Anno 2016",
-			"section": "Włochy",
-			"page": 8,
-			"tags": [
-				"konkursy",
-				"relacja"
-			],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Beer Attraction - Rimini zaprasza",
-			"section": "Włochy",
-			"page": 9,
-			"tags": [
-				"Pianeta Birra",
-				"festiwale",
-				"relacja"
-			],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Oj IBU, IBU! (część I)",
-			"section": "Nauka",
-			"page": 10,
-			"tags": [
-				"chmiel",
-				"Internation Bitterness Units",
-				"izo-alfa-kwasy",
-				"goryczka",
-				"chemia"
-			],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Na tropie polskiego piwa",
-			"section": "Historia",
-			"page": 12,
-			"tags": [
-				"Reinheitsgebot",
-				"piwo pszeniczne"
-			],
-			"authors": [
-				"Radosław Kotarski"
-			]
-		},
-		{
-			"title": "Triple - potrójne piwo klasztorne",
-			"section": "Piwo numeru",
-			"page": 14,
-			"tags": [
-				"style piwa",
-				"receptura",
-				"Belgia"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Słownik piwowarski - litery I i J",
-			"section": "Słownik piwowarski",
-			"page": 17,
-			"tags": [
-				"IBU",
-				"infekcja",
-				"infuzja",
-				"zacieranie infuzyjne",
-				"inwertaza",
-				"inwertowany cukier",
-				"beta-fruktofuranozydaza",
-				"izo-alfa-kwasy",
-				"izomeryzacja",
-				"jodowy wskaźnik skrobi",
-				"jon"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Jak to się robi w browarze? Rozlew w butelki",
-			"section": "Technologia",
-			"page": 18,
-			"tags": [
-				"rozlew ręczny",
-				"automatyka",
-				"automatyzacja rozlewu",
-				"linie rozlewnicze",
-				"sprzęt",
-				"nalewarka",
-				"karuzela"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Własny termostat od podstaw",
-			"section": "Zrób to samo",
-			"page": 20,
-			"tags": [
-				"elektronika",
-				"czujnik temperatury",
-				"termistor NTC 10k",
-				"DIY"
-			],
-			"authors": [
-				"Maciej Ostasiewicz"
-			]
-		},
-		{
-			"title": "PARPA i jej alternatywna rzeczywistość",
-			"section": "Prawnik radzi",
-			"page": 23,
-			"tags": [
-				"Państwowa Agencja Rozwiązywania Problemów Alkoholowych",
-				"prawo",
-				"delegalizacja"
-			],
-			"authors": [
-				"Michał Jaskólski"
-			]
-		},
-		{
-			"title": "Zdrowa fermentacja - dobre praktyki dla początkujących",
-			"section": "ABC piwowara",
-			"page": 24,
-			"tags": [
-				"temperatura fermentacji",
-				"czas fermentacji"
-			],
-			"authors": [
-				"Bartosz Markowski"
-			]
-		},
-		{
-			"title": "Piwowarze domowy, zostań cydrownikiem!",
-			"section": "Nie tylko piwo",
-			"page": 26,
-			"tags": [
-				"cydr",
-				"sok",
-				"jabłka",
-				"sprzęt"
-			],
-			"authors": [
-				"Przemek Iwanek",
-				"Kuba Piesio"
-			]
-		},
-		{
-			"title": "Tajemnicze początki jasnego piwa z Pilzna",
-			"section": "Niezwykłe historie",
-			"page": 28,
-			"tags": [
-				"Pilzno",
-				"Czechy",
-				"pilzner",
-				"pils",
-				"historia",
-				"rok 1842"
-			],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Mieszanie piw kwaśnych w browarze domowym",
-			"section": "Technologia",
-			"page": 30,
-			"tags": [
-				"piwa kwaśne",
-				"sour ales",
-				"Lactobacillus",
-				"Berliner Weisse",
-				"gueuze",
-				"lambic",
-				"Flanders Red Ale",
-				"Oud bruin",
-				"old ale",
-				"wady",
-				"kwas octowy",
-				"diacetyl",
-				"kwas izowalerianowy",
-				"fenole"
-			],
-			"authors": [
-				"Paweł Masłowski"
-			]
-		},
-		{
-			"title": "Lactobacillus - skąd brać? jak używać? (część I)",
-			"section": "Piwa kwaśne",
-			"page": 32,
-			"tags": [
-				"bakterie",
-				"White Labs",
-				"Wyeast",
-				"drożdże",
-				"mleczne napoje fermnetowane",
-				"MNF",
-				"łuski słodu",
-				"probiotyki",
-				"kiszonki",
-				"kultury mleczarskie",
-				"kultury piekarnicze"
-			],
-			"authors": [
-				"Michał \"Kordas\" Kordek"
-			]
-		},
-		{
-			"title": "Warsztat piwowarski, czyli Marusia wkracza na scenę",
-			"section": "W browarze",
-			"page": 34,
-			"tags": [
-				"Wrocław",
-				"browary"
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "\"Malt\"",
-			"section": "Biblioteczka piwowara",
-			"page": 35,
-			"tags": [
-				"Malt. A practical guide from Field to Brewhouse",
-				"John Mallett",
-				"Brewing Elements",
-				"literatura"
-			],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "Czym jest tegestologia?",
-			"section": "Kolekcjonerem być",
-			"page": 36,
-			"tags": [
-				"podkładki piwne",
-				"wafle"
-			],
-			"authors": [
-				"Renata Kwiecień"
-			]
-		},
-		{
-			"title": "Polskie piwo i holenderska wyprawa arktyczna",
-			"section": "Historia",
-			"page": 38,
-			"tags": [
-				"Holandia",
-				"Willem Barents",
-				"jopejskie",
-				"Gdańsk",
-				"Jopenbier",
-				"koło podbiegunowe"
-			],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Polski kraft w Kaliforni",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"felieton",
-				"Browar Widawa",
-				"AleBrowar",
-				"Ratebeer Best Festival",
-				"festiwale"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": 21,
+  "color": "#73AB47",
+  "articles": [
+    {
+      "title": "Nadeszło nowe",
+      "section": "Wokół stowarzyszenia",
+      "page": 1,
+      "tags": [
+        "Walne Zebranie Delegatów PSPD"
+      ],
+      "authors": [
+        "Michał Jaskólski"
+      ]
+    },
+    {
+      "title": "Sprawozdanie merytoryczne Zarządu PSPD z działalności Stowarzyszenia za okres sprawozdawczy 2015\/2016",
+      "section": "Sprawy PSPD",
+      "page": 2,
+      "tags": [
+        "Piwowar",
+        "raport",
+        "członkowie PSPD",
+        "kursy sędziowski",
+        "konkursy piw domowych",
+        "Puchar PSPD",
+        "Waldemar Pitala",
+        "Oddziały Terenowe"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Najlepsze piwo w Oslo leje się za darmo!",
+      "section": "Europa",
+      "page": 4,
+      "tags": [
+        "Norwegia",
+        "Norbrygg",
+        "relacja"
+      ],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Jak to się robi w Szwecji?",
+      "section": "Europa",
+      "page": 6,
+      "tags": [
+        "Szwecja",
+        "Svenska hembryggareforeningen"
+      ],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Birra dell'Anno 2016",
+      "section": "Włochy",
+      "page": 8,
+      "tags": [
+        "konkursy",
+        "relacja"
+      ],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Beer Attraction - Rimini zaprasza",
+      "section": "Włochy",
+      "page": 9,
+      "tags": [
+        "Pianeta Birra",
+        "festiwale",
+        "relacja"
+      ],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Oj IBU, IBU! (część I)",
+      "section": "Nauka",
+      "page": 10,
+      "tags": [
+        "chmiel",
+        "Internation Bitterness Units",
+        "izo-alfa-kwasy",
+        "goryczka",
+        "chemia"
+      ],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Na tropie polskiego piwa",
+      "section": "Historia",
+      "page": 12,
+      "tags": [
+        "Reinheitsgebot",
+        "piwo pszeniczne"
+      ],
+      "authors": [
+        "Radosław Kotarski"
+      ]
+    },
+    {
+      "title": "Triple - potrójne piwo klasztorne",
+      "section": "Piwo numeru",
+      "page": 14,
+      "tags": [
+        "style piwa",
+        "receptura",
+        "Belgia"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Słownik piwowarski - litery I i J",
+      "section": "Słownik piwowarski",
+      "page": 17,
+      "tags": [
+        "IBU",
+        "infekcja",
+        "infuzja",
+        "zacieranie infuzyjne",
+        "inwertaza",
+        "inwertowany cukier",
+        "beta-fruktofuranozydaza",
+        "izo-alfa-kwasy",
+        "izomeryzacja",
+        "jodowy wskaźnik skrobi",
+        "jon"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Jak to się robi w browarze? Rozlew w butelki",
+      "section": "Technologia",
+      "page": 18,
+      "tags": [
+        "rozlew ręczny",
+        "automatyka",
+        "automatyzacja rozlewu",
+        "linie rozlewnicze",
+        "sprzęt",
+        "nalewarka",
+        "karuzela"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Własny termostat od podstaw",
+      "section": "Zrób to samo",
+      "page": 20,
+      "tags": [
+        "elektronika",
+        "czujnik temperatury",
+        "termistor NTC 10k",
+        "DIY"
+      ],
+      "authors": [
+        "Maciej Ostasiewicz"
+      ]
+    },
+    {
+      "title": "PARPA i jej alternatywna rzeczywistość",
+      "section": "Prawnik radzi",
+      "page": 23,
+      "tags": [
+        "Państwowa Agencja Rozwiązywania Problemów Alkoholowych",
+        "prawo",
+        "delegalizacja"
+      ],
+      "authors": [
+        "Michał Jaskólski"
+      ]
+    },
+    {
+      "title": "Zdrowa fermentacja - dobre praktyki dla początkujących",
+      "section": "ABC piwowara",
+      "page": 24,
+      "tags": [
+        "temperatura fermentacji",
+        "czas fermentacji"
+      ],
+      "authors": [
+        "Bartosz Markowski"
+      ]
+    },
+    {
+      "title": "Piwowarze domowy, zostań cydrownikiem!",
+      "section": "Nie tylko piwo",
+      "page": 26,
+      "tags": [
+        "cydr",
+        "sok",
+        "jabłka",
+        "sprzęt"
+      ],
+      "authors": [
+        "Przemek Iwanek",
+        "Kuba Piesio"
+      ]
+    },
+    {
+      "title": "Tajemnicze początki jasnego piwa z Pilzna",
+      "section": "Niezwykłe historie",
+      "page": 28,
+      "tags": [
+        "Pilzno",
+        "Czechy",
+        "pilzner",
+        "pils",
+        "historia",
+        "rok 1842"
+      ],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Mieszanie piw kwaśnych w browarze domowym",
+      "section": "Technologia",
+      "page": 30,
+      "tags": [
+        "piwa kwaśne",
+        "sour ales",
+        "Lactobacillus",
+        "Berliner Weisse",
+        "gueuze",
+        "lambic",
+        "Flanders Red Ale",
+        "Oud bruin",
+        "old ale",
+        "wady",
+        "kwas octowy",
+        "diacetyl",
+        "kwas izowalerianowy",
+        "fenole"
+      ],
+      "authors": [
+        "Paweł Masłowski"
+      ]
+    },
+    {
+      "title": "Lactobacillus - skąd brać? jak używać? (część I)",
+      "section": "Piwa kwaśne",
+      "page": 32,
+      "tags": [
+        "bakterie",
+        "White Labs",
+        "Wyeast",
+        "drożdże",
+        "mleczne napoje fermnetowane",
+        "MNF",
+        "łuski słodu",
+        "probiotyki",
+        "kiszonki",
+        "kultury mleczarskie",
+        "kultury piekarnicze"
+      ],
+      "authors": [
+        "Michał \"Kordas\" Kordek"
+      ]
+    },
+    {
+      "title": "Warsztat piwowarski, czyli Marusia wkracza na scenę",
+      "section": "W browarze",
+      "page": 34,
+      "tags": [
+        "Wrocław",
+        "browary"
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "\"Malt\"",
+      "section": "Biblioteczka piwowara",
+      "page": 35,
+      "tags": [
+        "Malt. A practical guide from Field to Brewhouse",
+        "John Mallett",
+        "Brewing Elements",
+        "literatura"
+      ],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Czym jest tegestologia?",
+      "section": "Kolekcjonerem być",
+      "page": 36,
+      "tags": [
+        "podkładki piwne",
+        "wafle"
+      ],
+      "authors": [
+        "Renata Kwiecień"
+      ]
+    },
+    {
+      "title": "Polskie piwo i holenderska wyprawa arktyczna",
+      "section": "Historia",
+      "page": 38,
+      "tags": [
+        "Holandia",
+        "Willem Barents",
+        "jopejskie",
+        "Gdańsk",
+        "Jopenbier",
+        "koło podbiegunowe"
+      ],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Polski kraft w Kaliforni",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "felieton",
+        "Browar Widawa",
+        "AleBrowar",
+        "Ratebeer Best Festival",
+        "festiwale"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

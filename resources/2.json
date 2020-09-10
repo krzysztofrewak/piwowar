@@ -1,218 +1,218 @@
 {
-	"issue": 2,
-	"color": "#73A449",
-	"articles": [
-		{
-			"title": "Stowarzyszenie działa",
-			"section": "Stowarzyszenie",
-			"page": 1,
-			"tags": [
-				"PSPD"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Kalendarium (grudzień 2010 - luty 2011)",
-			"section": "Wypatrzyliśmy",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "PSPD? Cała para w pracę u podstaw",
-			"section": "Wywiad",
-			"page": 4,
-			"tags": [
-				"Andrzej Sadownik"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Niechmielone ekstrakty słodowe - doskonałe piwo na skróty",
-			"section": "Dla początkujących",
-			"page": 11,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Mycie i dezynfekcja butelek",
-			"section": "Niezbędnik",
-			"page": 15,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Próba jodowa",
-			"section": "Niezbędnik",
-			"page": 17,
-			"tags": [
-				"technologia",
-				"skrobia",
-				"dekstryny",
-				"chemia"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Kölsch, czyli piwo kolońskie",
-			"section": "Piwo wiosny 2011",
-			"page": 18,
-			"tags": [
-				"Koelsch",
-				"style piwa",
-				"Niemcy",
-				"Kolonia",
-				"receptura"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Wszystko o śrutowaniu",
-			"section": "Niezbędnik",
-			"page": 22,
-			"tags": [
-				"śrutowanie",
-				"śrutownik"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Kegerator - marzenie piwowara domowego",
-			"section": "Niezbędnik",
-			"page": 24,
-			"tags": [
-				"kegowanie",
-				"rozlew",
-				"chłodzenie",
-				"kegi"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Wiosenne prace w chmielniku",
-			"section": "Niezbędnik",
-			"page": 27,
-			"tags": [
-				"chmiel",
-				"ogród"
-			],
-			"authors": [
-				"Mieczysław Stasiak"
-			]
-		},
-		{
-			"title": "Kölsch - dobry marketing czy długa tradycja?",
-			"section": "Z kart historii",
-			"page": 30,
-			"tags": [
-				"kolońskie",
-				"Koelsch",
-				"historia"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Was ist los, czyli o co w tym chodzi?",
-			"section": "Wywiad",
-			"page": 33,
-			"tags": [
-				"Zoigl",
-				"Zwickl",
-				"Kellerbier",
-				"Ugnespundetes",
-				"Volker R. Quante"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Zythos Beer Festiwal",
-			"section": "Ze świata",
-			"page": 34,
-			"tags": [
-				"festiwale",
-				"relacja",
-				"Holandia"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Polska - raj dla piwowarów domowych?",
-			"section": "Wywiad",
-			"page": 37,
-			"tags": [
-				"Ziemowit Fałat"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Archeolog w browarze",
-			"section": "Z kart historii",
-			"page": 38,
-			"tags": [
-				"archeologia",
-				"historia"
-			],
-			"authors": [
-				"Sławomir Dryja"
-			]
-		},
-		{
-			"title": "Zostać sędzią?",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"konkursy",
-				"PSPD",
-				"BJCP"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "C.K. Browar",
-			"section": "W browarze",
-			"page": 41,
-			"tags": [
-				"browary",
-				"browar restauracyjny",
-				"Kraków"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		}
-	]
+  "issue": 2,
+  "color": "#73A449",
+  "articles": [
+    {
+      "title": "Stowarzyszenie działa",
+      "section": "Stowarzyszenie",
+      "page": 1,
+      "tags": [
+        "PSPD"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Kalendarium (grudzień 2010 - luty 2011)",
+      "section": "Wypatrzyliśmy",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "PSPD? Cała para w pracę u podstaw",
+      "section": "Wywiad",
+      "page": 4,
+      "tags": [
+        "Andrzej Sadownik"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Niechmielone ekstrakty słodowe - doskonałe piwo na skróty",
+      "section": "Dla początkujących",
+      "page": 11,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Mycie i dezynfekcja butelek",
+      "section": "Niezbędnik",
+      "page": 15,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Próba jodowa",
+      "section": "Niezbędnik",
+      "page": 17,
+      "tags": [
+        "technologia",
+        "skrobia",
+        "dekstryny",
+        "chemia"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Kölsch, czyli piwo kolońskie",
+      "section": "Piwo wiosny 2011",
+      "page": 18,
+      "tags": [
+        "Koelsch",
+        "style piwa",
+        "Niemcy",
+        "Kolonia",
+        "receptura"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Wszystko o śrutowaniu",
+      "section": "Niezbędnik",
+      "page": 22,
+      "tags": [
+        "śrutowanie",
+        "śrutownik"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Kegerator - marzenie piwowara domowego",
+      "section": "Niezbędnik",
+      "page": 24,
+      "tags": [
+        "kegowanie",
+        "rozlew",
+        "chłodzenie",
+        "kegi"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Wiosenne prace w chmielniku",
+      "section": "Niezbędnik",
+      "page": 27,
+      "tags": [
+        "chmiel",
+        "ogród"
+      ],
+      "authors": [
+        "Mieczysław Stasiak"
+      ]
+    },
+    {
+      "title": "Kölsch - dobry marketing czy długa tradycja?",
+      "section": "Z kart historii",
+      "page": 30,
+      "tags": [
+        "kolońskie",
+        "Koelsch",
+        "historia"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Was ist los, czyli o co w tym chodzi?",
+      "section": "Wywiad",
+      "page": 33,
+      "tags": [
+        "Zoigl",
+        "Zwickl",
+        "Kellerbier",
+        "Ugnespundetes",
+        "Volker R. Quante"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Zythos Beer Festiwal",
+      "section": "Ze świata",
+      "page": 34,
+      "tags": [
+        "festiwale",
+        "relacja",
+        "Holandia"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Polska - raj dla piwowarów domowych?",
+      "section": "Wywiad",
+      "page": 37,
+      "tags": [
+        "Ziemowit Fałat"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Archeolog w browarze",
+      "section": "Z kart historii",
+      "page": 38,
+      "tags": [
+        "archeologia",
+        "historia"
+      ],
+      "authors": [
+        "Sławomir Dryja"
+      ]
+    },
+    {
+      "title": "Zostać sędzią?",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "konkursy",
+        "PSPD",
+        "BJCP"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "C.K. Browar",
+      "section": "W browarze",
+      "page": 41,
+      "tags": [
+        "browary",
+        "browar restauracyjny",
+        "Kraków"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    }
+  ]
 }

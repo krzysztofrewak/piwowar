@@ -1,296 +1,296 @@
 {
-	"issue": 19,
-	"color": "#EBBE33",
-	"articles": [
-		{
-			"title": "Łamanie schematów",
-			"section": "Wokół stowarzyszenia",
-			"page": 1,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Kalendarium 2015 (czerwiec-wrzesień)",
-			"section": "Kalendarium",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Chcemy rozwijać swoją pasję",
-			"section": "Wywiad numeru",
-			"page": 4,
-			"tags": [
-				"Piotr Terka",
-				"Piotr Marczyk",
-				"Grand Champion 2015"
-			],
-			"authors": [
-				"Artur Napiórkowski"
-			]
-		},
-		{
-			"title": "Hopium - craft pierwotny",
-			"section": "Z wizytą w browarze",
-			"page": 7,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Europejscy piwowarzy, łączcie się!",
-			"section": "Wokół PSPD",
-			"page": 8,
-			"tags": [
-				"Norsk hjemmebryggerforening",
-				"Svenska Hembryggarföreningen",
-				"Cassovia Homebreving Division",
-				"Bulgaria Homebrewing Association",
-				"Wrocławska Inicjatywa Piwowarska"
-			],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "Craft Beer Camp",
-			"section": "Materiał sponsorowany",
-			"page": 9,
-			"tags": [
-				"Annopole"
-			],
-			"authors": [
-				"Craft Beer Camp"
-			]
-		},
-		{
-			"title": "Fermentazioni 2015 - kameralnie i przyjemnie",
-			"section": "Europa",
-			"page": 10,
-			"tags": [
-				"Włochy",
-				"Rzym",
-				"festiwal"
-			],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Łąkomin - najmniejszy browar w Polsce",
-			"section": "Prawie jak w domu",
-			"page": 12,
-			"tags": [
-				"wywiad",
-				"Adam Śmiglak"
-			],
-			"authors": [
-				"Marcin Stefaniak"
-			]
-		},
-		{
-			"title": "Jak odczuwamy smak i zapach?",
-			"section": "Sensoryka",
-			"page": 14,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "ARTBEERFEST Caminha 2015",
-			"section": "Europejskie festiwale",
-			"page": 16,
-			"tags": [
-				"Portugalia"
-			],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Zacieranie - jak uzyskać więcej?",
-			"section": "Technologia",
-			"page": 18,
-			"tags": [
-				"fermentowalność",
-				"FAN",
-				"lepkość",
-				"HSA",
-				"garbniki",
-				"śrutowanie",
-				"przerwy",
-				"gęstość zacieru",
-				"pH"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Belgian pale ale, cyzli belgijskie specjalne",
-			"section": "Piwo numeru",
-			"page": 20,
-			"tags": [
-				"receptura"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Słownik - litera G",
-			"section": "Słownik piwowarski",
-			"page": 22,
-			"tags": [
-				"garbniki",
-				"geraniol",
-				"gęstwa drożdżowa",
-				"glukoza",
-				"goryczka",
-				"gramoprocenty humulonu GPH",
-				"granaty",
-				"gruit",
-				"gushing"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Rosanke uwarzone w Kormoranie!",
-			"section": "Z wizytą w browarze",
-			"page": 23,
-			"tags": [
-				"Olsztyn",
-				"Bogdan Markocki"
-			],
-			"authors": [
-				"Daniel Duda"
-			]
-		},
-		{
-			"title": "Kolekcjonerem być...",
-			"section": "Birofilia",
-			"page": 24,
-			"tags": [
-				"kapsle",
-				"etykiety"
-			],
-			"authors": [
-				"Michał Grossmann"
-			]
-		},
-		{
-			"title": "Piwowarzy domowi w Sejmie",
-			"section": "Prawnik radzi",
-			"page": 26,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Michał Jaskólski"
-			]
-		},
-		{
-			"title": "Gdy aliantom w Normandii piwa zabrakło...",
-			"section": "Historia",
-			"page": 28,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Leśne ludki wraz z dzikami pienią się w Bastogne",
-			"section": "Belgia",
-			"page": 30,
-			"tags": [
-				"browary"
-			],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Ameryka nad fiordami",
-			"section": "Norwegia",
-			"page": 32,
-			"tags": [
-				"Ægir",
-				"Aegir",
-				"browary"
-			],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "\"Yeast\"",
-			"section": "Biblioteczka piwowara",
-			"page": 34,
-			"tags": [
-				"Brewing Elements",
-				"Chris White",
-				"Jamil Zainaheff"
-			],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "Amerykańska rewolucja piwna - cz. V",
-			"section": "Historia",
-			"page": 35,
-			"tags": [
-				"Greg Koch",
-				"Stone"
-			],
-			"authors": [
-				"Artur Napiórkowski"
-			]
-		},
-		{
-			"title": "Czeskie klimaty",
-			"section": "W kuchni",
-			"page": 38,
-			"tags": [
-				"przepisy",
-				"Czechy",
-				"utopence",
-				"ohnive maso",
-				"pivni rohaliky"
-			],
-			"authors": [
-				"Małgorzata Bujok"
-			]
-		},
-		{
-			"title": "Kiedy to się skończy?",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"felieton",
-				"rewolucja"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": 19,
+  "color": "#EBBE33",
+  "articles": [
+    {
+      "title": "Łamanie schematów",
+      "section": "Wokół stowarzyszenia",
+      "page": 1,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Kalendarium 2015 (czerwiec-wrzesień)",
+      "section": "Kalendarium",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Chcemy rozwijać swoją pasję",
+      "section": "Wywiad numeru",
+      "page": 4,
+      "tags": [
+        "Piotr Terka",
+        "Piotr Marczyk",
+        "Grand Champion 2015"
+      ],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Hopium - craft pierwotny",
+      "section": "Z wizytą w browarze",
+      "page": 7,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Europejscy piwowarzy, łączcie się!",
+      "section": "Wokół PSPD",
+      "page": 8,
+      "tags": [
+        "Norsk hjemmebryggerforening",
+        "Svenska Hembryggarföreningen",
+        "Cassovia Homebreving Division",
+        "Bulgaria Homebrewing Association",
+        "Wrocławska Inicjatywa Piwowarska"
+      ],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "Craft Beer Camp",
+      "section": "Materiał sponsorowany",
+      "page": 9,
+      "tags": [
+        "Annopole"
+      ],
+      "authors": [
+        "Craft Beer Camp"
+      ]
+    },
+    {
+      "title": "Fermentazioni 2015 - kameralnie i przyjemnie",
+      "section": "Europa",
+      "page": 10,
+      "tags": [
+        "Włochy",
+        "Rzym",
+        "festiwal"
+      ],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Łąkomin - najmniejszy browar w Polsce",
+      "section": "Prawie jak w domu",
+      "page": 12,
+      "tags": [
+        "wywiad",
+        "Adam Śmiglak"
+      ],
+      "authors": [
+        "Marcin Stefaniak"
+      ]
+    },
+    {
+      "title": "Jak odczuwamy smak i zapach?",
+      "section": "Sensoryka",
+      "page": 14,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "ARTBEERFEST Caminha 2015",
+      "section": "Europejskie festiwale",
+      "page": 16,
+      "tags": [
+        "Portugalia"
+      ],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Zacieranie - jak uzyskać więcej?",
+      "section": "Technologia",
+      "page": 18,
+      "tags": [
+        "fermentowalność",
+        "FAN",
+        "lepkość",
+        "HSA",
+        "garbniki",
+        "śrutowanie",
+        "przerwy",
+        "gęstość zacieru",
+        "pH"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Belgian pale ale, cyzli belgijskie specjalne",
+      "section": "Piwo numeru",
+      "page": 20,
+      "tags": [
+        "receptura"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Słownik - litera G",
+      "section": "Słownik piwowarski",
+      "page": 22,
+      "tags": [
+        "garbniki",
+        "geraniol",
+        "gęstwa drożdżowa",
+        "glukoza",
+        "goryczka",
+        "gramoprocenty humulonu GPH",
+        "granaty",
+        "gruit",
+        "gushing"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Rosanke uwarzone w Kormoranie!",
+      "section": "Z wizytą w browarze",
+      "page": 23,
+      "tags": [
+        "Olsztyn",
+        "Bogdan Markocki"
+      ],
+      "authors": [
+        "Daniel Duda"
+      ]
+    },
+    {
+      "title": "Kolekcjonerem być...",
+      "section": "Birofilia",
+      "page": 24,
+      "tags": [
+        "kapsle",
+        "etykiety"
+      ],
+      "authors": [
+        "Michał Grossmann"
+      ]
+    },
+    {
+      "title": "Piwowarzy domowi w Sejmie",
+      "section": "Prawnik radzi",
+      "page": 26,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Michał Jaskólski"
+      ]
+    },
+    {
+      "title": "Gdy aliantom w Normandii piwa zabrakło...",
+      "section": "Historia",
+      "page": 28,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Leśne ludki wraz z dzikami pienią się w Bastogne",
+      "section": "Belgia",
+      "page": 30,
+      "tags": [
+        "browary"
+      ],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Ameryka nad fiordami",
+      "section": "Norwegia",
+      "page": 32,
+      "tags": [
+        "Ægir",
+        "Aegir",
+        "browary"
+      ],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "\"Yeast\"",
+      "section": "Biblioteczka piwowara",
+      "page": 34,
+      "tags": [
+        "Brewing Elements",
+        "Chris White",
+        "Jamil Zainaheff"
+      ],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Amerykańska rewolucja piwna - cz. V",
+      "section": "Historia",
+      "page": 35,
+      "tags": [
+        "Greg Koch",
+        "Stone"
+      ],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Czeskie klimaty",
+      "section": "W kuchni",
+      "page": 38,
+      "tags": [
+        "przepisy",
+        "Czechy",
+        "utopence",
+        "ohnive maso",
+        "pivni rohaliky"
+      ],
+      "authors": [
+        "Małgorzata Bujok"
+      ]
+    },
+    {
+      "title": "Kiedy to się skończy?",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "felieton",
+        "rewolucja"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

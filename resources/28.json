@@ -1,177 +1,177 @@
 {
-	"issue": "28",
-	"color": "#E2021C",
-	"articles": [
-		{
-			"title": "Płacę, więc żądam, czyli po co się stowarzyszamy? ",
-			"section": "Wokół Stowarzyszenia",
-			"page": "1",
-			"tags": [],
-			"authors": [
-				"Artur Kamiński"
-			]
-		},
-		{
-			"title": "Prawna definicja piwa",
-			"section": "Prawo",
-			"page": "2",
-			"tags": [],
-			"authors": [
-				"Dawid Siedlecki"
-			]
-		},
-		{
-			"title": "Helsinki podczas gorącego lata",
-			"section": "Wydarzenia",
-			"page": "4",
-			"tags": [],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "Jak dobierać drożdże?",
-			"section": "Surowce",
-			"page": "6",
-			"tags": [],
-			"authors": [
-				"Adam Szewczyk"
-			]
-		},
-		{
-			"title": "Brewers Forum 2018",
-			"section": "Wydarzenia",
-			"page": "8",
-			"tags": [],
-			"authors": [
-				"Jan Lichota"
-			]
-		},
-		{
-			"title": "White India Pale Ale",
-			"section": "Piwo numeru",
-			"page": "10",
-			"tags": [],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Laboratorium w browarze",
-			"section": "Technologia",
-			"page": "14",
-			"tags": [],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Czy drożdże mogą zmienić świat?",
-			"section": "Nauka",
-			"page": "16",
-			"tags": [],
-			"authors": [
-				"Magdalena Biesiadecka"
-			]
-		},
-		{
-			"title": "Litera \"S\"",
-			"section": "Słownik piwowarski",
-			"page": "19",
-			"tags": [],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Wpływ słodowania na jęczmień browarny",
-			"section": "Surowce",
-			"page": "20",
-			"tags": [],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Fruit beer, czyli dodatek owoców do piwa cz. 1 - charakterystyka i właściwości owoców",
-			"section": "Technologia",
-			"page": "22",
-			"tags": [],
-			"authors": [
-				"Paweł Masłowski"
-			]
-		},
-		{
-			"title": "Why Beer Matters",
-			"section": "Biblioteczka piwowara",
-			"page": "25",
-			"tags": [],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "Porady piwowarskie cz. 1",
-			"section": "Technologia",
-			"page": "26",
-			"tags": [],
-			"authors": [
-				"Maciej Wentowski"
-			]
-		},
-		{
-			"title": "Piwne oblicze Australii Zachodniej",
-			"section": "Podróże",
-			"page": "28",
-			"tags": [],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Burton Ale - piwny faworyt carów",
-			"section": "Historia",
-			"page": "30",
-			"tags": [],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Gzub, czyli browar wyczekiwany",
-			"section": "Z wizytą w browarze",
-			"page": "34",
-			"tags": [],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Joseph Nitsche, czyli tajemnica szczecińskiego cmentarza",
-			"section": "Historia",
-			"page": "36",
-			"tags": [],
-			"authors": [
-				"Krzysztof Żurawski"
-			]
-		},
-		{
-			"title": "Yeast is new hoppy ",
-			"section": "Nauka",
-			"page": "38",
-			"tags": [],
-			"authors": [
-				"Jacek Błędowski"
-			]
-		},
-		{
-			"title": "Jak to możliwe, że nam się udało?",
-			"section": "1000 IBU",
-			"page": "40",
-			"tags": [],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": "28",
+  "color": "#E2021C",
+  "articles": [
+    {
+      "title": "Płacę, więc żądam, czyli po co się stowarzyszamy? ",
+      "section": "Wokół Stowarzyszenia",
+      "page": "1",
+      "tags": [],
+      "authors": [
+        "Artur Kamiński"
+      ]
+    },
+    {
+      "title": "Prawna definicja piwa",
+      "section": "Prawo",
+      "page": "2",
+      "tags": [],
+      "authors": [
+        "Dawid Siedlecki"
+      ]
+    },
+    {
+      "title": "Helsinki podczas gorącego lata",
+      "section": "Wydarzenia",
+      "page": "4",
+      "tags": [],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "Jak dobierać drożdże?",
+      "section": "Surowce",
+      "page": "6",
+      "tags": [],
+      "authors": [
+        "Adam Szewczyk"
+      ]
+    },
+    {
+      "title": "Brewers Forum 2018",
+      "section": "Wydarzenia",
+      "page": "8",
+      "tags": [],
+      "authors": [
+        "Jan Lichota"
+      ]
+    },
+    {
+      "title": "White India Pale Ale",
+      "section": "Piwo numeru",
+      "page": "10",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Laboratorium w browarze",
+      "section": "Technologia",
+      "page": "14",
+      "tags": [],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Czy drożdże mogą zmienić świat?",
+      "section": "Nauka",
+      "page": "16",
+      "tags": [],
+      "authors": [
+        "Magdalena Biesiadecka"
+      ]
+    },
+    {
+      "title": "Litera \"S\"",
+      "section": "Słownik piwowarski",
+      "page": "19",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Wpływ słodowania na jęczmień browarny",
+      "section": "Surowce",
+      "page": "20",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Fruit beer, czyli dodatek owoców do piwa cz. 1 - charakterystyka i właściwości owoców",
+      "section": "Technologia",
+      "page": "22",
+      "tags": [],
+      "authors": [
+        "Paweł Masłowski"
+      ]
+    },
+    {
+      "title": "Why Beer Matters",
+      "section": "Biblioteczka piwowara",
+      "page": "25",
+      "tags": [],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Porady piwowarskie cz. 1",
+      "section": "Technologia",
+      "page": "26",
+      "tags": [],
+      "authors": [
+        "Maciej Wentowski"
+      ]
+    },
+    {
+      "title": "Piwne oblicze Australii Zachodniej",
+      "section": "Podróże",
+      "page": "28",
+      "tags": [],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Burton Ale - piwny faworyt carów",
+      "section": "Historia",
+      "page": "30",
+      "tags": [],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Gzub, czyli browar wyczekiwany",
+      "section": "Z wizytą w browarze",
+      "page": "34",
+      "tags": [],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Joseph Nitsche, czyli tajemnica szczecińskiego cmentarza",
+      "section": "Historia",
+      "page": "36",
+      "tags": [],
+      "authors": [
+        "Krzysztof Żurawski"
+      ]
+    },
+    {
+      "title": "Yeast is new hoppy ",
+      "section": "Nauka",
+      "page": "38",
+      "tags": [],
+      "authors": [
+        "Jacek Błędowski"
+      ]
+    },
+    {
+      "title": "Jak to możliwe, że nam się udało?",
+      "section": "1000 IBU",
+      "page": "40",
+      "tags": [],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }

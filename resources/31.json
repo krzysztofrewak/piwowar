@@ -1,150 +1,150 @@
 {
-	"issue": "31",
-	"color": "#E3001C",
-	"articles": [
-		{
-			"title": "Natura abhorret vacuum",
-			"section": "Wokół Stowarzyszenia",
-			"page": "1",
-			"tags": [],
-			"authors": [
-				"Maciej Hus"
-			]
-		},
-		{
-			"title": "Yes, we can!",
-			"section": "Temat numeru",
-			"page": "2",
-			"tags": [],
-			"authors": [
-				"Daniel Duda"
-			]
-		},
-		{
-			"title": "Rozlew w puszki - problemy technologiczne",
-			"section": "Temat numeru",
-			"page": "5",
-			"tags": [],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Zrozumieć puszkę",
-			"section": "Temat numeru",
-			"page": "7",
-			"tags": [],
-			"authors": [
-				"Jacek Wodzisławski"
-			]
-		},
-		{
-			"title": "Rodzaje słodów w browarze i recepturach",
-			"section": "Surowce",
-			"page": "11",
-			"tags": [],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Czeski pilzner",
-			"section": "Piwo numeru",
-			"page": "14",
-			"tags": [],
-			"authors": [
-				"František Sýkora"
-			]
-		},
-		{
-			"title": "Prawna ochrona receptur piwnych",
-			"section": "Prawo",
-			"page": "18",
-			"tags": [],
-			"authors": [
-				"Dawid Siedlecki"
-			]
-		},
-		{
-			"title": "Każdy ma jakieś supermoce. Wywiad z Piotrem Bilmanem",
-			"section": "Wywiad",
-			"page": "20",
-			"tags": [],
-			"authors": [
-				"Paweł Leszczyński"
-			]
-		},
-		{
-			"title": "Konkurencja w fermentorze, czyli jak to jest, gdy piwo fermentowane jest blendem",
-			"section": "Nauka",
-			"page": "24",
-			"tags": [],
-			"authors": [
-				"Magdalena Biesiadecka"
-			]
-		},
-		{
-			"title": "Litera \"U\" i \"W\"",
-			"section": "Słownik piwowarski",
-			"page": "27",
-			"tags": [],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Beer science, czyli doniesienia ze świata nauki",
-			"section": "Nauka",
-			"page": "28",
-			"tags": [],
-			"authors": [
-				"Marcin Ostajewski"
-			]
-		},
-		{
-			"title": "Fruit beer, czyli dodatek owoców do piwa cz. 3 - zaawansowane techniki",
-			"section": "Technologia",
-			"page": "30",
-			"tags": [],
-			"authors": [
-				"Paweł Masłowski"
-			]
-		},
-		{
-			"title": "Porady piwowarskie cz. 3",
-			"section": "Technologia",
-			"page": "33",
-			"tags": [],
-			"authors": [
-				"Maciej Wentowski"
-			]
-		},
-		{
-			"title": "Berliner weisse. Wielki powrót szampana północy",
-			"section": "Historia",
-			"page": "35",
-			"tags": [],
-			"authors": [
-				"Marcin Chmielarz"
-			]
-		},
-		{
-			"title": "Jak poprawić jakość swojego piwa z Baltic Brewing Supplies?  ",
-			"section": "Tekst sponsorowany",
-			"page": "38",
-			"tags": [],
-			"authors": [
-				"Kacper Kulpa"
-			]
-		},
-		{
-			"title": "Dajmy się zapuszkować!",
-			"section": "Felieton",
-			"page": "40",
-			"tags": [],
-			"authors": [
-				"Artur Napiórkowski"
-			]
-		}
-	]
+  "issue": "31",
+  "color": "#E3001C",
+  "articles": [
+    {
+      "title": "Natura abhorret vacuum",
+      "section": "Wokół Stowarzyszenia",
+      "page": "1",
+      "tags": [],
+      "authors": [
+        "Maciej Hus"
+      ]
+    },
+    {
+      "title": "Yes, we can!",
+      "section": "Temat numeru",
+      "page": "2",
+      "tags": [],
+      "authors": [
+        "Daniel Duda"
+      ]
+    },
+    {
+      "title": "Rozlew w puszki - problemy technologiczne",
+      "section": "Temat numeru",
+      "page": "5",
+      "tags": [],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Zrozumieć puszkę",
+      "section": "Temat numeru",
+      "page": "7",
+      "tags": [],
+      "authors": [
+        "Jacek Wodzisławski"
+      ]
+    },
+    {
+      "title": "Rodzaje słodów w browarze i recepturach",
+      "section": "Surowce",
+      "page": "11",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Czeski pilzner",
+      "section": "Piwo numeru",
+      "page": "14",
+      "tags": [],
+      "authors": [
+        "František Sýkora"
+      ]
+    },
+    {
+      "title": "Prawna ochrona receptur piwnych",
+      "section": "Prawo",
+      "page": "18",
+      "tags": [],
+      "authors": [
+        "Dawid Siedlecki"
+      ]
+    },
+    {
+      "title": "Każdy ma jakieś supermoce. Wywiad z Piotrem Bilmanem",
+      "section": "Wywiad",
+      "page": "20",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Konkurencja w fermentorze, czyli jak to jest, gdy piwo fermentowane jest blendem",
+      "section": "Nauka",
+      "page": "24",
+      "tags": [],
+      "authors": [
+        "Magdalena Biesiadecka"
+      ]
+    },
+    {
+      "title": "Litera \"U\" i \"W\"",
+      "section": "Słownik piwowarski",
+      "page": "27",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Beer science, czyli doniesienia ze świata nauki",
+      "section": "Nauka",
+      "page": "28",
+      "tags": [],
+      "authors": [
+        "Marcin Ostajewski"
+      ]
+    },
+    {
+      "title": "Fruit beer, czyli dodatek owoców do piwa cz. 3 - zaawansowane techniki",
+      "section": "Technologia",
+      "page": "30",
+      "tags": [],
+      "authors": [
+        "Paweł Masłowski"
+      ]
+    },
+    {
+      "title": "Porady piwowarskie cz. 3",
+      "section": "Technologia",
+      "page": "33",
+      "tags": [],
+      "authors": [
+        "Maciej Wentowski"
+      ]
+    },
+    {
+      "title": "Berliner weisse. Wielki powrót szampana północy",
+      "section": "Historia",
+      "page": "35",
+      "tags": [],
+      "authors": [
+        "Marcin Chmielarz"
+      ]
+    },
+    {
+      "title": "Jak poprawić jakość swojego piwa z Baltic Brewing Supplies?  ",
+      "section": "Tekst sponsorowany",
+      "page": "38",
+      "tags": [],
+      "authors": [
+        "Kacper Kulpa"
+      ]
+    },
+    {
+      "title": "Dajmy się zapuszkować!",
+      "section": "Felieton",
+      "page": "40",
+      "tags": [],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    }
+  ]
 }

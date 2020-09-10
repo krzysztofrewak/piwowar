@@ -1,287 +1,287 @@
 {
-	"issue": 14,
-	"color": "#73AB47",
-	"articles": [
-		{
-			"title": "Trzeba wziąć się do pracy",
-			"section": "Stowarzyszenie",
-			"page": 1,
-			"tags": [
-				"PSPD"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Sprawozdanie merytoryczne Zarządu PSPD z działalności Stowarzyszenia za okres sprawozdawczy 2013\/2014",
-			"section": "Dokumenty",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Kalendarium (styczeń-kwiecień 2014)",
-			"section": "Wypatrzyliśmy",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "XVII Szkoła Technologii Fermentacji",
-			"section": "Wydarzenia",
-			"page": 7,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Najlepsze domowe piwa polskich Karpat",
-			"section": "Wydarzenia",
-			"page": 8,
-			"tags": [
-				"II Karpacki Konkurs Piw Domowych",
-				"oddział terenowy"
-			],
-			"authors": [
-				"Wojciech Szczepański"
-			]
-		},
-		{
-			"title": "Polacy na Białej Wronie",
-			"section": "Wydarzenia",
-			"page": 9,
-			"tags": [
-				"Biela Vrana",
-				"Słowacja",
-				"konkurs",
-				"Biała Wrona"
-			],
-			"authors": [
-				"Jerzy Krysiak"
-			]
-		},
-		{
-			"title": "Piwny weekend w Szczecinie",
-			"section": "Wydarzenia",
-			"page": 10,
-			"tags": [
-				"konkurs",
-				"giełda",
-				"relacja"
-			],
-			"authors": [
-				"Maciej Piaszczyński"
-			]
-		},
-		{
-			"title": "Piwna kontrkultura w Łodzi",
-			"section": "Wydarzenia",
-			"page": 11,
-			"tags": [
-				"OffBeer",
-				"festiwal",
-				"Łódź",
-				"relacja"
-			],
-			"authors": [
-				"Piotr Kucharski"
-			]
-		},
-		{
-			"title": "World Beer Cup",
-			"section": "Wydarzenia",
-			"page": 13,
-			"tags": [
-				"konkurs",
-				"USA",
-				"relacja"
-			],
-			"authors": [
-				"Rafał Kowalczyk"
-			]
-		},
-		{
-			"title": "Największy konkurs piw na świecie!",
-			"section": "Wydarzenia",
-			"page": 14,
-			"tags": [
-				"World Beer Cup",
-				"USA"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "1. Targi Piw Regionalnych Piwowary 2014",
-			"section": "Wydarzenia",
-			"page": 16,
-			"tags": [
-				"Łódź",
-				"rewolucja"
-			],
-			"authors": [
-				"Sławomir Dryja"
-			]
-		},
-		{
-			"title": "Popatrz na mnie, wypij mnie!",
-			"section": "Niezbędnik",
-			"page": 17,
-			"tags": [
-				"etykiety",
-				"kolekcjonerstwo"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Fazy fermentacji",
-			"section": "Niezbędnik",
-			"page": 20,
-			"tags": [
-				"fermentacja",
-				"lag",
-				"faza wzrostu",
-				"dojrzewanie"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Niektóre szczepy drożdży dostępne dla piwowara domowego (część 2)",
-			"section": "Niezbędnik",
-			"page": 22,
-			"tags": [
-				"drożdże",
-				"fermentacja",
-				"Wyeast",
-				"Fermentis",
-				"Brewferm",
-				"Gozdawa",
-				"White Labs",
-				"Mangrove Jack's",
-				"Fermentum Mobile",
-				" Saccharolicious",
-				"White Farm"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Estry w piwie",
-			"section": "Niezbędnik",
-			"page": 26,
-			"tags": [
-				"octan etylu",
-				"octan izoamylu",
-				"octan izobutylu",
-				"kapronian",
-				"kaprylan"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Lambic, czyli piwo dzikie",
-			"section": "Piwo wiosny",
-			"page": 28,
-			"tags": [
-				"Belgia",
-				"faro",
-				"gueuze",
-				"receptura"
-			],
-			"authors": [
-				"Krzysztof Zach"
-			]
-		},
-		{
-			"title": "Denver 2014: Brewers Association",
-			"section": "Ze świata",
-			"page": 32,
-			"tags": [
-				"Denver",
-				"USA",
-				"World Beer Cup"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Piwowarstwo historyczne, czyli higiena w browarze",
-			"section": "Historia",
-			"page": 35,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Sławomir Dryja"
-			]
-		},
-		{
-			"title": "Cały kraj grilluje!",
-			"section": "Wokół piwa",
-			"page": 36,
-			"tags": [
-				"przepisy",
-				"burgery z sosem barbecue",
-				"sałatka z grillowanych warzyw",
-				"brzoskiwniowa melba"
-			],
-			"authors": [
-				"Małgorzata Bujok"
-			]
-		},
-		{
-			"title": "Biblioteczka piwowara - \"Radical Brewing\"",
-			"section": "Recenzja",
-			"page": 38,
-			"tags": [
-				"Randy Mosher"
-			],
-			"authors": [
-				"Michał Janiak"
-			]
-		},
-		{
-			"title": "Browar Lwów, czyli frekwencja ma znaczenie",
-			"section": "W browarze",
-			"page": 39,
-			"tags": [
-				"Lublin"
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Intensywne 0,33",
-			"section": "Felieton",
-			"page": 40,
-			"tags": [
-				"Belgia"
-			],
-			"authors": [
-				"Michał Janiak"
-			]
-		}
-	]
+  "issue": 14,
+  "color": "#73AB47",
+  "articles": [
+    {
+      "title": "Trzeba wziąć się do pracy",
+      "section": "Stowarzyszenie",
+      "page": 1,
+      "tags": [
+        "PSPD"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Sprawozdanie merytoryczne Zarządu PSPD z działalności Stowarzyszenia za okres sprawozdawczy 2013\/2014",
+      "section": "Dokumenty",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Kalendarium (styczeń-kwiecień 2014)",
+      "section": "Wypatrzyliśmy",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "XVII Szkoła Technologii Fermentacji",
+      "section": "Wydarzenia",
+      "page": 7,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Najlepsze domowe piwa polskich Karpat",
+      "section": "Wydarzenia",
+      "page": 8,
+      "tags": [
+        "II Karpacki Konkurs Piw Domowych",
+        "oddział terenowy"
+      ],
+      "authors": [
+        "Wojciech Szczepański"
+      ]
+    },
+    {
+      "title": "Polacy na Białej Wronie",
+      "section": "Wydarzenia",
+      "page": 9,
+      "tags": [
+        "Biela Vrana",
+        "Słowacja",
+        "konkurs",
+        "Biała Wrona"
+      ],
+      "authors": [
+        "Jerzy Krysiak"
+      ]
+    },
+    {
+      "title": "Piwny weekend w Szczecinie",
+      "section": "Wydarzenia",
+      "page": 10,
+      "tags": [
+        "konkurs",
+        "giełda",
+        "relacja"
+      ],
+      "authors": [
+        "Maciej Piaszczyński"
+      ]
+    },
+    {
+      "title": "Piwna kontrkultura w Łodzi",
+      "section": "Wydarzenia",
+      "page": 11,
+      "tags": [
+        "OffBeer",
+        "festiwal",
+        "Łódź",
+        "relacja"
+      ],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "World Beer Cup",
+      "section": "Wydarzenia",
+      "page": 13,
+      "tags": [
+        "konkurs",
+        "USA",
+        "relacja"
+      ],
+      "authors": [
+        "Rafał Kowalczyk"
+      ]
+    },
+    {
+      "title": "Największy konkurs piw na świecie!",
+      "section": "Wydarzenia",
+      "page": 14,
+      "tags": [
+        "World Beer Cup",
+        "USA"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "1. Targi Piw Regionalnych Piwowary 2014",
+      "section": "Wydarzenia",
+      "page": 16,
+      "tags": [
+        "Łódź",
+        "rewolucja"
+      ],
+      "authors": [
+        "Sławomir Dryja"
+      ]
+    },
+    {
+      "title": "Popatrz na mnie, wypij mnie!",
+      "section": "Niezbędnik",
+      "page": 17,
+      "tags": [
+        "etykiety",
+        "kolekcjonerstwo"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Fazy fermentacji",
+      "section": "Niezbędnik",
+      "page": 20,
+      "tags": [
+        "fermentacja",
+        "lag",
+        "faza wzrostu",
+        "dojrzewanie"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Niektóre szczepy drożdży dostępne dla piwowara domowego (część 2)",
+      "section": "Niezbędnik",
+      "page": 22,
+      "tags": [
+        "drożdże",
+        "fermentacja",
+        "Wyeast",
+        "Fermentis",
+        "Brewferm",
+        "Gozdawa",
+        "White Labs",
+        "Mangrove Jack's",
+        "Fermentum Mobile",
+        " Saccharolicious",
+        "White Farm"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Estry w piwie",
+      "section": "Niezbędnik",
+      "page": 26,
+      "tags": [
+        "octan etylu",
+        "octan izoamylu",
+        "octan izobutylu",
+        "kapronian",
+        "kaprylan"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Lambic, czyli piwo dzikie",
+      "section": "Piwo wiosny",
+      "page": 28,
+      "tags": [
+        "Belgia",
+        "faro",
+        "gueuze",
+        "receptura"
+      ],
+      "authors": [
+        "Krzysztof Zach"
+      ]
+    },
+    {
+      "title": "Denver 2014: Brewers Association",
+      "section": "Ze świata",
+      "page": 32,
+      "tags": [
+        "Denver",
+        "USA",
+        "World Beer Cup"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Piwowarstwo historyczne, czyli higiena w browarze",
+      "section": "Historia",
+      "page": 35,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Sławomir Dryja"
+      ]
+    },
+    {
+      "title": "Cały kraj grilluje!",
+      "section": "Wokół piwa",
+      "page": 36,
+      "tags": [
+        "przepisy",
+        "burgery z sosem barbecue",
+        "sałatka z grillowanych warzyw",
+        "brzoskiwniowa melba"
+      ],
+      "authors": [
+        "Małgorzata Bujok"
+      ]
+    },
+    {
+      "title": "Biblioteczka piwowara - \"Radical Brewing\"",
+      "section": "Recenzja",
+      "page": 38,
+      "tags": [
+        "Randy Mosher"
+      ],
+      "authors": [
+        "Michał Janiak"
+      ]
+    },
+    {
+      "title": "Browar Lwów, czyli frekwencja ma znaczenie",
+      "section": "W browarze",
+      "page": 39,
+      "tags": [
+        "Lublin"
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Intensywne 0,33",
+      "section": "Felieton",
+      "page": 40,
+      "tags": [
+        "Belgia"
+      ],
+      "authors": [
+        "Michał Janiak"
+      ]
+    }
+  ]
 }

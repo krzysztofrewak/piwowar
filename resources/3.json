@@ -1,268 +1,268 @@
 {
-	"issue": 3,
-	"color": "#EBB93C",
-	"articles": [
-		{
-			"title": "Stowarzyszenie działa",
-			"section": "Stowarzyszenie",
-			"page": 1,
-			"tags": [
-				"PSPD",
-				"Walne Zebranie",
-				"sędziowie",
-				"konkursy"
-			],
-			"authors": [
-				"Andrzej Sadownik"
-			]
-		},
-		{
-			"title": "Kalendarium (marzec-czerwiec 2011)",
-			"section": "Wypatrzyliśmy",
-			"page": 2,
-			"tags": [
-				""
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Szczecin piwną pustynią na północy Polski?",
-			"section": "Stowarzyszenie",
-			"page": 6,
-			"tags": [
-				"Carlsberg",
-				"Bosman",
-				"piwowarzy domowi"
-			],
-			"authors": [
-				"Volker R. Quante"
-			]
-		},
-		{
-			"title": "Kurs sędziowski",
-			"section": "Stowarzyszenie",
-			"page": 7,
-			"tags": [
-				"PSPD"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Festiwal Birofilia 2011 - wielkie piwowarskie emocje",
-			"section": "Birofilia 2011",
-			"page": 9,
-			"tags": [
-				"Browar Żywiec",
-				"relacja",
-				"konkursy",
-				"wyniki",
-				"zdjęcia"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Wrocław kocha piwo",
-			"section": "Zdarzyło się",
-			"page": 12,
-			"tags": [
-				"Wrocławskie Warsztaty Piwowarskie",
-				"wyniki",
-				"Pinta",
-				"Wrocławski Festiwal Dobrego Piwa",
-				"WFDP",
-				"relacja"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		},
-		{
-			"title": "Zacieranie jest proste!",
-			"section": "Dla początkujących",
-			"page": 14,
-			"tags": [
-				"sprzęt",
-				"śrutowanie",
-				"zacieranie infuzyjne",
-				"próba jodowa",
-				"piwa pszeniczne",
-				"filtracja",
-				"wysładzanie",
-				"pomiar gęstości"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Witbier",
-			"section": "Piwo lata 2011",
-			"page": 18,
-			"tags": [
-				"style piwa",
-				"Pierre Celis",
-				"Belgia",
-				"receptura",
-				"piwo pszeniczne"
-			],
-			"authors": [
-				"Dorota Chrapek"
-			]
-		},
-		{
-			"title": "Metody chłodzenia w porze letniej",
-			"section": "Niezbędnik",
-			"page": 21,
-			"tags": [
-				"chłodzenie",
-				"chłodnia",
-				"kąpiel wodna",
-				"lodówka styropianowa",
-				"zamrażarka",
-				"piwniczka",
-				"temperatura",
-				"technologia"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Pomiar temperatury w domowym browarze",
-			"section": "Niezbędnik",
-			"page": 24,
-			"tags": [
-				"termometr",
-				"kalibracja",
-				"pomiar temperatury",
-				"zacieranie",
-				"fermentacja"
-			],
-			"authors": [
-				"Piotr Wypych"
-			]
-		},
-		{
-			"title": "Mistrzowskie receptury",
-			"section": "Niezbędnik",
-			"page": 26,
-			"tags": [
-				"receptura",
-				"Jacek Michna",
-				"Russian Imperial Stout",
-				"RIS",
-				"Tomasz Wawrzyniak",
-				"vienna lager",
-				"lager wiedeński",
-				"Tomasz Rogaczewski",
-				"scottish heavy ale",
-				"wee heavy",
-				"Jan Krysiak",
-				"Grand Champion 2009",
-				"doppelbock",
-				"koźlak podwójny"
-			],
-			"authors": [
-				""
-			]
-		},
-		{
-			"title": "Maszyna do piwa",
-			"section": "Niezbędnik",
-			"page": 28,
-			"tags": [
-				"The Beer Machine",
-				"automatyka"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Chrzest bojowy arkusza ocen PSPD",
-			"section": "Stowarzyszenie",
-			"page": 30,
-			"tags": [
-				"konkursy",
-				"arkusz ocen"
-			],
-			"authors": [
-				"Krzysztof Lechowski"
-			]
-		},
-		{
-			"title": "Főzdefeszt - Budapeszt 2011",
-			"section": "Ze świata",
-			"page": 34,
-			"tags": [
-				"festiwale",
-				"Węgry",
-				"relacja"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Koleją po piwnym szlaku",
-			"section": "Ze świata",
-			"page": 35,
-			"tags": [
-				"Słowenia",
-				"Włochy",
-				"Szwajcarja",
-				"Niemcy",
-				"relacja",
-				"podróże"
-			],
-			"authors": [
-				"Piotr Godel"
-			]
-		},
-		{
-			"title": "Leżajsk turystycznie",
-			"section": "Z kart historii",
-			"page": 38,
-			"tags": [
-				"historia",
-				"muzeum",
-				"relacja"
-			],
-			"authors": [
-				"Ziemowit Fałat"
-			]
-		},
-		{
-			"title": "Z wizytą w Bielsku-Białej",
-			"section": "Z wizytą w browarze",
-			"page": 39,
-			"tags": [
-				"Browar Miejski",
-				"Bielsko-Biała",
-				"browary"
-			],
-			"authors": [
-				"Michał \"Docent\" Maranda"
-			]
-		},
-		{
-			"title": "Chwała zwyciężonym",
-			"section": "1000 IBU",
-			"page": 40,
-			"tags": [
-				"felieton",
-				"konkursy",
-				"Konkurs Piw Domowych"
-			],
-			"authors": [
-				"Tomasz Kopyra"
-			]
-		}
-	]
+  "issue": 3,
+  "color": "#EBB93C",
+  "articles": [
+    {
+      "title": "Stowarzyszenie działa",
+      "section": "Stowarzyszenie",
+      "page": 1,
+      "tags": [
+        "PSPD",
+        "Walne Zebranie",
+        "sędziowie",
+        "konkursy"
+      ],
+      "authors": [
+        "Andrzej Sadownik"
+      ]
+    },
+    {
+      "title": "Kalendarium (marzec-czerwiec 2011)",
+      "section": "Wypatrzyliśmy",
+      "page": 2,
+      "tags": [
+        ""
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Szczecin piwną pustynią na północy Polski?",
+      "section": "Stowarzyszenie",
+      "page": 6,
+      "tags": [
+        "Carlsberg",
+        "Bosman",
+        "piwowarzy domowi"
+      ],
+      "authors": [
+        "Volker R. Quante"
+      ]
+    },
+    {
+      "title": "Kurs sędziowski",
+      "section": "Stowarzyszenie",
+      "page": 7,
+      "tags": [
+        "PSPD"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Festiwal Birofilia 2011 - wielkie piwowarskie emocje",
+      "section": "Birofilia 2011",
+      "page": 9,
+      "tags": [
+        "Browar Żywiec",
+        "relacja",
+        "konkursy",
+        "wyniki",
+        "zdjęcia"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Wrocław kocha piwo",
+      "section": "Zdarzyło się",
+      "page": 12,
+      "tags": [
+        "Wrocławskie Warsztaty Piwowarskie",
+        "wyniki",
+        "Pinta",
+        "Wrocławski Festiwal Dobrego Piwa",
+        "WFDP",
+        "relacja"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    },
+    {
+      "title": "Zacieranie jest proste!",
+      "section": "Dla początkujących",
+      "page": 14,
+      "tags": [
+        "sprzęt",
+        "śrutowanie",
+        "zacieranie infuzyjne",
+        "próba jodowa",
+        "piwa pszeniczne",
+        "filtracja",
+        "wysładzanie",
+        "pomiar gęstości"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Witbier",
+      "section": "Piwo lata 2011",
+      "page": 18,
+      "tags": [
+        "style piwa",
+        "Pierre Celis",
+        "Belgia",
+        "receptura",
+        "piwo pszeniczne"
+      ],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Metody chłodzenia w porze letniej",
+      "section": "Niezbędnik",
+      "page": 21,
+      "tags": [
+        "chłodzenie",
+        "chłodnia",
+        "kąpiel wodna",
+        "lodówka styropianowa",
+        "zamrażarka",
+        "piwniczka",
+        "temperatura",
+        "technologia"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Pomiar temperatury w domowym browarze",
+      "section": "Niezbędnik",
+      "page": 24,
+      "tags": [
+        "termometr",
+        "kalibracja",
+        "pomiar temperatury",
+        "zacieranie",
+        "fermentacja"
+      ],
+      "authors": [
+        "Piotr Wypych"
+      ]
+    },
+    {
+      "title": "Mistrzowskie receptury",
+      "section": "Niezbędnik",
+      "page": 26,
+      "tags": [
+        "receptura",
+        "Jacek Michna",
+        "Russian Imperial Stout",
+        "RIS",
+        "Tomasz Wawrzyniak",
+        "vienna lager",
+        "lager wiedeński",
+        "Tomasz Rogaczewski",
+        "scottish heavy ale",
+        "wee heavy",
+        "Jan Krysiak",
+        "Grand Champion 2009",
+        "doppelbock",
+        "koźlak podwójny"
+      ],
+      "authors": [
+        ""
+      ]
+    },
+    {
+      "title": "Maszyna do piwa",
+      "section": "Niezbędnik",
+      "page": 28,
+      "tags": [
+        "The Beer Machine",
+        "automatyka"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Chrzest bojowy arkusza ocen PSPD",
+      "section": "Stowarzyszenie",
+      "page": 30,
+      "tags": [
+        "konkursy",
+        "arkusz ocen"
+      ],
+      "authors": [
+        "Krzysztof Lechowski"
+      ]
+    },
+    {
+      "title": "Főzdefeszt - Budapeszt 2011",
+      "section": "Ze świata",
+      "page": 34,
+      "tags": [
+        "festiwale",
+        "Węgry",
+        "relacja"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Koleją po piwnym szlaku",
+      "section": "Ze świata",
+      "page": 35,
+      "tags": [
+        "Słowenia",
+        "Włochy",
+        "Szwajcarja",
+        "Niemcy",
+        "relacja",
+        "podróże"
+      ],
+      "authors": [
+        "Piotr Godel"
+      ]
+    },
+    {
+      "title": "Leżajsk turystycznie",
+      "section": "Z kart historii",
+      "page": 38,
+      "tags": [
+        "historia",
+        "muzeum",
+        "relacja"
+      ],
+      "authors": [
+        "Ziemowit Fałat"
+      ]
+    },
+    {
+      "title": "Z wizytą w Bielsku-Białej",
+      "section": "Z wizytą w browarze",
+      "page": 39,
+      "tags": [
+        "Browar Miejski",
+        "Bielsko-Biała",
+        "browary"
+      ],
+      "authors": [
+        "Michał \"Docent\" Maranda"
+      ]
+    },
+    {
+      "title": "Chwała zwyciężonym",
+      "section": "1000 IBU",
+      "page": 40,
+      "tags": [
+        "felieton",
+        "konkursy",
+        "Konkurs Piw Domowych"
+      ],
+      "authors": [
+        "Tomasz Kopyra"
+      ]
+    }
+  ]
 }
