@@ -3,6 +3,7 @@ version: "3.7"
 services:
   php:
     container_name: piwowar-php
+    working_dir: /application
     image: php:7.4.6-fpm-alpine
     volumes:
       - .:/application
