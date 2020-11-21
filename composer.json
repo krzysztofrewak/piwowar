@@ -1,0 +1,13 @@
+{
+  "require": {
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "symplify/easy-coding-standard": "^8.3",
+    "vimeo/psalm": "^4.1"
+  },
+  "scripts": {
+    "ecs": "./vendor/bin/ecs check build.php",
+    "psalm": "./vendor/bin/psalm"
+  }
+}
