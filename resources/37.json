@@ -1,0 +1,137 @@
+{
+  "issue": "37",
+  "color": "#E4011D",
+  "articles": [
+    {
+      "title": "Relacje jest równie ważna, co produkt",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": [
+        "Paweł Leszczyński"
+      ]
+    },
+    {
+      "title": "Lichtenhainer",
+      "section": "Piwo numeru",
+      "page": "8",
+      "tags": [],
+      "authors": [
+        "Paweł Poręba"
+      ]
+    },
+    {
+      "title": "Biotransfirnacja substancji aromatycznych obecnych w chmielu",
+      "section": "Temat numeru",
+      "page": "12",
+      "tags": [],
+      "authors": [
+        "Marek Kamiński"
+      ]
+    },
+    {
+      "title": "Przechowywanie surowców piwowarskich",
+      "section": "Surowce",
+      "page": "20",
+      "tags": [],
+      "authors": [
+        "Dorota Chrapek"
+      ]
+    },
+    {
+      "title": "Leżakowanie piwa",
+      "section": "Technologia",
+      "page": "23",
+      "tags": [],
+      "authors": [
+        "Marcin Chmielarz"
+      ]
+    },
+    {
+      "title": "Rola wybranych jonów w browarnictwie",
+      "section": "Technologia",
+      "page": "26",
+      "tags": [],
+      "authors": [
+        "Dawid Padoł"
+      ]
+    },
+    {
+      "title": "Warzenie piw bardzo mocnych – wskazówki i nowofalowe techniki",
+      "section": "Technologia",
+      "page": "28",
+      "tags": [],
+      "authors": [
+        "Paweł Masłowski"
+      ]
+    },
+    {
+      "title": "Prawne regulacje dotyczące piwowarstwa domowego w Stanach Zjednoczonych",
+      "section": "Prawo",
+      "page": "32",
+      "tags": [],
+      "authors": [
+        "Dawid Siedlecki"
+      ]
+    },
+    {
+      "title": "Od Międzynarodowej Stacji Kosmicznej do piwowarskiej biblii",
+      "section": "Wywiad",
+      "page": "34",
+      "tags": [],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    },
+    {
+      "title": "Izotoniczność piwa, czyli czy piwo jest napojem dla sportowców?",
+      "section": "Nauka",
+      "page": "38",
+      "tags": [],
+      "authors": [
+        "Michał Świtalski"
+      ]
+    },
+    {
+      "title": "STM BEER - z pasji do piwa",
+      "section": "Artykuł sponsorowany",
+      "page": "42",
+      "tags": [],
+      "authors": []
+    },
+    {
+      "title": "Viking Age Brew: The Craft of Brewing Sahti Farmhouse Ale",
+      "section": "Biblioteczka piwowara",
+      "page": "43",
+      "tags": [],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Pierwsza warka: Marcin Ostajewski",
+      "section": "Wywiad",
+      "page": "44",
+      "tags": [],
+      "authors": [
+        "Piotr Kucharski"
+      ]
+    },
+    {
+      "title": "Odgazowanie wody i tlen w piwie",
+      "section": "Artykuł sponsorowany",
+      "page": "46",
+      "tags": [],
+      "authors": []
+    },
+    {
+      "title": "To nie Belgia jest nudna, to ty!",
+      "section": "Felieton",
+      "page": "40",
+      "tags": [],
+      "authors": [
+        "Artur Napiórkowski"
+      ]
+    }
+  ]
+}
