@@ -4,6 +4,6 @@ services:
   php:
     container_name: piwowar-php
     working_dir: /application
-    image: ghcr.io/blumilksoftware/php:8.0.8.1
+    image: ghcr.io/blumilksoftware/php:8.1.0.0
     volumes:
       - .:/application
