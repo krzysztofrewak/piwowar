@@ -1,0 +1,125 @@
+{
+  "issue": "40",
+  "color": "#EC1B30",
+  "articles": [
+    {
+      "title": "Rankerov, czyli Hubert Krech od kuchni",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": ["Paweł Leszczyński"]
+    },
+    {
+      "title": "Schwarzbier",
+      "section": "Piwo numeru",
+      "page": "8",
+      "tags": [],
+      "authors": ["Paweł Poręba"]
+    },
+    {
+      "title": "Z Brunszwiku przez Elbląg do Wismaru, czyli historia piwa mumme",
+      "section": "Style piwne",
+      "page": "12",
+      "tags": [],
+      "authors": ["Andrzej Urbanek"]
+    },
+    {
+      "title": "Demineralizacja wody w browarze domowym",
+      "section": "Technologia",
+      "page": "16",
+      "tags": [],
+      "authors": ["Sebastian Strzeliński"]
+    },
+    {
+      "title": "11 sprzętów, które wyniosły moje warzenie na wyższy poziom",
+      "section": "Porady",
+      "page": "20",
+      "tags": [],
+      "authors": ["Aleksander Hurko"]
+    },
+    {
+      "title": "Cryo Hops",
+      "section": "Temat numeru",
+      "page": "23",
+      "tags": [],
+      "authors": ["Kacper Kulpa"]
+    },
+    {
+      "title": "Rodzaje kranów do piwa",
+      "section": "Technologia",
+      "page": "26",
+      "tags": [],
+      "authors": ["Krzysztof Toczyski"]
+    },
+    {
+      "title": "Nowy rozlew w browarze Jan Olbracht",
+      "section": "Artykuł sponsorowany",
+      "page": "28",
+      "tags": [],
+      "authors": ["STM sp. z o.o."]
+    },
+    {
+      "title": "Przydomowy chmielnik. Część 2 – pozyskiwanie i sadzenie roślin",
+      "section": "Surowce",
+      "page": "30",
+      "tags": [],
+      "authors": ["Michał Cieślik"]
+    },
+    {
+      "title": "Wybierz sobie piwo. Przewodnik po stylach piwnych ",
+      "section": "Biblioteczka piwowara",
+      "page": "33",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Co to jest kveik? ",
+      "section": "Surowce",
+      "page": "34",
+      "tags": [],
+      "authors": ["Łukasz Kacprzak"]
+    },
+    {
+      "title": "Pierwsza warka: Łukasz Kojro",
+      "section": "Wywiad",
+      "page": "36",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Odtlenianie wody metodą membranową",
+      "section": "Artykuł sponsorowany",
+      "page": "38",
+      "tags": [],
+      "authors": ["JMR Europe p. z o.o."]
+    },
+    {
+      "title": "Czym jest piwo rzemieślnicze?",
+      "section": "Prawo",
+      "page": "40",
+      "tags": [],
+      "authors": ["Dawid Siedlecki"]
+    },
+    {
+      "title": "Ugaś pragnienie designem cz. 5",
+      "section": "Design",
+      "page": "42",
+      "tags": [],
+      "authors": ["Bartosz Łukasiewicz"]
+    },
+    {
+      "title": "India export porter – zapomniany hit eksportowy",
+      "section": "Style piwne",
+      "page": "44",
+      "tags": [],
+      "authors": ["Marcin Chmielarz"]
+    },
+    {
+      "title": "Piwo w Polsce jest tanie, ale już niedługo",
+      "section": "Felieton",
+      "page": "48",
+      "tags": [],
+      "authors": ["Artur Napiórkowski"]
+    }
+  ]
+}
