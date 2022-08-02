@@ -1,0 +1,125 @@
+{
+  "issue": "41",
+  "color": "#F5082D",
+  "articles": [
+    {
+      "title": "Wszystko, co ciekawe, jest jeszcze przed nami",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": ["Paweł Leszczyński"]
+    },
+    {
+      "title": "Przydomowy chmielnik, cz. 3: Pielęgnacja przydomowej uprawy chmielu",
+      "section": "Surowce",
+      "page": "8",
+      "tags": [],
+      "authors": ["Michał Cieślik"]
+    },
+    {
+      "title": "Cold IPA",
+      "section": "Piwo numeru",
+      "page": "12",
+      "tags": [],
+      "authors": ["Paweł Poręba"]
+    },
+    {
+      "title": "Black IPA",
+      "section": "Piwne style",
+      "page": "16",
+      "tags": [],
+      "authors": ["Bartosz Nowak"]
+    },
+    {
+      "title": "Teoretycznie i praktycznie o filtracji zacieru",
+      "section": "Technologia",
+      "page": "20",
+      "tags": [],
+      "authors": ["Dawid Padoł"]
+    },
+    {
+      "title": "Oksydacja piwa",
+      "section": "Technologia",
+      "page": "22",
+      "tags": [],
+      "authors": ["Dorota Chrapek"]
+    },
+    {
+      "title": "Profilowanie wody do produkcji piwa według historycznych parametrów z wybranych miast",
+      "section": "Surowce",
+      "page": "24",
+      "tags": [],
+      "authors": ["Paweł Masłowski"]
+    },
+    {
+      "title": "Session beers. Brewing for flavor and balance",
+      "section": "Biblioteczka piwowara",
+      "page": "27",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Profile aromatyczne polskich odmian chmielu",
+      "section": "Surowce",
+      "page": "28",
+      "tags": [],
+      "authors": ["Sebastian Makowski"]
+    },
+    {
+      "title": "Czy potrzebujemy ustawy o polskim piwie?",
+      "section": "Prawo",
+      "page": "31",
+      "tags": [],
+      "authors": ["Dawid Siedlecki"]
+    },
+    {
+      "title": "Aj Spindel",
+      "section": "Technologia",
+      "page": "32",
+      "tags": [],
+      "authors": ["Tomasz Schutz"]
+    },
+    {
+      "title": "Piwo w przedwojennych restauracjach w Polsce",
+      "section": "Historia",
+      "page": "35",
+      "tags": [],
+      "authors": ["Bartosz Paluszkiewicz"]
+    },
+    {
+      "title": "Birofilistyka – (nie)piwna pasja. Kolekcjonerstwo okiem socjologa",
+      "section": "Hobby",
+      "page": "37",
+      "tags": [],
+      "authors": ["Filip Jaworski"]
+    },
+    {
+      "title": "Tutaj powstaje para: odgazowywanie termiczne wody zasilającej kocioł parowy",
+      "section": "Artykuł sponsorowany",
+      "page": "40",
+      "tags": [],
+      "authors": [""]
+    },
+    {
+      "title": "Piwo bezglutenowe, czyli czy bać się białek w piwie",
+      "section": "Nauka",
+      "page": "42",
+      "tags": [],
+      "authors": ["Michał Świtalski"]
+    },
+    {
+      "title": "Ciekawostki ze świata drożdży",
+      "section": "Nauka",
+      "page": "45",
+      "tags": [],
+      "authors": ["Magdalena Biesiadecka"]
+    },
+    {
+      "title": "Więcej piwa, mniej alkoholu!",
+      "section": "Felieton",
+      "page": "48",
+      "tags": [],
+      "authors": ["Artur Napiórkowski"]
+    }
+  ]
+}
