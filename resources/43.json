@@ -1,0 +1,132 @@
+{
+  "issue": "43",
+  "color": "#F5082D",
+  "articles": [
+    {
+      "title": "To było kolejne idealne zgranie w czasie i przestrzeni",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": ["Paweł Leszczyński"]
+    },
+    {
+      "title": "Jestem słodownikiem domowym",
+      "section": "Surowce",
+      "page": "7",
+      "tags": [],
+      "authors": ["Daniel Duda"]
+    },
+    {
+      "title": "Porter bałtycki",
+      "section": "Piwo numeru",
+      "page": "10",
+      "tags": [],
+      "authors": ["Paweł Poręba"]
+    },
+    {
+      "title": "Upiecz sobie piwo. Keptinis alus",
+      "section": "Technologia",
+      "page": "14",
+      "tags": [],
+      "authors": ["Łukasz Kacprzak"]
+    },
+    {
+      "title": "Fermentacja i dojrzewanie piwa pod ciśnieniem dwutlenku węgla",
+      "section": "Technologia",
+      "page": "16",
+      "tags": [],
+      "authors": ["Dawid Padoł"]
+    },
+    {
+      "title": "Prawne rozdwojenie jaźni",
+      "section": "Prawo",
+      "page": "19",
+      "tags": [],
+      "authors": ["Dawid Siedlecki"]
+    },
+    {
+      "title": "Browar Górniczo-Hutniczy – między tradycją a innowacją",
+      "section": "Wywiad",
+      "page": "20",
+      "tags": [],
+      "authors": ["Filip Jaworski"]
+    },
+    {
+      "title": "Pierwsza warka: Bartosz Urbaniak",
+      "section": "Wywiad",
+      "page": "23",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Jak smakuje smak? Meandry podstawowych smaków w piwie. Część 3",
+      "section": "Nauka",
+      "page": "26",
+      "tags": [],
+      "authors": ["Przemysław Iwanek"]
+    },
+    {
+      "title": "Rola wody w procesie warzenia piwa. Część 2",
+      "section": "Surowce",
+      "page": "30",
+      "tags": [],
+      "authors": ["Daniel Nowacki"]
+    },
+    {
+      "title": "Sensoryka piwa: Treściwość a wytrawność",
+      "section": "Nauka",
+      "page": "32",
+      "tags": [],
+      "authors": ["Bartosz Markowski"]
+    },
+    {
+      "title": "Piwo funkcjonalne, czyli o tym, czy piwo może być „zdrowsze”",
+      "section": "Nauka",
+      "page": "34",
+      "tags": [],
+      "authors": ["Michał Świtalski"]
+    },
+    {
+      "title": "Jakość, elastyczność,",
+      "section": "pewność procesu",
+      "page": "37",
+      "tags": [],
+      "authors": ["Artykuł sponsorowany"]
+    },
+    {
+      "title": "Beer manager, czyli pubowy dozorca piwa?",
+      "section": "Wyszynk",
+      "page": "38",
+      "tags": [],
+      "authors": ["Marcin Chmielarz"]
+    },
+    {
+      "title": "IPA. Nowe podejście. Naukowy przewodnik po zapachu i smaku chmielu",
+      "section": "Biblioteczka piwowara",
+      "page": "41",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Azot w służbie piwa",
+      "section": "Artykuł sponsorowany",
+      "page": "42",
+      "tags": [],
+      "authors": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 7",
+      "section": "Design",
+      "page": "44",
+      "tags": [],
+      "authors": ["Bartosz Łukasiewicz"]
+    },
+    {
+      "title": "W Polsce jest miejsce na kolejne 300 browarów!",
+      "section": "Felieton",
+      "page": "48",
+      "tags": [],
+      "authors": ["Artur Napiórkowski"]
+    }
+  ]
+}
