@@ -1,0 +1,139 @@
+{
+  "issue": "44",
+  "color": "#E02D30",
+  "articles": [
+    {
+      "title": "A ja nie chcę pasteryzować piwa! ",
+      "section": "Wywiad",
+      "page": "2",
+      "tags": [],
+      "authors": ["Paweł Leszczyński"]
+    },
+    {
+      "title": "Warzenie w browarze rzemieślniczym według domowej receptury",
+      "section": "Technologia",
+      "page": "8",
+      "tags": [],
+      "authors": ["Łukasz Anczyk"]
+    },
+    {
+      "title": "Marcowe",
+      "section": "Piwo numeru",
+      "page": "12",
+      "tags": [],
+      "authors": ["Paweł Poręba"]
+    },
+    {
+      "title": "Brewmaster: Beer Brewing Simulator",
+      "section": "Rozrywka",
+      "page": "15",
+      "tags": [],
+      "authors": ["Kamil Prystapczuk"]
+    },
+    {
+      "title": "Elektroniczny miernik pH",
+      "section": "Technologia",
+      "page": "16",
+      "tags": [],
+      "authors": ["Sebastian Strzeliński"]
+    },
+    {
+      "title": "Wpływ pH wody na jakość brzeczki piwnej i piwa gotowego",
+      "section": "Technologia",
+      "page": "18",
+      "tags": [],
+      "authors": ["Paweł Masłowski"]
+    },
+    {
+      "title": "Produkcja granulatu chmielowego T-90",
+      "section": "Surowce",
+      "page": "20",
+      "tags": [],
+      "authors": ["Dawid Padoł"]
+    },
+    {
+      "title": "Wpływ prawa na etykiety",
+      "section": "Prawo",
+      "page": "21",
+      "tags": [],
+      "authors": ["Dawid Siedlecki"]
+    },
+    {
+      "title": "Klasyka też jest spoko",
+      "section": "Wywiad",
+      "page": "22",
+      "tags": [],
+      "authors": ["Krzysztof Chmiel"]
+    },
+    {
+      "title": "Czeska literatura poświęcona piwowarstwu domowemu i kilka słów o historii czeskiego browarnictwa",
+      "section": "Literatura ",
+      "page": "26",
+      "tags": [],
+      "authors": ["Natálie Raclavská"]
+    },
+    {
+      "title": "Pierwsza warka: Dmytro Kovalenko",
+      "section": "Wywiad",
+      "page": "28",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Bitter, brytyjska duma",
+      "section": "Piwne style",
+      "page": "30",
+      "tags": [],
+      "authors": ["Kacper Mysliński"]
+    },
+    {
+      "title": "Stosowanie azotu to lepszy produkt, pakowanie i wyniki finansowe",
+      "section": "Artykuł sponsorowany",
+      "page": "33",
+      "tags": [],
+      "authors": []
+    },
+    {
+      "title": "Zamknięci w butelce, czyli jak refermentacja wpływa na końcową jakość piwa",
+      "section": "Nauka",
+      "page": "34",
+      "tags": [],
+      "authors": ["Michał Świtalski"]
+    },
+    {
+      "title": "Sympozjum Piwowarów Zawodowych 2022, czyli nowe rozdanie",
+      "section": "Artykuł sponsorowany",
+      "page": "37",
+      "tags": [],
+      "authors": ["Michał Maranda"]
+    },
+    {
+      "title": "Najstarszy czeski traktat piwowarski",
+      "section": "Historia",
+      "page": "38",
+      "tags": [],
+      "authors": ["Maciej Hus"]
+    },
+    {
+      "title": "Strange Tales of ale",
+      "section": "Biblioteczka piwowara",
+      "page": "42",
+      "tags": [],
+      "authors": ["Piotr Kucharski"]
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 8",
+      "section": "Design",
+      "page": "44",
+      "tags": [],
+      "authors": ["Bartosz Łukasiewicz"]
+    },
+    {
+      "title": "Co tam, panie, w Ameryce? ",
+      "section": "Felieton",
+      "page": "48",
+      "tags": [],
+      "authors": ["Artur Napiórkowski"]
+    }
+  ]
+}
