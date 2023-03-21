@@ -3,7 +3,7 @@
   "color": "#E02D30",
   "articles": [
     {
-      "title": "A ja nie chcę pasteryzować piwa! ",
+      "title": "A ja nie chcę pasteryzować piwa!",
       "section": "Wywiad",
       "page": "2",
       "tags": [],
@@ -67,7 +67,7 @@
     },
     {
       "title": "Czeska literatura poświęcona piwowarstwu domowemu i kilka słów o historii czeskiego browarnictwa",
-      "section": "Literatura ",
+      "section": "Literatura",
       "page": "26",
       "tags": [],
       "authors": ["Natálie Raclavská"]
@@ -105,7 +105,7 @@
       "section": "Artykuł sponsorowany",
       "page": "37",
       "tags": [],
-      "authors": ["Michał Maranda"]
+      "authors": ["Michał \"Docent\" Maranda"]
     },
     {
       "title": "Najstarszy czeski traktat piwowarski",
@@ -129,7 +129,7 @@
       "authors": ["Bartosz Łukasiewicz"]
     },
     {
-      "title": "Co tam, panie, w Ameryce? ",
+      "title": "Co tam, panie, w Ameryce?",
       "section": "Felieton",
       "page": "48",
       "tags": [],
