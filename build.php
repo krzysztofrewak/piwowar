@@ -16,6 +16,8 @@ while (true) {
     $number++;
 }
 
+$issuesNumber = $number;
+
 foreach (range($number - 1, 0) as $number) {
     $filename = "./resources/$number.json";
     if (!file_exists($filename)) {
@@ -69,3 +71,10 @@ file_put_contents("./data/articles.json", json_encode($articles, JSON_UNESCAPED_
 file_put_contents("./data/authors.json", json_encode($authors, JSON_UNESCAPED_UNICODE));
 file_put_contents("./data/colors.json", json_encode($colors, JSON_UNESCAPED_UNICODE));
 file_put_contents("./data/tags.json", json_encode($tags, JSON_UNESCAPED_UNICODE));
+
+echo "Content generated." . PHP_EOL;
+echo "| issues   | " . str_pad((string)$issuesNumber, 4) . " |" . PHP_EOL;
+echo "| articles | " . str_pad((string)count($articles), 4) . " |" . PHP_EOL;
+echo "| authors  | " . str_pad((string)count($authors), 4) . " |" . PHP_EOL;
+echo "| colors   | " . str_pad((string)count($colors), 4) . " |" . PHP_EOL;
+echo "| tags     | " . str_pad((string)count($tags), 4) . " |" . PHP_EOL;
