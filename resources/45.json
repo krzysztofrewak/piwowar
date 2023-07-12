@@ -1,0 +1,118 @@
+{
+  "issue": "45",
+  "color": "#E02D30",
+  "articles": [
+    {
+      "title": "Wymyśliłem sobie ten lokal (Marcin Kwil) ",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": "2",
+      "tags": []
+    },
+    {
+      "title": "Prowadzenie browaru to szkoła życia (Michał Przystupa)",
+      "section": "Wywiad",
+      "authors": ["Łukasz Anczyk"],
+      "page": "8",
+      "tags": []
+    },
+    {
+      "title": "Micro IPA",
+      "section": "Piwo numeru",
+      "authors": ["Paweł Poręba"],
+      "page": "12",
+      "tags": []
+    },
+    {
+      "title": "Kwaśnik – podhalańskie piwo owsiane",
+      "section": "Technologia",
+      "authors": ["Piotr Osiński"],
+      "page": "16",
+      "tags": []
+    },
+    {
+      "title": "Wszystko co musisz wiedzieć o Safebrew BR-8",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": "21",
+      "tags": []
+    },
+    {
+      "title": "O piwie krakowskim białym, czyli gdy piwowarstwo spotyka się z archeologią (Sławomir Dryja)",
+      "section": "Wywiad",
+      "authors": ["Filip Jaworski"],
+      "page": "22",
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Jacek Materski",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": "25",
+      "tags": []
+    },
+    {
+      "title": "Szkoły browarnicze. Szkolenie piwowarów w Polsce w latach 1918-2022",
+      "section": "Historia",
+      "authors": ["Grzegorz Brzyszko"],
+      "page": "26",
+      "tags": []
+    },
+    {
+      "title": "Co z tą beczką zrobić?",
+      "section": "Technologia",
+      "authors": ["Grzegorz Zwodziński"],
+      "page": "30",
+      "tags": []
+    },
+    {
+      "title": "Waga identyfikacji wizualnej marki browarów rzemieślniczych",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": "33",
+      "tags": []
+    },
+    {
+      "title": "Pivařka 2. Průvodce domácího sládka",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": "36",
+      "tags": []
+    },
+    {
+      "title": "Czy jakość mikrobiologiczna granulatu chmielowego może być przyczyną hop creepu",
+      "section": "Technologia",
+      "authors": ["Dawid Padoł"],
+      "page": "38",
+      "tags": []
+    },
+    {
+      "title": "Filtrować czy nie",
+      "section": "Technologia",
+      "authors": ["Tomasz Schutz"],
+      "page": "40",
+      "tags": []
+    },
+    {
+      "title": "Przedpłata w podatku akcyzowym",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": "42",
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 9",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": "44",
+      "tags": []
+    },
+    {
+      "title": "„Woda po parówkach” najlepszym piwnym stylem na świecie",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": "48",
+      "tags": []
+    }
+  ]
+}
