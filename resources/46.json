@@ -1,0 +1,125 @@
+{
+  "issue": "46",
+  "color": "#E02D30",
+  "articles": [
+    {
+      "title": "Konserwatywne mogą być tylko koncerny (Jacek Materski)",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 2,
+      "tags": []
+    },
+    {
+      "title": "W kilkanaście browarów po Górnej Frankonii",
+      "section": "Podróże",
+      "authors": ["Marek Kamiński"],
+      "page": 7,
+      "tags": []
+    },
+    {
+      "title": "Foreign extra stout",
+      "section": "Piwo numeru",
+      "authors": ["Paweł Poręba"],
+      "page": 12,
+      "tags": []
+    },
+    {
+      "title": "System CIP w browarze domowym",
+      "section": "Technologia",
+      "authors": ["Sebastian Strzeliński"],
+      "page": 16,
+      "tags": []
+    },
+    {
+      "title": "Kociołek czy garnek",
+      "section": "Technologia",
+      "authors": ["Tomasz Schutz"],
+      "page": 18,
+      "tags": []
+    },
+    {
+      "title": "Diacetyl. Naukowe ujęcie powstawania oraz praktyczne rady eliminacji w gotowym piwie",
+      "section": "Technologia",
+      "authors": ["Paweł Masłowski", "Kamil Tomaszewski"],
+      "page": 20,
+      "tags": []
+    },
+    {
+      "title": "Odkryj nowy wymiar Twojego hazy IPA dzięki drożdżom Fermentis SafAle K-97",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 23,
+      "tags": []
+    },
+    {
+      "title": "Trapiści w ciągłej ewolucji",
+      "section": "Historia",
+      "authors": ["Jan Lichota"],
+      "page": 24,
+      "tags": []
+    },
+    {
+      "title": "BIA HOI znaczy Wietnam",
+      "section": "Podróże",
+      "authors": ["Kacper Myśliński"],
+      "page": 26,
+      "tags": []
+    },
+    {
+      "title": "Charakterystyka surowców piwowarskich używanych w zasypie. Część 1: Słody podstawowe",
+      "section": "Surowce",
+      "authors": ["Dawid Padoł"],
+      "page": 30,
+      "tags": []
+    },
+    {
+      "title": "Piwna miksologia",
+      "section": "Piwne style",
+      "authors": ["Michał Kopik"],
+      "page": 33,
+      "tags": []
+    },
+    {
+      "title": "Brewing Eclectic IPA. Pushing the Boundaries of India Pale Ale",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 34,
+      "tags": []
+    },
+    {
+      "title": "Piwo niskoalkoholowe",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 35,
+      "tags": []
+    },
+    {
+      "title": "Substytuty chmielu, czyli gruit i zioła używane w piwowarstwie",
+      "section": "Surowce",
+      "authors": ["Michał Świtalski"],
+      "page": 36,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Rafał Łopusiński",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 40,
+      "tags": []
+    },
+    {
+      "title": "Jak smakuje smak? Meandry podstawowych smaków w piwie. Część 4: Umami i inne smaki",
+      "section": "Nauka",
+      "authors": ["Przemysław Iwanek"],
+      "page": 42,
+      "tags": []
+    },
+    {
+      "title": "Być może Ty również przyczyniłeś się do zamknięcia Anchora",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 48,
+      "tags": []
+    }
+  ]
+}
