@@ -1,0 +1,90 @@
+{
+  "issue": "47",
+  "color": "#d2a06f",
+  "articles": [
+    {
+      "title": "Dajmy ludziom to, co chcą pić (Marcin Chmielarz)",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 2,
+      "tags": []
+    },
+    {
+      "title": "Servus Zoigl!",
+      "section": "Podróże",
+      "authors": ["Marek Kamiński"],
+      "page": 10,
+      "tags": []
+    },
+    {
+      "title": "Porter na ziemi polskiej",
+      "section": "Piwne style",
+      "authors": ["Marcin Chmielarz"],
+      "page": 18,
+      "tags": []
+    },
+    {
+      "title": "Piwna nekromacja, czyli o wskrzeszaniu piwa świdnickiego",
+      "section": "Piwne style",
+      "authors": ["Gniewomir Drewnicki"],
+      "page": 22,
+      "tags": []
+    },
+    {
+      "title": "Odkryj nowy wymiar Twojego hazy IPA dzięki drożdżom Fermentis SafAle K-97",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 27,
+      "tags": []
+    },
+    {
+      "title": "Jak powstała 'Kra na Bałtyku' czyli wymrażanie piwa to nie lot w kosmos",
+      "section": "Wywiad",
+      "authors": ["Łukasz Sujka"],
+      "page": 28,
+      "tags": []
+    },
+    {
+      "title": "Porter Bałtycki - receptury",
+      "section": "Piwne style",
+      "authors": [],
+      "page": 31,
+      "tags": []
+    },
+    {
+      "title": "Piwna miksologia – Porter Bałtycki",
+      "section": "Piwne style",
+      "authors": ["Michał Kopik"],
+      "page": 34,
+      "tags": []
+    },
+    {
+      "title": "Porter angielski czyli ciemne złoto Londynu",
+      "section": "Piwne style",
+      "authors": ["Kacper Myśliński"],
+      "page": 36,
+      "tags": []
+    },
+    {
+      "title": "Reklama piwa – aspekty prawne",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 40,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 10",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 42,
+      "tags": []
+    },
+    {
+      "title": "Porter polski",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 48,
+      "tags": []
+    }
+  ]
+}
