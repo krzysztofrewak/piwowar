@@ -35,10 +35,30 @@
 	                <div class="form">
 		                <div class="label">Przeszukaj sekcje:</div>
 		                <label class="ui fluid icon input">
-			                <input type="text" placeholder="Przeszukaj..." v-model="searchedSection">
-			                <i class="search icon" v-if="!searchedSection"></i>
-			                <i class="link close icon" v-else @click="searchedSection = ''"></i>
+			                <input type="text" placeholder="Przeszukaj..." v-model="searchedSectionName">
+			                <i class="search icon" v-if="!searchedSectionName"></i>
+			                <i class="link close icon" v-else @click="searchedSectionName = ''"></i>
 		                </label>
+                    <div class="ui middle aligned divided list">
+                      <div class="clickable item" v-for="section in filteredSections" @click="filterSection(section.name)">
+                        <div class="right floated content">
+                          {{ section.articles }}
+                        </div>
+                        <i class="times circle outline icon" v-if="sectionFilter && sectionFilter === section.name"></i>
+                        <div class="content">
+                          {{ section.name }}
+                        </div>
+                      </div>
+                      <div class="clickable text centered item" @click="showMoreSections = !showMoreSections" v-if="showMoreSectionsMenu">
+                        <i class="caret down icon" :class="{ up: showMoreSections }"></i>
+                        <div class="content" v-if="!showMoreSections">
+                          pokaż więcej
+                        </div>
+                        <div class="content" v-else>
+                          schowaj
+                        </div>
+                      </div>
+                    </div>
 	                </div>
 
 	                <div class="form">
@@ -116,7 +136,7 @@
 							<td class="collapsing" :style="getBackgroundLabel(article.color)"></td>
 							<td class="collapsing">{{ article.issue }}</td>
 							<td>{{ article.title }}</td>
-							<td class="clickable" @click="searchedSection = article.section">{{ article.section }}</td>
+							<td class="clickable" @click="searchedSectionName = article.section">{{ article.section }}</td>
 							<td>
 								<div class="clickable" v-for="author in article.authors" @click="filterAuthor(author)">{{ author }}</div>
 							</td>

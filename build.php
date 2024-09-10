@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 $articles = [];
 $authors = [];
+$sections = [];
 $colors = [];
 $tags = [];
 
@@ -38,6 +39,10 @@ foreach (range($number - 1, 0) as $number) {
             }
         }
 
+        if ($article["section"]) {
+            $sections[$article["section"]] = isset($sections[$article["section"]]) ? $sections[$article["section"]] + 1 : 1;
+        }
+
         $colors[$issue["color"]] = true;
 
         $article["issue"] = $issue["issue"];
@@ -56,6 +61,15 @@ foreach ($authors as $author => &$value) {
 }
 $authors = array_values($authors);
 
+arsort($sections);
+foreach ($sections as $section => &$value) {
+    $value = [
+        "name" => $section,
+        "articles" => $value,
+    ];
+}
+$sections = array_values($sections);
+
 arsort($tags);
 foreach ($tags as $tag => &$value) {
     $value = [
@@ -69,12 +83,14 @@ $colors = array_keys($colors);
 
 file_put_contents("./data/articles.json", json_encode($articles, JSON_UNESCAPED_UNICODE));
 file_put_contents("./data/authors.json", json_encode($authors, JSON_UNESCAPED_UNICODE));
+file_put_contents("./data/sections.json", json_encode($sections, JSON_UNESCAPED_UNICODE));
 file_put_contents("./data/colors.json", json_encode($colors, JSON_UNESCAPED_UNICODE));
 file_put_contents("./data/tags.json", json_encode($tags, JSON_UNESCAPED_UNICODE));
 
 echo "Content generated." . PHP_EOL;
-echo "| issues   | " . str_pad((string)$issuesNumber, 4) . " |" . PHP_EOL;
-echo "| articles | " . str_pad((string)count($articles), 4) . " |" . PHP_EOL;
-echo "| authors  | " . str_pad((string)count($authors), 4) . " |" . PHP_EOL;
-echo "| colors   | " . str_pad((string)count($colors), 4) . " |" . PHP_EOL;
-echo "| tags     | " . str_pad((string)count($tags), 4) . " |" . PHP_EOL;
+echo "| issues    | " . str_pad((string)$issuesNumber, 4) . " |" . PHP_EOL;
+echo "| articles  | " . str_pad((string)count($articles), 4) . " |" . PHP_EOL;
+echo "| authors   | " . str_pad((string)count($authors), 4) . " |" . PHP_EOL;
+echo "| sections  | " . str_pad((string)count($sections), 4) . " |" . PHP_EOL;
+echo "| colors    | " . str_pad((string)count($colors), 4) . " |" . PHP_EOL;
+echo "| tags      | " . str_pad((string)count($tags), 4) . " |" . PHP_EOL;

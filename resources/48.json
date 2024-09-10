@@ -1,0 +1,118 @@
+{
+  "issue": "48",
+  "color": "#98201D",
+  "articles": [
+    {
+      "title": "Sekretne życie drożdży (Filip Paprocki)",
+      "section": "Wywiad numeru",
+      "authors": ["Paweł Leszczyński"],
+      "page": 2,
+      "tags": []
+    },
+    {
+      "title": "Kellerbier",
+      "section": "Piwo numeru",
+      "authors": ["Paweł Poręba"],
+      "page": 5,
+      "tags": []
+    },
+    {
+      "title": "Tiole w piwie",
+      "section": "Temat numeru",
+      "authors": ["Dorota Chrapek"],
+      "page": 8,
+      "tags": []
+    },
+    {
+      "title": "Biofilmy bakteryjne w browarze",
+      "section": "Sympozjum Piwowarów",
+      "authors": ["Marcin Chmielarz"],
+      "page": 12,
+      "tags": []
+    },
+    {
+      "title": "Biznes bez ryzyka nie istnieje. Jak minimalizować potencjalne problemy w małym i średnim browarze rzemieślniczym",
+      "section": "Rynek piwny",
+      "authors": ["Krzysztof Pronobis"],
+      "page": 16,
+      "tags": []
+    },
+    {
+      "title": "Fermentacja piwa pod podwyższonym ciśnieniem – o co tyle hałasu?",
+      "section": "Technologia",
+      "authors": ["Kacper Myśliński"],
+      "page": 18,
+      "tags": []
+    },
+    {
+      "title": "Charakterystyka surowców piwowarskich używanych w zasypie. Część 2: Słody specjalne",
+      "section": "Surowce",
+      "authors": ["Dawid Padoł"],
+      "page": 21,
+      "tags": []
+    },
+    {
+      "title": "Co dodają do piwa naukowcy czyli o surowcach roślinnych i piwie we współczesnych badaniach",
+      "section": "Surowce",
+      "authors": ["Michał Świtalski"],
+      "page": 24,
+      "tags": []
+    },
+    {
+      "title": "Polski pils – studium przypadku",
+      "section": "Piwne style",
+      "authors": ["Bartosz Nowak"],
+      "page": 27,
+      "tags": []
+    },
+    {
+      "title": "The Meanings of Craft Beer",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 31,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Bartosz Packo",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 33,
+      "tags": []
+    },
+    {
+      "title": "Anch uedża seneb! Egipski heqet i jego współczesna forma",
+      "section": "Historia",
+      "authors": ["Gniewomir Drewnicki"],
+      "page": 37,
+      "tags": []
+    },
+    {
+      "title": "System kaucyjny wyzwaniem dla browarów",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 39,
+      "tags": []
+    },
+    {
+      "title": "Liczenie komórek drożdży za pomocą mikroskopu",
+      "section": "Nauka",
+      "authors": ["Klemens Słodyczka"],
+      "page": 41,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem część 11",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 43,
+      "tags": []
+    },
+    {
+      "title": "„Nie ma żadnych zaległości! […] Jak sąd zasądza to płacimy”",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 48,
+      "tags": []
+    }
+  ]
+}

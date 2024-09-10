@@ -1,0 +1,97 @@
+{
+  "issue": "49",
+  "color": "#d1ab67",
+  "articles": [
+    {
+      "title": "Mam pewność że się uda bo przecież już raz to zrobiłem (Łukasz Jajecznica)",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 2,
+      "tags": []
+    },
+    {
+      "title": "Piwowarstwo – hobby łatwe dla nowicjusza trudne dla weterana",
+      "section": "Piwowarstwo domowe",
+      "authors": ["Dawid Padoł", "Klemens Słodyczka"],
+      "page": 8,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Dariusz Doroszkiewicz",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 12,
+      "tags": []
+    },
+    {
+      "title": "Pięć rzeczy, które podniosą jakość Twojego piwa",
+      "section": "Technologia",
+      "authors": ["Kamil Tomaszewski"],
+      "page": 14,
+      "tags": []
+    },
+    {
+      "title": "Kentucky common",
+      "section": "Piwne style",
+      "authors": ["Paweł Poręba"],
+      "page": 18,
+      "tags": []
+    },
+    {
+      "title": "Pasteryzator tunelowy",
+      "section": "Technologia",
+      "authors": ["Mateusz Krata"],
+      "page": 22,
+      "tags": []
+    },
+    {
+      "title": "Owoce, soki i pulpy, czyli o kolejnych dodatkach do piwa we współczesnych badaniach naukowych",
+      "section": "Piwne style",
+      "authors": ["Michał Świtalski"],
+      "page": 24,
+      "tags": []
+    },
+    {
+      "title": "Jakość nie jest dziełem przypadku. Jak wygląda produkcja szkła do piwa w Rastalu",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 30,
+      "tags": []
+    },
+    {
+      "title": "American Sour Beers. Innovative Techniques for Mixed Fermentations",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 32,
+      "tags": []
+    },
+    {
+      "title": "Alergeny i piwa bezglutenowe",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 35,
+      "tags": []
+    },
+    {
+      "title": "Farmhouse'y Północy",
+      "section": "Surowce",
+      "authors": ["Dorota Chrapek"],
+      "page": 38,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 12",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 43,
+      "tags": []
+    },
+    {
+      "title": "Do garów!",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 48,
+      "tags": []
+    }
+  ]
+}
