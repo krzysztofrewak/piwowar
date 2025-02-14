@@ -51,26 +51,26 @@ new Vue({
 		},
 	},
 	mounted() {
-		fetch("./data/articles.json").then(response => response.json()).then(articles => {
+		fetch("./data/articles.json?" + Date.now()).then(response => response.json()).then(articles => {
 			for(let article of articles) {
 				this.articles.push(article)
 			}
 			this.loading = false
 		})
-		fetch("./data/authors.json").then(response => response.json()).then(authors => {
+		fetch("./data/authors.json?" + Date.now()).then(response => response.json()).then(authors => {
 			for(let author of authors) {
 				this.authors.push(author)
 			}
 		})
-		fetch("./data/sections.json").then(response => response.json()).then(sections => {
+		fetch("./data/sections.json?" + Date.now()).then(response => response.json()).then(sections => {
 			for(let section of sections) {
 				this.sections.push(section)
 			}
 		})
-		fetch("./data/colors.json").then(response => response.json()).then(colors => {
+		fetch("./data/colors.json?" + Date.now()).then(response => response.json()).then(colors => {
 			this.background = colors[Math.floor(Math.random() * colors.length)]
 		})
-		fetch("./data/tags.json").then(response => response.json()).then(tags => {
+		fetch("./data/tags.json?" + Date.now()).then(response => response.json()).then(tags => {
 			for(let tag of tags) {
 				this.tags.push(tag)
 			}
