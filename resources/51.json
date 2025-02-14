@@ -1,0 +1,132 @@
+{
+  "issue": "51",
+  "color": "#cfab65",
+  "articles": [
+    {
+      "title": "I nagle okazuje się, że można zrobić wszystko",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 2,
+      "tags": []
+    },
+    {
+      "title": "Slowburn przenosi się do więzienia",
+      "section": "Ze świata",
+      "authors": ["Kasper Mundt-Nielsen", "Piotr Kucharski"],
+      "page": 10,
+      "tags": []
+    },
+    {
+      "title": "Barley wine – charakterystyka stylu",
+      "section": "Styl numeru",
+      "authors": ["Dorota Chrapek"],
+      "page": 14,
+      "tags": []
+    },
+    {
+      "title": "Barley wine – jak degustować i czego oczekiwać",
+      "section": "Styl numeru",
+      "authors": ["Bartosz Markowski"],
+      "page": 18,
+      "tags": []
+    },
+    {
+      "title": "Barley wine – piwo numer jeden",
+      "section": "Styl numeru",
+      "authors": ["Marcin Stefaniak"],
+      "page": 20,
+      "tags": []
+    },
+    {
+      "title": "Barley wine – receptury",
+      "section": "Styl numeru",
+      "authors": [],
+      "page": 22,
+      "tags": []
+    },
+    {
+      "title": "Piwowarstwo – hobby łatwe dla nowicjusza, trudne dla weterana. Część 3",
+      "section": "Piwowarstwo domowe",
+      "authors": ["Dawid Padoł", "Klemens Słodyczka"],
+      "page": 26,
+      "tags": []
+    },
+    {
+      "title": "Od amfory do teku. Krótka historia naczyń do piwa",
+      "section": "Historia",
+      "authors": ["Gniewomir Drewnicki"],
+      "page": 30,
+      "tags": []
+    },
+    {
+      "title": "Barley wine – aspekty prawne",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 34,
+      "tags": []
+    },
+    {
+      "title": "Weisse!",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 36,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Jonas Miezys",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 38,
+      "tags": []
+    },
+    {
+      "title": "Italian grape ale. Historia, definicja, podejście",
+      "section": "Sympozjum piwowarów",
+      "authors": ["Luca Giaccone", "Piotr Kucharski"],
+      "page": 42,
+      "tags": []
+    },
+    {
+      "title": "Nowa linia rozlewnicza STM dla Browaru Tarnobrzeg",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 46,
+      "tags": []
+    },
+    {
+      "title": "O tlenie i starzeniu piwa – część 1",
+      "section": "Technologia",
+      "authors": ["Mateusz Koczwara"],
+      "page": 48,
+      "tags": []
+    },
+    {
+      "title": "Kegowanie piwa",
+      "section": "Technologia",
+      "authors": ["Sebastian Strzeliński"],
+      "page": 52,
+      "tags": []
+    },
+    {
+      "title": "Piwna miksologia",
+      "section": "Piwne style",
+      "authors": ["Michał Kopik"],
+      "page": 54,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 13",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 55,
+      "tags": []
+    },
+    {
+      "title": "Alkotuba propagandowa",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 60,
+      "tags": []
+    }
+  ]
+}
