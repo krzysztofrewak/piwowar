@@ -1,0 +1,160 @@
+{
+  "issue": "53",
+  "color": "#000000",
+  "articles": [
+    {
+      "title": "To nadal hobby, choć na pełen etat",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 5,
+      "tags": []
+    },
+    {
+      "title": "Wybór drożdży Fermentis do piw pszenicznych",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 10,
+      "tags": []
+    },
+    {
+      "title": "Kraftowe lagery – jak rzemieślnicze browary redefiniują klasykę",
+      "section": "Styl numeru",
+      "authors": ["Daniel Huras"],
+      "page": 12,
+      "tags": []
+    },
+    {
+      "title": "Pils – historia prawdziwa",
+      "section": "Styl numeru",
+      "authors": ["Marcin Chmielarz"],
+      "page": 16,
+      "tags": []
+    },
+    {
+      "title": "Jak uwarzyć Kraft Roku",
+      "section": "Styl numeru",
+      "authors": ["Jakub Rosiek", "Piotr Sosin"],
+      "page": 20,
+      "tags": []
+    },
+    {
+      "title": "Piwne rekomendacje – PSBR i Piwowar polecają",
+      "section": "Piwowar poleca",
+      "authors": [],
+      "page": 28,
+      "tags": []
+    },
+    {
+      "title": "Augustiner Lagerbier Hell",
+      "section": "Piwa kultowe",
+      "authors": ["Marek Kamiński"],
+      "page": 30,
+      "tags": []
+    },
+    {
+      "title": "Słowenia – szlakiem piwa I tysiąca krajobrazów",
+      "section": "Podróże",
+      "authors": ["Kacper Groń"],
+      "page": 34,
+      "tags": []
+    },
+    {
+      "title": "SOS, toniemy, czyli gdzie jest (być może) „kraft pogrzebany”",
+      "section": "Lifestyle",
+      "authors": ["Michał Stemplowski"],
+      "page": 38,
+      "tags": []
+    },
+    {
+      "title": "Jakiego urządzenia potrzebujesz do serwowania piwa z kranu?",
+      "section": "Technologia",
+      "authors": ["Kazimierz Tywusik"],
+      "page": 42,
+      "tags": []
+    },
+    {
+      "title": "Azot w służbie piwa – technologia, która łączy smak, jakość I trwałość",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 47,
+      "tags": []
+    },
+    {
+      "title": "Pułapka obniżonej akcyzy",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 48,
+      "tags": []
+    },
+    {
+      "title": "Piwo smakowe, ale jakie?",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 52,
+      "tags": []
+    },
+    {
+      "title": "O tlenie i starzeniu piwa – część 3: środki przeciwutleniające",
+      "section": "Nauka",
+      "authors": ["Mateusz Koczwara"],
+      "page": 54,
+      "tags": []
+    },
+    {
+      "title": "STM Group oficjalnym przedstawicielem firmy Pontum",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 58,
+      "tags": []
+    },
+    {
+      "title": "Piwowarstwo – hobby łatwe dla nowicjusza, trudne dla weterana, cz. 5 (Fermentacja)",
+      "section": "Piwowarstwo domowe",
+      "authors": ["Dawid Padoł", "Klemens Słodyczka"],
+      "page": 59,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Bartosz Nowak",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 64,
+      "tags": []
+    },
+    {
+      "title": "Historic German and Austrian Beers for the Home Brewer",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 68,
+      "tags": []
+    },
+    {
+      "title": "Współpraca browaru z agencja marketingową",
+      "section": "Marketing",
+      "authors": ["Tomasz Prośniak"],
+      "page": 70,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 15",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 78,
+      "tags": []
+    },
+    {
+      "title": "Dylemta Adama, czyli co robią kobiety w reklamach piwa",
+      "section": "Felieton",
+      "authors": ["Kamila Iga Burniewicz"],
+      "page": 84,
+      "tags": []
+    },
+    {
+      "title": "Koncerny znowu chcą o Ciebie zadbać",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 86,
+      "tags": []
+    }
+  ]
+}

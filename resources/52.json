@@ -1,0 +1,174 @@
+{
+  "issue": "52",
+  "color": "#000000",
+  "articles": [
+    {
+      "title": "Nie przetrwamy walcząc o ten 1-2 proc. Rynku – to szaleństwo!",
+      "section": "Wywiad",
+      "authors": ["Paweł Leszczyński"],
+      "page": 5,
+      "tags": []
+    },
+    {
+      "title": "Style historyczne, czyli co zostało nam z dawnego piwowarstwa",
+      "section": "Styl numeru",
+      "authors": ["Łukasz Anczyk"],
+      "page": 10,
+      "tags": []
+    },
+    {
+      "title": "Alba cerevisia – biała karta piwnej historii?",
+      "section": "Styl numeru",
+      "authors": ["Magdalena Bergmann"],
+      "page": 12,
+      "tags": []
+    },
+    {
+      "title": "Kalja",
+      "section": "Krótka historia jednego stylu",
+      "authors": ["Norbert Kurkiewicz"],
+      "page": 16,
+      "tags": []
+    },
+    {
+      "title": "Jak nie skopać skopa?",
+      "section": "Styl numeru",
+      "authors": ["Gniewomir Drewnicki"],
+      "page": 17,
+      "tags": []
+    },
+    {
+      "title": "Psiwo, kozica, jałowiec czy perła Kurpi?",
+      "section": "Styl numeru",
+      "authors": ["Emil Strzeszewski"],
+      "page": 20,
+      "tags": []
+    },
+    {
+      "title": "Wybierz właściwie – Fermentis SafSour do tworzenia piw kwaśnych",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 24,
+      "tags": []
+    },
+    {
+      "title": "Na Jedwabnym Szlaku – piwo w Uzbekistanie i Tadżykistanie",
+      "section": "Podróże",
+      "authors": ["Kacepr Groń"],
+      "page": 26,
+      "tags": []
+    },
+    {
+      "title": "Piwo i odchudzanie – czy to w ogóle możliwe?",
+      "section": "Lifestyle",
+      "authors": ["Michał Stemplowski"],
+      "page": 32,
+      "tags": []
+    },
+    {
+      "title": "Odgazowanie wody – nowoczesne rozwiązania dla browarów rzemieślniczych",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 37,
+      "tags": []
+    },
+    {
+      "title": "Ona temu winna",
+      "section": "Kulinaria",
+      "authors": ["Gniewomir Drewnicki"],
+      "page": 38,
+      "tags": []
+    },
+    {
+      "title": "Co w DNA drożdży piszczy? GMO, hybrydyzacje, nowe możliwości i perspektywy",
+      "section": "Sympozjum piwowarów",
+      "authors": ["Marcin Chmielarz"],
+      "page": 40,
+      "tags": []
+    },
+    {
+      "title": "Jak biofilm wpływa na jakość wyszynku? Analiza techniczna instalacji wykorzystujących schładzarki wodne",
+      "section": "Technologia",
+      "authors": ["Roland Schlamberger"],
+      "page": 46,
+      "tags": []
+    },
+    {
+      "title": "Piwne rekomendacje – PSBR i Piwowar polecają",
+      "section": "Piwowar poleca",
+      "authors": [],
+      "page": 50,
+      "tags": []
+    },
+    {
+      "title": "Piwa tradycyjne i naturalne – wyzwania prawne przy nazewnictwie piw",
+      "section": "Prawo",
+      "authors": ["Dawid Siedlecki"],
+      "page": 52,
+      "tags": []
+    },
+    {
+      "title": "O tlenie i starzeniu piwa – część 2: przeciwdziałanie utlenianiu",
+      "section": "Nauka",
+      "authors": ["Mateusz Koczwara"],
+      "page": 54,
+      "tags": []
+    },
+    {
+      "title": "Podróż do źródeł słodu i drożdży",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 60,
+      "tags": []
+    },
+    {
+      "title": "Piwowarstwo – hobby łatwe dla nowicjusza, trudne dla weterana, cz. 4 (Gotowanie brzeczki)",
+      "section": "Piwowarstwo domowe",
+      "authors": ["Dawid Padoł", "Klemens Słodyczka"],
+      "page": 62,
+      "tags": []
+    },
+    {
+      "title": "Pierwsza warka: Kuba Rosiek",
+      "section": "Wywiad",
+      "authors": ["Piotr Kucharski"],
+      "page": 66,
+      "tags": []
+    },
+    {
+      "title": "Jak zostać blogerem piwnym",
+      "section": "Marketing",
+      "authors": ["Tomasz Prośniak"],
+      "page": 70,
+      "tags": []
+    },
+    {
+      "title": "Jak piwa owocowe to tylko z koncentratem",
+      "section": "Artykuł sponsorowany",
+      "authors": [],
+      "page": 76,
+      "tags": []
+    },
+    {
+      "title": "Ugaś pragnienie designem, część 14",
+      "section": "Design",
+      "authors": ["Bartosz Łukasiewicz"],
+      "page": 78,
+      "tags": []
+    },
+    {
+      "title": "Ancient Brews",
+      "section": "Biblioteczka piwowara",
+      "authors": ["Piotr Kucharski"],
+      "page": 84,
+      "tags": []
+    },
+    {
+      "title": "Jak zdobywać medale?",
+      "section": "Felieton",
+      "authors": ["Artur Napiórkowski"],
+      "page": 87,
+      "tags": []
+    }
+  ]
+}

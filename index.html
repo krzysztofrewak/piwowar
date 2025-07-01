@@ -138,7 +138,9 @@
 							<td>{{ article.title }}</td>
 							<td class="clickable" @click="searchedSectionName = article.section">{{ article.section }}</td>
 							<td>
-								<div class="clickable" v-for="author in article.authors" @click="filterAuthor(author)">{{ author }}</div>
+								<div class="clickable" v-for="(author, i) in article.authors" @click="filterAuthor(author)">
+                  {{ author }}<span v-if="article.authors.length > 1 && i === 0">,</span>
+                </div>
 							</td>
 							<td>{{ article.page }}</td>
 						</tr>
